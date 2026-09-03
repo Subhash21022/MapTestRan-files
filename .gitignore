@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# QGIS backup files
+*.qgz~
+*.qgs~
+
+# OS generated files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+[Nn]et[Hh]ood
+[Tt]rash-*
+~$*
+
+# Raw data and interim data
+**/data/raw/**
+**/data/interim/**
+!**/data/raw/**/.gitkeep
+!**/data/**/README.md
+
+# Large raster outputs
+**/data/processed/*.tif
+**/data/processed/*.img
+
+# Logs
+logs/
+*.log
+
+# Git backup
+**/.git_backup/

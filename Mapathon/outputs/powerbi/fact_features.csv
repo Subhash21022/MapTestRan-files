@@ -1,0 +1,2011 @@
+﻿station_id,name,feature,value,dimension
+MAA000,Chennai International Airport,population,12977.482585619204,Density
+MAA001,Meenambakkam,population,10581.195499813184,Density
+MAA002,St. Thomas Mount,population,46630.23624753952,Density
+MAA003,Nanganallur Road,population,21940.877880088054,Density
+MAA004,Arignar Anna Alandur,population,44702.30560741946,Density
+MAA005,Ekkattuthangal,population,81427.14446103573,Density
+MAA006,Ashok Nagar,population,63864.96164703369,Density
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,population,51142.12698242068,Density
+MAA008,Koyambedu,population,43575.79091772437,Density
+MAA009,Anna Nagar Tower,population,71174.26441192627,Density
+MAA010,Thirumangalam,population,64030.96111297608,Density
+MAA011,Guindy,population,48651.25823492929,Density
+MAA012,Little Mount,population,59513.747018516064,Density
+MAA013,Saidapet,population,54300.62207790837,Density
+MAA014,Nandanam,population,80174.8519359827,Density
+MAA015,Teynampet,population,102718.69354248048,Density
+MAA016,AG – DMS,population,92481.70201051237,Density
+MAA017,Vadapalani,population,85460.5411529541,Density
+MAA018,Thousand Lights,population,86627.3349571228,Density
+MAA019,Arumbakkam,population,64799.26414936781,Density
+MAA020,Pachaiyappa's College,population,70036.30714654922,Density
+MAA021,Kilpauk,population,81840.02479171753,Density
+MAA022,Nehru Park,population,77290.18137264252,Density
+MAA023,Shenoy Nagar,population,67172.38536152244,Density
+MAA024,Anna Nagar East,population,64516.57073020935,Density
+MAA025,LIC,population,89377.32365036011,Density
+MAA026,Government Estate,population,74210.36616053432,Density
+MAA027,Egmore,population,68718.74935388565,Density
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,population,64304.36279058456,Density
+MAA029,High Court,population,75007.34068369865,Density
+MAA030,Mannadi,population,91723.73756408691,Density
+MAA031,Washermanpet,population,53560.79716071487,Density
+MAA032,Sir Theagaraya College,population,61039.65581512451,Density
+MAA033,Tondiarpet,population,62020.34671783447,Density
+MAA034,New Washermanpet,population,46366.96077534557,Density
+MAA035,Tollgate,population,34703.520378023386,Density
+MAA036,Kaladipet,population,43140.06767130457,Density
+MAA037,Tiruvottriyur Theradi,population,45511.51930982806,Density
+MAA038,Tiruvottriyur,population,33284.76943393052,Density
+MAA039,Wimco Nagar,population,25060.747873272747,Density
+MAA040,Adambakkam,population,52808.56857299805,Density
+MAA041,Alwarpet,population,76749.49401855469,Density
+MAA042,Bharathidasan Road,population,78042.76831054688,Density
+MAA043,Boat Club,population,73229.86198174953,Density
+MAA044,Karayanchavadi,population,34959.796113967896,Density
+MAA045,Kodambakkam,population,79537.39579772949,Density
+MAA046,Kumananchavadi,population,21539.608627557755,Density
+MAA047,Kutchery Road,population,65620.19251406193,Density
+MAA048,Lighthouse,population,23873.29382494092,Density
+MAA049,Madhavaram Depot,population,14752.080395635216,Density
+MAA050,Madhavaram Milk Colony,population,27551.973444491625,Density
+MAA051,Panagal Park,population,93739.1565322876,Density
+MAA052,Poonamallee Bypass,population,36993.64723885059,Density
+MAA053,Porur Bypass,population,15617.011014348827,Density
+MAA054,Porur Junction,population,22708.02082937584,Density
+MAA055,Royapettah,population,73324.21510887146,Density
+MAA056,Sholinganallur,population,23006.04018291086,Density
+MAA057,Thelliyaragaram,population,14946.824965295382,Density
+MAA058,Thirumayilai,population,69939.09336090088,Density
+MAA059,Kattupkkam,population,21132.152923107147,Density
+MAA060,Iyyapanthangal,population,19551.47779995203,Density
+MAA061,Adyar Depot,population,73344.92837905884,Density
+MAA062,Alwarthirunagar,population,62980.25155878067,Density
+MAA063,Anna Flyover,population,89881.12268006802,Density
+MAA064,Anna Nagar KV,population,63693.23325347901,Density
+MAA065,Anna Nagar West,population,64866.558670043945,Density
+MAA066,Assisi Nagar,population,20086.930006366223,Density
+MAA067,Ayanavaram,population,56106.00499463081,Density
+MAA068,Butt Road,population,46710.16737563163,Density
+MAA069,Chennai Trade Centre,population,15509.695708934218,Density
+MAA070,Chetpet,population,78222.35447120667,Density
+MAA071,Classical Tamil Institute,population,3916.3027620436624,Density
+MAA072,Dr. Radhakrishnan Salai,population,83527.61651611328,Density
+MAA073,Elcot,population,8899.176501827314,Density
+MAA074,Gandhi Nagar,population,63164.46937179565,Density
+MAA075,Greenways Road,population,33260.42019806616,Density
+MAA076,Indira Nagar,population,75104.41800308228,Density
+MAA077,Kandanchavadi,population,31973.362337619063,Density
+MAA078,Karambakkam,population,25975.538229916245,Density
+MAA079,Karapakkam,population,26381.969398299232,Density
+MAA080,Kellys,population,84537.49512332678,Density
+MAA081,Kovilambakkam,population,39441.902276575565,Density
+MAA082,Koyambedu Market,population,48564.318452864885,Density
+MAA083,Madhavaram Bus Terminus,population,29485.055965840816,Density
+MAA084,Madhavaram High Road,population,47486.120570898056,Density
+MAA085,Madipakkam,population,61982.62594139576,Density
+MAA086,Manapakkam,population,63975.00895142555,Density
+MAA087,Mandaveli,population,59257.50260043889,Density
+MAA088,Medavakkam I,population,21049.526925116777,Density
+MAA089,Medavakkam II,population,7629.231358787976,Density
+MAA090,Mettukuppam,population,38817.91954994202,Density
+MAA091,Moolakadai,population,46891.46003365517,Density
+MAA092,Mugalivakkam,population,52186.59301145002,Density
+MAA093,Natesan Nagar,population,68442.80254745483,Density
+MAA094,Nehru Nagar,population,12540.888954151422,Density
+MAA095,Nungambakkam,population,82056.92906713486,Density
+MAA096,Okkiyam Thoraipakkam,population,23776.669021660466,Density
+MAA097,Otteri,population,56496.87447524071,Density
+MAA098,PTC Colony,population,41959.65168234706,Density
+MAA099,Pattalam,population,61872.29955613613,Density
+MAA100,Perambur,population,55705.32040596008,Density
+MAA101,Perambur Barracks Road,population,64076.03701651096,Density
+MAA102,Perumbakkam,population,22354.21947960183,Density
+MAA103,Perungudi,population,33687.83004581928,Density
+MAA104,Poonamallee,population,67868.98440551758,Density
+MAA105,Ramapuram,population,63900.66277131438,Density
+MAA106,Retteri Junction,population,24689.5568305552,Density
+MAA107,Saligramam,population,92234.93572998048,Density
+MAA108,Shastri Nagar Chennai,population,67723.69804763794,Density
+MAA109,Siruseri,population,3959.416569069028,Density
+MAA110,Srinivasa Nagar,population,23106.24592527747,Density
+MAA111,Sterling Road,population,82591.36423254013,Density
+MAA112,Taramani,population,72018.38661238551,Density
+MAA113,Thiruvanmiyur,population,57335.70541808009,Density
+MAA114,Thoraipakkam,population,28891.248888343573,Density
+MAA115,Ullagaram,population,47558.57666015625,Density
+MAA116,Valasaravakkam,population,46926.21842071414,Density
+MAA117,Vanuvampet,population,51672.550033569336,Density
+MAA118,Villivakkam,population,56231.10893821716,Density
+MAA119,Villivakkam Bus Terminus,population,58006.13524532318,Density
+MAA120,Villivakkam CTH Road,population,54840.735612005,Density
+MAA121,Virugambakkam,population,64078.53933620453,Density
+MAA122,Adyar Junction,population,54484.3308918681,Density
+MAA123,Alapakkam Junction,population,41457.51093542576,Density
+MAA124,Kolathur Junction,population,32420.73495864868,Density
+MAA125,Nookampalayam Depot,population,8001.883227586746,Density
+MAA126,Perambur Market,population,55705.32040596008,Density
+MAA127,SIPCOT I,population,72227.39025449753,Density
+MAA128,SIPCOT II,population,72227.39025449753,Density
+MAA129,Saligramam Warehouse,population,92234.93572998048,Density
+MAA130,Semmancheri I,population,9534.930085496046,Density
+MAA131,Semmancheri II,population,9534.930085496046,Density
+MAA132,Sholinganallur Lake I,population,21877.228378400207,Density
+MAA133,Sholinganallur Lake II,population,21877.228378400207,Density
+MAA000,Chennai International Airport,population_density,6464.850328681028,Density
+MAA001,Meenambakkam,population_density,5271.118242964037,Density
+MAA002,St. Thomas Mount,population_density,23229.27394758636,Density
+MAA003,Nanganallur Road,population_density,10930.04676668342,Density
+MAA004,Arignar Anna Alandur,population_density,22268.85786147533,Density
+MAA005,Ekkattuthangal,population_density,40563.66850500129,Density
+MAA006,Ashok Nagar,population_density,31814.90828988287,Density
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,population_density,25476.91312628904,Density
+MAA008,Koyambedu,population_density,21707.674379710577,Density
+MAA009,Anna Nagar Tower,population_density,35456.10357335088,Density
+MAA010,Thirumangalam,population_density,31897.60242527302,Density
+MAA011,Guindy,population_density,24236.06433033184,Density
+MAA012,Little Mount,population_density,29647.31136684745,Density
+MAA013,Saidapet,population_density,27050.34602604328,Density
+MAA014,Nandanam,population_density,39939.82765691838,Density
+MAA015,Teynampet,population_density,51170.246257595405,Density
+MAA016,AG – DMS,population_density,46070.59633446733,Density
+MAA017,Vadapalani,population_density,42572.94154832207,Density
+MAA018,Thousand Lights,population_density,43154.190435278135,Density
+MAA019,Arumbakkam,population_density,32280.33953199415,Density
+MAA020,Pachaiyappa's College,population_density,34889.21986901442,Density
+MAA021,Kilpauk,population_density,40769.34857614791,Density
+MAA022,Nehru Park,population_density,38502.802924539865,Density
+MAA023,Shenoy Nagar,population_density,33462.53132822115,Density
+MAA024,Anna Nagar East,population_density,32139.51324833666,Density
+MAA025,LIC,population_density,44524.12217589515,Density
+MAA026,Government Estate,population_density,36968.565120334446,Density
+MAA027,Egmore,population_density,34232.866537560425,Density
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,population_density,32033.799943835504,Density
+MAA029,High Court,population_density,37365.58518751903,Density
+MAA030,Mannadi,population_density,45693.00948984832,Density
+MAA031,Washermanpet,population_density,26681.79555197946,Density
+MAA032,Sir Theagaraya College,population_density,30407.45663540847,Density
+MAA033,Tondiarpet,population_density,30895.99667874049,Density
+MAA034,New Washermanpet,population_density,23098.120889840568,Density
+MAA035,Tollgate,population_density,17287.87256250042,Density
+MAA036,Kaladipet,population_density,21490.614903479607,Density
+MAA037,Tiruvottriyur Theradi,population_density,22671.974986501304,Density
+MAA038,Tiruvottriyur,population_density,16581.108947390727,Density
+MAA039,Wimco Nagar,population_density,12484.238222369337,Density
+MAA040,Adambakkam,population_density,26307.06607725581,Density
+MAA041,Alwarpet,population_density,38233.45462869535,Density
+MAA042,Bharathidasan Road,population_density,38877.71091465064,Density
+MAA043,Boat Club,population_density,36480.118095214624,Density
+MAA044,Karayanchavadi,population_density,17415.53863832238,Density
+MAA045,Kodambakkam,population_density,39622.27311598818,Density
+MAA046,Kumananchavadi,population_density,10730.15085913778,Density
+MAA047,Kutchery Road,population_density,32689.29242199436,Density
+MAA048,Lighthouse,population_density,11892.697247915748,Density
+MAA049,Madhavaram Depot,population_density,7348.882278611883,Density
+MAA050,Madhavaram Milk Colony,population_density,13725.264773293771,Density
+MAA051,Panagal Park,population_density,46697.00867790661,Density
+MAA052,Poonamallee Bypass,population_density,18428.719971946863,Density
+MAA053,Porur Bypass,population_density,7779.755289443218,Density
+MAA054,Porur Junction,population_density,11312.205965520963,Density
+MAA055,Royapettah,population_density,36527.12095889499,Density
+MAA056,Sholinganallur,population_density,11460.667002008056,Density
+MAA057,Thelliyaragaram,population_density,7445.896047412581,Density
+MAA058,Thirumayilai,population_density,34840.791942415046,Density
+MAA059,Kattupkkam,population_density,10527.173114612851,Density
+MAA060,Iyyapanthangal,population_density,9739.74550513248,Density
+MAA061,Adyar Depot,population_density,36537.439461786096,Density
+MAA062,Alwarthirunagar,population_density,31374.18195739925,Density
+MAA063,Anna Flyover,population_density,44775.09421930252,Density
+MAA064,Anna Nagar KV,population_density,31729.360237385685,Density
+MAA065,Anna Nagar West,population_density,32313.86290613404,Density
+MAA066,Assisi Nagar,population_density,10006.48586481254,Density
+MAA067,Ayanavaram,population_density,27949.71385532488,Density
+MAA068,Butt Road,population_density,23269.09236200602,Density
+MAA069,Chennai Trade Centre,population_density,7726.295199406115,Density
+MAA070,Chetpet,population_density,38967.17338490312,Density
+MAA071,Classical Tamil Institute,population_density,1950.9416430632305,Density
+MAA072,Dr. Radhakrishnan Salai,population_density,41610.03765757492,Density
+MAA073,Elcot,population_density,4433.205265602268,Density
+MAA074,Gandhi Nagar,population_density,31465.95172716481,Density
+MAA075,Greenways Road,population_density,16568.97915531108,Density
+MAA076,Indira Nagar,population_density,37413.94513221432,Density
+MAA077,Kandanchavadi,population_density,15927.819640956324,Density
+MAA078,Karambakkam,population_density,12939.949312621497,Density
+MAA079,Karapakkam,population_density,13142.416675237617,Density
+MAA080,Kellys,population_density,42113.11781990215,Density
+MAA081,Kovilambakkam,population_density,19648.34036295169,Density
+MAA082,Koyambedu Market,population_density,24192.75449154405,Density
+MAA083,Madhavaram Bus Terminus,population_density,14688.247315636794,Density
+MAA084,Madhavaram High Road,population_density,23655.640464564687,Density
+MAA085,Madipakkam,population_density,30877.2057327809,Density
+MAA086,Manapakkam,population_density,31869.72934992086,Density
+MAA087,Mandaveli,population_density,29519.66089230437,Density
+MAA088,Medavakkam I,population_density,10486.012226378833,Density
+MAA089,Medavakkam II,population_density,3800.5706062051886,Density
+MAA090,Mettukuppam,population_density,19337.49772388406,Density
+MAA091,Moolakadai,population_density,23359.404939355165,Density
+MAA092,Mugalivakkam,population_density,25997.22332562993,Density
+MAA093,Natesan Nagar,population_density,34095.401140054935,Density
+MAA094,Nehru Nagar,population_density,6247.357262265955,Density
+MAA095,Nungambakkam,population_density,40877.40140280151,Density
+MAA096,Okkiyam Thoraipakkam,population_density,11844.56272821016,Density
+MAA097,Otteri,population_density,28144.42902242457,Density
+MAA098,PTC Colony,population_density,20902.58000196113,Density
+MAA099,Pattalam,population_density,30822.245646084404,Density
+MAA100,Perambur,population_density,27750.109203369047,Density
+MAA101,Perambur Barracks Road,population_density,31920.05739432118,Density
+MAA102,Perumbakkam,population_density,11135.956623070768,Density
+MAA103,Perungudi,population_density,16781.897236803263,Density
+MAA104,Poonamallee,population_density,33809.54844258208,Density
+MAA105,Ramapuram,population_density,31832.693127852606,Density
+MAA106,Retteri Junction,population_density,12299.326047093124,Density
+MAA107,Saligramam,population_density,45947.66747987023,Density
+MAA108,Shastri Nagar Chennai,population_density,33737.17272931919,Density
+MAA109,Siruseri,population_density,1972.4191759884127,Density
+MAA110,Srinivasa Nagar,population_density,11510.585398908268,Density
+MAA111,Sterling Road,population_density,41143.635114304045,Density
+MAA112,Taramani,population_density,35876.61068242095,Density
+MAA113,Thiruvanmiyur,population_density,28562.30024365298,Density
+MAA114,Thoraipakkam,population_density,14392.436949118932,Density
+MAA115,Ullagaram,population_density,23691.73512077905,Density
+MAA116,Valasaravakkam,population_density,23376.72014425104,Density
+MAA117,Vanuvampet,population_density,25741.14816678589,Density
+MAA118,Villivakkam,population_density,28012.0355163618,Density
+MAA119,Villivakkam Bus Terminus,population_density,28896.28092599371,Density
+MAA120,Villivakkam CTH Road,population_density,27319.408468269085,Density
+MAA121,Virugambakkam,population_density,31921.303947509496,Density
+MAA122,Adyar Junction,population_density,27141.862233325664,Density
+MAA123,Alapakkam Junction,population_density,20652.43404712274,Density
+MAA124,Kolathur Junction,population_density,16150.682358515363,Density
+MAA125,Nookampalayam Depot,population_density,3986.210505206631,Density
+MAA126,Perambur Market,population_density,27750.109203369047,Density
+MAA127,SIPCOT I,population_density,35980.727737133915,Density
+MAA128,SIPCOT II,population_density,35980.727737133915,Density
+MAA129,Saligramam Warehouse,population_density,45947.66747987023,Density
+MAA130,Semmancheri I,population_density,4749.911663566957,Density
+MAA131,Semmancheri II,population_density,4749.911663566957,Density
+MAA132,Sholinganallur Lake I,population_density,10898.339191720996,Density
+MAA133,Sholinganallur Lake II,population_density,10898.339191720996,Density
+MAA000,Chennai International Airport,built_volume,2268368.0,Density
+MAA001,Meenambakkam,built_volume,3191713.0,Density
+MAA002,St. Thomas Mount,built_volume,6776843.0,Density
+MAA003,Nanganallur Road,built_volume,3703408.0,Density
+MAA004,Arignar Anna Alandur,built_volume,6241699.0,Density
+MAA005,Ekkattuthangal,built_volume,11357151.0,Density
+MAA006,Ashok Nagar,built_volume,8907644.0,Density
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,built_volume,7133111.0,Density
+MAA008,Koyambedu,built_volume,6077787.0,Density
+MAA009,Anna Nagar Tower,built_volume,9927118.0,Density
+MAA010,Thirumangalam,built_volume,8930797.0,Density
+MAA011,Guindy,built_volume,6785694.0,Density
+MAA012,Little Mount,built_volume,8300753.0,Density
+MAA013,Saidapet,built_volume,7573646.0,Density
+MAA014,Nandanam,built_volume,11182486.0,Density
+MAA015,Teynampet,built_volume,14326816.0,Density
+MAA016,AG – DMS,built_volume,12898999.0,Density
+MAA017,Vadapalani,built_volume,11919714.0,Density
+MAA018,Thousand Lights,built_volume,12082454.0,Density
+MAA019,Arumbakkam,built_volume,9037957.0,Density
+MAA020,Pachaiyappa's College,built_volume,9768400.0,Density
+MAA021,Kilpauk,built_volume,11414738.0,Density
+MAA022,Nehru Park,built_volume,10780143.0,Density
+MAA023,Shenoy Nagar,built_volume,9368951.0,Density
+MAA024,Anna Nagar East,built_volume,8998528.0,Density
+MAA025,LIC,built_volume,12466012.0,Density
+MAA026,Government Estate,built_volume,10350582.0,Density
+MAA027,Egmore,built_volume,9584632.0,Density
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,built_volume,8968930.0,Density
+MAA029,High Court,built_volume,10461741.0,Density
+MAA030,Mannadi,built_volume,12793281.0,Density
+MAA031,Washermanpet,built_volume,7470458.0,Density
+MAA032,Sir Theagaraya College,built_volume,8513581.0,Density
+MAA033,Tondiarpet,built_volume,8652877.0,Density
+MAA034,New Washermanpet,built_volume,6486177.0,Density
+MAA035,Tollgate,built_volume,4866041.0,Density
+MAA036,Kaladipet,built_volume,6049338.0,Density
+MAA037,Tiruvottriyur Theradi,built_volume,6381876.0,Density
+MAA038,Tiruvottriyur,built_volume,5164953.0,Density
+MAA039,Wimco Nagar,built_volume,5684368.0,Density
+MAA040,Adambakkam,built_volume,7375391.0,Density
+MAA041,Alwarpet,built_volume,10704730.0,Density
+MAA042,Bharathidasan Road,built_volume,10885111.0,Density
+MAA043,Boat Club,built_volume,10213825.0,Density
+MAA044,Karayanchavadi,built_volume,6163911.0,Density
+MAA045,Kodambakkam,built_volume,11093576.0,Density
+MAA046,Kumananchavadi,built_volume,6497210.0,Density
+MAA047,Kutchery Road,built_volume,9152457.0,Density
+MAA048,Lighthouse,built_volume,3329757.0,Density
+MAA049,Madhavaram Depot,built_volume,2068618.0,Density
+MAA050,Madhavaram Milk Colony,built_volume,3858967.0,Density
+MAA051,Panagal Park,built_volume,13074384.0,Density
+MAA052,Poonamallee Bypass,built_volume,2092776.0,Density
+MAA053,Porur Bypass,built_volume,4710717.0,Density
+MAA054,Porur Junction,built_volume,6849650.0,Density
+MAA055,Royapettah,built_volume,10226985.0,Density
+MAA056,Sholinganallur,built_volume,7627899.0,Density
+MAA057,Thelliyaragaram,built_volume,4508562.0,Density
+MAA058,Thirumayilai,built_volume,9754841.0,Density
+MAA059,Kattupkkam,built_volume,6374305.0,Density
+MAA060,Iyyapanthangal,built_volume,5897510.0,Density
+MAA061,Adyar Depot,built_volume,10229874.0,Density
+MAA062,Alwarthirunagar,built_volume,8784248.0,Density
+MAA063,Anna Flyover,built_volume,12536280.0,Density
+MAA064,Anna Nagar KV,built_volume,8883692.0,Density
+MAA065,Anna Nagar West,built_volume,9047343.0,Density
+MAA066,Assisi Nagar,built_volume,2816700.0,Density
+MAA067,Ayanavaram,built_volume,7825454.0,Density
+MAA068,Butt Road,built_volume,6514958.0,Density
+MAA069,Chennai Trade Centre,built_volume,2335173.0,Density
+MAA070,Chetpet,built_volume,10910159.0,Density
+MAA071,Classical Tamil Institute,built_volume,1656823.0,Density
+MAA072,Dr. Radhakrishnan Salai,built_volume,11650117.0,Density
+MAA073,Elcot,built_volume,4314812.0,Density
+MAA074,Gandhi Nagar,built_volume,8809942.0,Density
+MAA075,Greenways Road,built_volume,4639038.0,Density
+MAA076,Indira Nagar,built_volume,10475281.0,Density
+MAA077,Kandanchavadi,built_volume,13101405.0,Density
+MAA078,Karambakkam,built_volume,7742135.0,Density
+MAA079,Karapakkam,built_volume,9701876.0,Density
+MAA080,Kellys,built_volume,11790971.0,Density
+MAA081,Kovilambakkam,built_volume,6036629.0,Density
+MAA082,Koyambedu Market,built_volume,6773568.0,Density
+MAA083,Madhavaram Bus Terminus,built_volume,4134557.0,Density
+MAA084,Madhavaram High Road,built_volume,6623185.0,Density
+MAA085,Madipakkam,built_volume,6822816.0,Density
+MAA086,Manapakkam,built_volume,10295682.0,Density
+MAA087,Mandaveli,built_volume,8265013.0,Density
+MAA088,Medavakkam I,built_volume,5945642.0,Density
+MAA089,Medavakkam II,built_volume,3915918.0,Density
+MAA090,Mettukuppam,built_volume,7519480.0,Density
+MAA091,Moolakadai,built_volume,6540244.0,Density
+MAA092,Mugalivakkam,built_volume,9756162.0,Density
+MAA093,Natesan Nagar,built_volume,9546144.0,Density
+MAA094,Nehru Nagar,built_volume,3192045.0,Density
+MAA095,Nungambakkam,built_volume,11444991.0,Density
+MAA096,Okkiyam Thoraipakkam,built_volume,6850732.0,Density
+MAA097,Otteri,built_volume,7879971.0,Density
+MAA098,PTC Colony,built_volume,8544085.0,Density
+MAA099,Pattalam,built_volume,8629715.0,Density
+MAA100,Perambur,built_volume,7769568.0,Density
+MAA101,Perambur Barracks Road,built_volume,8937084.0,Density
+MAA102,Perumbakkam,built_volume,6383303.0,Density
+MAA103,Perungudi,built_volume,13537011.0,Density
+MAA104,Poonamallee,built_volume,9466110.0,Density
+MAA105,Ramapuram,built_volume,10854010.0,Density
+MAA106,Retteri Junction,built_volume,6684850.0,Density
+MAA107,Saligramam,built_volume,12864581.0,Density
+MAA108,Shastri Nagar Chennai,built_volume,9445846.0,Density
+MAA109,Siruseri,built_volume,1015836.0,Density
+MAA110,Srinivasa Nagar,built_volume,7826478.0,Density
+MAA111,Sterling Road,built_volume,11519532.0,Density
+MAA112,Taramani,built_volume,10189258.0,Density
+MAA113,Thiruvanmiyur,built_volume,8552966.0,Density
+MAA114,Thoraipakkam,built_volume,8625036.0,Density
+MAA115,Ullagaram,built_volume,8034665.0,Density
+MAA116,Valasaravakkam,built_volume,8390492.0,Density
+MAA117,Vanuvampet,built_volume,7399399.0,Density
+MAA118,Villivakkam,built_volume,7842903.0,Density
+MAA119,Villivakkam Bus Terminus,built_volume,8090477.0,Density
+MAA120,Villivakkam CTH Road,built_volume,7648979.0,Density
+MAA121,Virugambakkam,built_volume,8937433.0,Density
+MAA122,Adyar Junction,built_volume,7599269.0,Density
+MAA123,Alapakkam Junction,built_volume,8250631.0,Density
+MAA124,Kolathur Junction,built_volume,7369170.0,Density
+MAA125,Nookampalayam Depot,built_volume,2424488.0,Density
+MAA126,Perambur Market,built_volume,7769568.0,Density
+MAA127,SIPCOT I,built_volume,10074004.0,Density
+MAA128,SIPCOT II,built_volume,10074004.0,Density
+MAA129,Saligramam Warehouse,built_volume,12864581.0,Density
+MAA130,Semmancheri I,built_volume,3078658.0,Density
+MAA131,Semmancheri II,built_volume,3078658.0,Density
+MAA132,Sholinganallur Lake I,built_volume,7340224.0,Density
+MAA133,Sholinganallur Lake II,built_volume,7340224.0,Density
+MAA000,Chennai International Airport,core_share,0.3482599624160078,Density
+MAA001,Meenambakkam,core_share,0.3467022246837543,Density
+MAA002,St. Thomas Mount,core_share,0.3011613429680839,Density
+MAA003,Nanganallur Road,core_share,0.1415470006851135,Density
+MAA004,Arignar Anna Alandur,core_share,0.2534899860217336,Density
+MAA005,Ekkattuthangal,core_share,0.2663680361822163,Density
+MAA006,Ashok Nagar,core_share,0.2289684025999323,Density
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,core_share,0.2244567627011336,Density
+MAA008,Koyambedu,core_share,0.269729259958273,Density
+MAA009,Anna Nagar Tower,core_share,0.2648278176561564,Density
+MAA010,Thirumangalam,core_share,0.2885740210610677,Density
+MAA011,Guindy,core_share,0.2058012049080387,Density
+MAA012,Little Mount,core_share,0.3628784036504557,Density
+MAA013,Saidapet,core_share,0.2720614349235937,Density
+MAA014,Nandanam,core_share,0.2777288510896756,Density
+MAA015,Teynampet,core_share,0.262463760100739,Density
+MAA016,AG – DMS,core_share,0.2331684806680628,Density
+MAA017,Vadapalani,core_share,0.2713169117979505,Density
+MAA018,Thousand Lights,core_share,0.3051739325612496,Density
+MAA019,Arumbakkam,core_share,0.3222458357189366,Density
+MAA020,Pachaiyappa's College,core_share,0.2143368413372717,Density
+MAA021,Kilpauk,core_share,0.2130540359923017,Density
+MAA022,Nehru Park,core_share,0.2869228160204942,Density
+MAA023,Shenoy Nagar,core_share,0.2394303281232256,Density
+MAA024,Anna Nagar East,core_share,0.2827281305077217,Density
+MAA025,LIC,core_share,0.269535758168215,Density
+MAA026,Government Estate,core_share,0.336582038637873,Density
+MAA027,Egmore,core_share,0.3130192163883991,Density
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,core_share,0.2662391158211868,Density
+MAA029,High Court,core_share,0.3087013923092486,Density
+MAA030,Mannadi,core_share,0.225878647082627,Density
+MAA031,Washermanpet,core_share,0.2002497045276427,Density
+MAA032,Sir Theagaraya College,core_share,0.2444446103919328,Density
+MAA033,Tondiarpet,core_share,0.2509045848632563,Density
+MAA034,New Washermanpet,core_share,0.3489503991561599,Density
+MAA035,Tollgate,core_share,0.3504558701979914,Density
+MAA036,Kaladipet,core_share,0.3568524368677919,Density
+MAA037,Tiruvottriyur Theradi,core_share,0.3171495336057869,Density
+MAA038,Tiruvottriyur,core_share,0.3201191965037728,Density
+MAA039,Wimco Nagar,core_share,0.2450949075157647,Density
+MAA040,Adambakkam,core_share,0.2430387997084021,Density
+MAA041,Alwarpet,core_share,0.2498563716005768,Density
+MAA042,Bharathidasan Road,core_share,0.2233647410091607,Density
+MAA043,Boat Club,core_share,0.2674718837437613,Density
+MAA044,Karayanchavadi,core_share,0.1210735399148038,Density
+MAA045,Kodambakkam,core_share,0.2366147761062617,Density
+MAA046,Kumananchavadi,core_share,0.2683976660439201,Density
+MAA047,Kutchery Road,core_share,0.2858610517472201,Density
+MAA048,Lighthouse,core_share,0.1457010230430863,Density
+MAA049,Madhavaram Depot,core_share,0.2723190101621213,Density
+MAA050,Madhavaram Milk Colony,core_share,0.2101242897838438,Density
+MAA051,Panagal Park,core_share,0.2704024142408284,Density
+MAA052,Poonamallee Bypass,core_share,0.2400419340269591,Density
+MAA053,Porur Bypass,core_share,0.1974412815834294,Density
+MAA054,Porur Junction,core_share,0.2955326163484391,Density
+MAA055,Royapettah,core_share,0.1771461478033143,Density
+MAA056,Sholinganallur,core_share,0.2996542175456255,Density
+MAA057,Thelliyaragaram,core_share,0.3050930655687469,Density
+MAA058,Thirumayilai,core_share,0.2721889567381645,Density
+MAA059,Kattupkkam,core_share,0.2688376227714035,Density
+MAA060,Iyyapanthangal,core_share,0.2966940283820276,Density
+MAA061,Adyar Depot,core_share,0.2850190537969218,Density
+MAA062,Alwarthirunagar,core_share,0.2380248153981382,Density
+MAA063,Anna Flyover,core_share,0.2847173956993293,Density
+MAA064,Anna Nagar KV,core_share,0.2639183120287269,Density
+MAA065,Anna Nagar West,core_share,0.2513679442681559,Density
+MAA066,Assisi Nagar,core_share,0.2183729189549464,Density
+MAA067,Ayanavaram,core_share,0.2349365297228957,Density
+MAA068,Butt Road,core_share,0.2567439424510194,Density
+MAA069,Chennai Trade Centre,core_share,0.3665475177171267,Density
+MAA070,Chetpet,core_share,0.2807329385700688,Density
+MAA071,Classical Tamil Institute,core_share,0.1466748926323022,Density
+MAA072,Dr. Radhakrishnan Salai,core_share,0.2657057433994241,Density
+MAA073,Elcot,core_share,0.1296353443544012,Density
+MAA074,Gandhi Nagar,core_share,0.2414658341121434,Density
+MAA075,Greenways Road,core_share,0.2914196860280131,Density
+MAA076,Indira Nagar,core_share,0.1952214930640851,Density
+MAA077,Kandanchavadi,core_share,0.2802992957893178,Density
+MAA078,Karambakkam,core_share,0.2437197929257929,Density
+MAA079,Karapakkam,core_share,0.3496538164468952,Density
+MAA080,Kellys,core_share,0.2241151305487519,Density
+MAA081,Kovilambakkam,core_share,0.2610426219698123,Density
+MAA082,Koyambedu Market,core_share,0.1622409341296016,Density
+MAA083,Madhavaram Bus Terminus,core_share,0.325044497953472,Density
+MAA084,Madhavaram High Road,core_share,0.2383190257657191,Density
+MAA085,Madipakkam,core_share,0.3087566989158222,Density
+MAA086,Manapakkam,core_share,0.2869669736249691,Density
+MAA087,Mandaveli,core_share,0.2416166804947765,Density
+MAA088,Medavakkam I,core_share,0.2892390322949881,Density
+MAA089,Medavakkam II,core_share,0.1490218717525019,Density
+MAA090,Mettukuppam,core_share,0.2600183780433316,Density
+MAA091,Moolakadai,core_share,0.2899076875480784,Density
+MAA092,Mugalivakkam,core_share,0.150963269320212,Density
+MAA093,Natesan Nagar,core_share,0.2558580716540918,Density
+MAA094,Nehru Nagar,core_share,0.3445380620350332,Density
+MAA095,Nungambakkam,core_share,0.2338718314093494,Density
+MAA096,Okkiyam Thoraipakkam,core_share,0.3443862549001947,Density
+MAA097,Otteri,core_share,0.2301458977338989,Density
+MAA098,PTC Colony,core_share,0.2644367914009108,Density
+MAA099,Pattalam,core_share,0.2326061759420113,Density
+MAA100,Perambur,core_share,0.2507530664799255,Density
+MAA101,Perambur Barracks Road,core_share,0.2324049996750311,Density
+MAA102,Perumbakkam,core_share,0.2727066212656826,Density
+MAA103,Perungudi,core_share,0.359331484502211,Density
+MAA104,Poonamallee,core_share,0.271499908858903,Density
+MAA105,Ramapuram,core_share,0.2919357674366163,Density
+MAA106,Retteri Junction,core_share,0.1847633072769166,Density
+MAA107,Saligramam,core_share,0.3584884738602132,Density
+MAA108,Shastri Nagar Chennai,core_share,0.2586303020525713,Density
+MAA109,Siruseri,core_share,0.1739825480745936,Density
+MAA110,Srinivasa Nagar,core_share,0.2026919781146782,Density
+MAA111,Sterling Road,core_share,0.2456679666122321,Density
+MAA112,Taramani,core_share,0.3315253082840569,Density
+MAA113,Thiruvanmiyur,core_share,0.1886888867760391,Density
+MAA114,Thoraipakkam,core_share,0.2297286503485158,Density
+MAA115,Ullagaram,core_share,0.2909760574605955,Density
+MAA116,Valasaravakkam,core_share,0.2923299011115489,Density
+MAA117,Vanuvampet,core_share,0.2767770803878198,Density
+MAA118,Villivakkam,core_share,0.2313603780035876,Density
+MAA119,Villivakkam Bus Terminus,core_share,0.252416512985346,Density
+MAA120,Villivakkam CTH Road,core_share,0.331413513857845,Density
+MAA121,Virugambakkam,core_share,0.2476508633812479,Density
+MAA122,Adyar Junction,core_share,0.2929223842133797,Density
+MAA123,Alapakkam Junction,core_share,0.2856942060029641,Density
+MAA124,Kolathur Junction,core_share,0.2289892477623352,Density
+MAA125,Nookampalayam Depot,core_share,0.3802306581359603,Density
+MAA126,Perambur Market,core_share,0.2507530664799255,Density
+MAA127,SIPCOT I,core_share,0.3376704040086899,Density
+MAA128,SIPCOT II,core_share,0.3376704040086899,Density
+MAA129,Saligramam Warehouse,core_share,0.3584884738602132,Density
+MAA130,Semmancheri I,core_share,0.2609347323268767,Density
+MAA131,Semmancheri II,core_share,0.2609347323268767,Density
+MAA132,Sholinganallur Lake I,core_share,0.3764194762007216,Density
+MAA133,Sholinganallur Lake II,core_share,0.3764194762007216,Density
+MAA000,Chennai International Airport,intersection_density,41.845359762684325,Design
+MAA001,Meenambakkam,intersection_density,46.82695021062293,Design
+MAA002,St. Thomas Mount,intersection_density,170.3703933195005,Design
+MAA003,Nanganallur Road,intersection_density,91.16310519727656,Design
+MAA004,Arignar Anna Alandur,intersection_density,154.92746293089075,Design
+MAA005,Ekkattuthangal,intersection_density,190.79491415604875,Design
+MAA006,Ashok Nagar,intersection_density,201.25625409671983,Design
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,intersection_density,158.91273528924165,Design
+MAA008,Koyambedu,intersection_density,101.12628609315378,Design
+MAA009,Anna Nagar Tower,intersection_density,127.03055642243456,Design
+MAA010,Thirumangalam,intersection_density,174.3556656778513,Design
+MAA011,Guindy,intersection_density,98.1373318243906,Design
+MAA012,Little Mount,intersection_density,127.03055642243456,Design
+MAA013,Saidapet,intersection_density,190.2967551112549,Design
+MAA014,Nandanam,intersection_density,141.9753277662504,Design
+MAA015,Teynampet,intersection_density,176.84646090182065,Design
+MAA016,AG – DMS,intersection_density,165.88696191635572,Design
+MAA017,Vadapalani,intersection_density,191.79123224563648,Design
+MAA018,Thousand Lights,intersection_density,118.56185266093892,Design
+MAA019,Arumbakkam,intersection_density,223.17525206764967,Design
+MAA020,Pachaiyappa's College,intersection_density,143.46980490063197,Design
+MAA021,Kilpauk,intersection_density,153.93114484130305,Design
+MAA022,Nehru Park,intersection_density,137.9900554078995,Design
+MAA023,Shenoy Nagar,intersection_density,238.12002341146555,Design
+MAA024,Anna Nagar East,intersection_density,167.87959809553115,Design
+MAA025,LIC,intersection_density,208.2304807238339,Design
+MAA026,Government Estate,intersection_density,171.86487045388205,Design
+MAA027,Egmore,intersection_density,152.43666770692147,Design
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,intersection_density,172.3630294986759,Design
+MAA029,High Court,intersection_density,149.94587248295215,Design
+MAA030,Mannadi,intersection_density,221.6807749332681,Design
+MAA031,Washermanpet,intersection_density,229.6513196499699,Design
+MAA032,Sir Theagaraya College,intersection_density,235.1310691427024,Design
+MAA033,Tondiarpet,intersection_density,193.2857093800181,Design
+MAA034,New Washermanpet,intersection_density,155.42562197568463,Design
+MAA035,Tollgate,intersection_density,154.4293038860969,Design
+MAA036,Kaladipet,intersection_density,156.92009911006622,Design
+MAA037,Tiruvottriyur Theradi,intersection_density,159.90905337882938,Design
+MAA038,Tiruvottriyur,intersection_density,118.06369361614506,Design
+MAA039,Wimco Nagar,intersection_density,100.62812704835991,Design
+MAA040,Adambakkam,intersection_density,225.66604729161904,Design
+MAA041,Alwarpet,intersection_density,144.46612299021967,Design
+MAA042,Bharathidasan Road,intersection_density,147.45507725898284,Design
+MAA043,Boat Club,intersection_density,125.53607928805296,Design
+MAA044,Karayanchavadi,intersection_density,181.3298923049654,Design
+MAA045,Kodambakkam,intersection_density,182.3262103945532,Design
+MAA046,Kumananchavadi,intersection_density,188.8022779768733,Design
+MAA047,Kutchery Road,intersection_density,178.34093803620223,Design
+MAA048,Lighthouse,intersection_density,114.07842125779416,Design
+MAA049,Madhavaram Depot,intersection_density,137.9900554078995,Design
+MAA050,Madhavaram Milk Colony,intersection_density,160.9053714684171,Design
+MAA051,Panagal Park,intersection_density,169.37407522991273,Design
+MAA052,Poonamallee Bypass,intersection_density,92.65758233165816,Design
+MAA053,Porur Bypass,intersection_density,108.10051272026784,Design
+MAA054,Porur Junction,intersection_density,196.77282269357508,Design
+MAA055,Royapettah,intersection_density,138.48821445269334,Design
+MAA056,Sholinganallur,intersection_density,108.10051272026784,Design
+MAA057,Thelliyaragaram,intersection_density,71.23674340552212,Design
+MAA058,Thirumayilai,intersection_density,164.89064382676798,Design
+MAA059,Kattupkkam,intersection_density,178.34093803620223,Design
+MAA060,Iyyapanthangal,intersection_density,156.92009911006622,Design
+MAA061,Adyar Depot,intersection_density,168.87591618511888,Design
+MAA062,Alwarthirunagar,intersection_density,197.27098173836896,Design
+MAA063,Anna Flyover,intersection_density,169.37407522991273,Design
+MAA064,Anna Nagar KV,intersection_density,204.74336741027687,Design
+MAA065,Anna Nagar West,intersection_density,219.18997970929885,Design
+MAA066,Assisi Nagar,intersection_density,134.50294209434247,Design
+MAA067,Ayanavaram,intersection_density,161.90168955800482,Design
+MAA068,Butt Road,intersection_density,155.9237810204785,Design
+MAA069,Chennai Trade Centre,intersection_density,71.23674340552212,Design
+MAA070,Chetpet,intersection_density,140.97900967666266,Design
+MAA071,Classical Tamil Institute,intersection_density,51.31038161376768,Design
+MAA072,Dr. Radhakrishnan Salai,intersection_density,147.95323630377672,Design
+MAA073,Elcot,intersection_density,30.38770173242552,Design
+MAA074,Gandhi Nagar,intersection_density,208.7286397686277,Design
+MAA075,Greenways Road,intersection_density,93.65390042124588,Design
+MAA076,Indira Nagar,intersection_density,114.57658030258804,Design
+MAA077,Kandanchavadi,intersection_density,169.37407522991273,Design
+MAA078,Karambakkam,intersection_density,208.2304807238339,Design
+MAA079,Karapakkam,intersection_density,119.55817075052664,Design
+MAA080,Kellys,intersection_density,112.08578507861873,Design
+MAA081,Kovilambakkam,intersection_density,194.2820274696058,Design
+MAA082,Koyambedu Market,intersection_density,129.02319260161,Design
+MAA083,Madhavaram Bus Terminus,intersection_density,46.328791165829074,Design
+MAA084,Madhavaram High Road,intersection_density,135.00110113913632,Design
+MAA085,Madipakkam,intersection_density,186.311482752904,Design
+MAA086,Manapakkam,intersection_density,87.67599188371953,Design
+MAA087,Mandaveli,intersection_density,176.3483018570268,Design
+MAA088,Medavakkam I,intersection_density,155.9237810204785,Design
+MAA089,Medavakkam II,intersection_density,28.893224598043936,Design
+MAA090,Mettukuppam,intersection_density,251.07215857610595,Design
+MAA091,Moolakadai,intersection_density,133.0084649599609,Design
+MAA092,Mugalivakkam,intersection_density,164.39248478197413,Design
+MAA093,Natesan Nagar,intersection_density,194.78018651439965,Design
+MAA094,Nehru Nagar,intersection_density,63.266198688820346,Design
+MAA095,Nungambakkam,intersection_density,143.96796394542582,Design
+MAA096,Okkiyam Thoraipakkam,intersection_density,164.89064382676798,Design
+MAA097,Otteri,intersection_density,183.32252848414083,Design
+MAA098,PTC Colony,intersection_density,132.51030591516704,Design
+MAA099,Pattalam,intersection_density,244.09793194899189,Design
+MAA100,Perambur,intersection_density,195.7765046039873,Design
+MAA101,Perambur Barracks Road,intersection_density,242.10529576981645,Design
+MAA102,Perumbakkam,intersection_density,183.32252848414083,Design
+MAA103,Perungudi,intersection_density,168.87591618511888,Design
+MAA104,Poonamallee,intersection_density,209.72495785821548,Design
+MAA105,Ramapuram,intersection_density,135.49926018393018,Design
+MAA106,Retteri Junction,intersection_density,218.19366161971112,Design
+MAA107,Saligramam,intersection_density,177.3446199466145,Design
+MAA108,Shastri Nagar Chennai,intersection_density,163.89432573718025,Design
+MAA109,Siruseri,intersection_density,27.39874746366236,Design
+MAA110,Srinivasa Nagar,intersection_density,147.45507725898284,Design
+MAA111,Sterling Road,intersection_density,136.99373731831176,Design
+MAA112,Taramani,intersection_density,117.06737552655731,Design
+MAA113,Thiruvanmiyur,intersection_density,131.5139878255793,Design
+MAA114,Thoraipakkam,intersection_density,174.3556656778513,Design
+MAA115,Ullagaram,intersection_density,224.17157015723745,Design
+MAA116,Valasaravakkam,intersection_density,211.7175940373909,Design
+MAA117,Vanuvampet,intersection_density,225.1678882468252,Design
+MAA118,Villivakkam,intersection_density,205.24152645507075,Design
+MAA119,Villivakkam Bus Terminus,intersection_density,211.21943499259703,Design
+MAA120,Villivakkam CTH Road,intersection_density,218.69182066450497,Design
+MAA121,Virugambakkam,intersection_density,209.2267988134216,Design
+MAA122,Adyar Junction,intersection_density,124.53976119846524,Design
+MAA123,Alapakkam Junction,intersection_density,214.70654830615408,Design
+MAA124,Kolathur Junction,intersection_density,286.93960980126394,Design
+MAA125,Nookampalayam Depot,intersection_density,139.48453254228107,Design
+MAA126,Perambur Market,intersection_density,195.7765046039873,Design
+MAA127,SIPCOT I,intersection_density,131.5139878255793,Design
+MAA128,SIPCOT II,intersection_density,131.5139878255793,Design
+MAA129,Saligramam Warehouse,intersection_density,177.3446199466145,Design
+MAA130,Semmancheri I,intersection_density,108.10051272026784,Design
+MAA131,Semmancheri II,intersection_density,108.10051272026784,Design
+MAA132,Sholinganallur Lake I,intersection_density,95.14837755562743,Design
+MAA133,Sholinganallur Lake II,intersection_density,95.14837755562743,Design
+MAA000,Chennai International Airport,street_density,22.38379878628644,Design
+MAA001,Meenambakkam,street_density,22.576569220847187,Design
+MAA002,St. Thomas Mount,street_density,46.79902234019686,Design
+MAA003,Nanganallur Road,street_density,28.59082390871031,Design
+MAA004,Arignar Anna Alandur,street_density,43.64509770223567,Design
+MAA005,Ekkattuthangal,street_density,46.55214313944926,Design
+MAA006,Ashok Nagar,street_density,50.77989413651858,Design
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,street_density,43.1117164315328,Design
+MAA008,Koyambedu,street_density,38.26208989028364,Design
+MAA009,Anna Nagar Tower,street_density,44.4517042301708,Design
+MAA010,Thirumangalam,street_density,54.00582930574812,Design
+MAA011,Guindy,street_density,29.990101161549408,Design
+MAA012,Little Mount,street_density,35.47023873075675,Design
+MAA013,Saidapet,street_density,49.77051441206081,Design
+MAA014,Nandanam,street_density,43.69531694137577,Design
+MAA015,Teynampet,street_density,44.6845830680511,Design
+MAA016,AG – DMS,street_density,44.68195248967743,Design
+MAA017,Vadapalani,street_density,48.9976617250962,Design
+MAA018,Thousand Lights,street_density,35.56149062232988,Design
+MAA019,Arumbakkam,street_density,54.08007060202816,Design
+MAA020,Pachaiyappa's College,street_density,40.58737740049042,Design
+MAA021,Kilpauk,street_density,42.12536516748731,Design
+MAA022,Nehru Park,street_density,39.103963049395446,Design
+MAA023,Shenoy Nagar,street_density,54.36253681495296,Design
+MAA024,Anna Nagar East,street_density,53.336273941037646,Design
+MAA025,LIC,street_density,46.74724709861848,Design
+MAA026,Government Estate,street_density,42.640314346470646,Design
+MAA027,Egmore,street_density,36.99449202925755,Design
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,street_density,44.283447755082456,Design
+MAA029,High Court,street_density,46.01358583138296,Design
+MAA030,Mannadi,street_density,57.05599333223706,Design
+MAA031,Washermanpet,street_density,51.940217463419344,Design
+MAA032,Sir Theagaraya College,street_density,52.82979839939848,Design
+MAA033,Tondiarpet,street_density,48.12547049826375,Design
+MAA034,New Washermanpet,street_density,44.80950560384581,Design
+MAA035,Tollgate,street_density,40.44090189870208,Design
+MAA036,Kaladipet,street_density,42.514782600757,Design
+MAA037,Tiruvottriyur Theradi,street_density,45.85136704517039,Design
+MAA038,Tiruvottriyur,street_density,37.21180773106838,Design
+MAA039,Wimco Nagar,street_density,41.71087806824025,Design
+MAA040,Adambakkam,street_density,57.23003549031448,Design
+MAA041,Alwarpet,street_density,42.61836667307583,Design
+MAA042,Bharathidasan Road,street_density,40.83476824338499,Design
+MAA043,Boat Club,street_density,38.16694815865596,Design
+MAA044,Karayanchavadi,street_density,45.27944107852981,Design
+MAA045,Kodambakkam,street_density,51.45312185434731,Design
+MAA046,Kumananchavadi,street_density,47.72470120298272,Design
+MAA047,Kutchery Road,street_density,43.12500854028647,Design
+MAA048,Lighthouse,street_density,30.241791497403085,Design
+MAA049,Madhavaram Depot,street_density,36.62830396097552,Design
+MAA050,Madhavaram Milk Colony,street_density,44.93948653587414,Design
+MAA051,Panagal Park,street_density,52.02865418338654,Design
+MAA052,Poonamallee Bypass,street_density,34.34070634356321,Design
+MAA053,Porur Bypass,street_density,60.58812889549309,Design
+MAA054,Porur Junction,street_density,48.68453669569219,Design
+MAA055,Royapettah,street_density,38.93907509363342,Design
+MAA056,Sholinganallur,street_density,30.842418219234773,Design
+MAA057,Thelliyaragaram,street_density,38.383155918882245,Design
+MAA058,Thirumayilai,street_density,44.03466807812059,Design
+MAA059,Kattupkkam,street_density,45.33639645825972,Design
+MAA060,Iyyapanthangal,street_density,39.312211574615546,Design
+MAA061,Adyar Depot,street_density,47.22973690663565,Design
+MAA062,Alwarthirunagar,street_density,47.59543473922872,Design
+MAA063,Anna Flyover,street_density,43.51169069450557,Design
+MAA064,Anna Nagar KV,street_density,56.85086341396064,Design
+MAA065,Anna Nagar West,street_density,54.53011722643207,Design
+MAA066,Assisi Nagar,street_density,39.30631101614168,Design
+MAA067,Ayanavaram,street_density,43.90796381744474,Design
+MAA068,Butt Road,street_density,42.54017429397275,Design
+MAA069,Chennai Trade Centre,street_density,26.696275764298576,Design
+MAA070,Chetpet,street_density,39.14120247501348,Design
+MAA071,Classical Tamil Institute,street_density,14.45908453348336,Design
+MAA072,Dr. Radhakrishnan Salai,street_density,44.52593066873304,Design
+MAA073,Elcot,street_density,11.821746835034348,Design
+MAA074,Gandhi Nagar,street_density,50.54592643018745,Design
+MAA075,Greenways Road,street_density,26.58347212342829,Design
+MAA076,Indira Nagar,street_density,35.25320013800992,Design
+MAA077,Kandanchavadi,street_density,48.23187396338137,Design
+MAA078,Karambakkam,street_density,49.60973046857802,Design
+MAA079,Karapakkam,street_density,30.74816880019018,Design
+MAA080,Kellys,street_density,37.84476685924724,Design
+MAA081,Kovilambakkam,street_density,47.656760918634426,Design
+MAA082,Koyambedu Market,street_density,39.18845247130594,Design
+MAA083,Madhavaram Bus Terminus,street_density,24.52878638976645,Design
+MAA084,Madhavaram High Road,street_density,39.13268017017912,Design
+MAA085,Madipakkam,street_density,49.15157094439048,Design
+MAA086,Manapakkam,street_density,27.057013166202847,Design
+MAA087,Mandaveli,street_density,45.24654351124999,Design
+MAA088,Medavakkam I,street_density,44.1949490965824,Design
+MAA089,Medavakkam II,street_density,11.271389360989396,Design
+MAA090,Mettukuppam,street_density,54.62759127591556,Design
+MAA091,Moolakadai,street_density,35.9654699718868,Design
+MAA092,Mugalivakkam,street_density,37.117508853798576,Design
+MAA093,Natesan Nagar,street_density,47.08099052533887,Design
+MAA094,Nehru Nagar,street_density,21.894368108551376,Design
+MAA095,Nungambakkam,street_density,40.55146833480761,Design
+MAA096,Okkiyam Thoraipakkam,street_density,41.0000653226507,Design
+MAA097,Otteri,street_density,44.85068242763275,Design
+MAA098,PTC Colony,street_density,41.04220223210189,Design
+MAA099,Pattalam,street_density,52.20471363125806,Design
+MAA100,Perambur,street_density,49.85394976926742,Design
+MAA101,Perambur Barracks Road,street_density,55.016843706281065,Design
+MAA102,Perumbakkam,street_density,45.264265603237504,Design
+MAA103,Perungudi,street_density,47.6956106555393,Design
+MAA104,Poonamallee,street_density,52.37589556844043,Design
+MAA105,Ramapuram,street_density,33.970304856533296,Design
+MAA106,Retteri Junction,street_density,57.84230833296407,Design
+MAA107,Saligramam,street_density,46.863177217247,Design
+MAA108,Shastri Nagar Chennai,street_density,45.64699614465947,Design
+MAA109,Siruseri,street_density,13.94029202652649,Design
+MAA110,Srinivasa Nagar,street_density,44.10914111029435,Design
+MAA111,Sterling Road,street_density,39.56107354020728,Design
+MAA112,Taramani,street_density,35.88778867232369,Design
+MAA113,Thiruvanmiyur,street_density,38.75230942231562,Design
+MAA114,Thoraipakkam,street_density,47.388557052548734,Design
+MAA115,Ullagaram,street_density,54.676556513410986,Design
+MAA116,Valasaravakkam,street_density,51.75902178553396,Design
+MAA117,Vanuvampet,street_density,56.526794970256674,Design
+MAA118,Villivakkam,street_density,51.56231201487076,Design
+MAA119,Villivakkam Bus Terminus,street_density,49.857369668545424,Design
+MAA120,Villivakkam CTH Road,street_density,48.869894060955,Design
+MAA121,Virugambakkam,street_density,50.04016046945879,Design
+MAA122,Adyar Junction,street_density,41.53634684657754,Design
+MAA123,Alapakkam Junction,street_density,51.91930848012345,Design
+MAA124,Kolathur Junction,street_density,65.6798703210619,Design
+MAA125,Nookampalayam Depot,street_density,30.130215140227648,Design
+MAA126,Perambur Market,street_density,49.85394976926742,Design
+MAA127,SIPCOT I,street_density,37.030950074693024,Design
+MAA128,SIPCOT II,street_density,37.030950074693024,Design
+MAA129,Saligramam Warehouse,street_density,46.863177217247,Design
+MAA130,Semmancheri I,street_density,32.255361487163704,Design
+MAA131,Semmancheri II,street_density,32.255361487163704,Design
+MAA132,Sholinganallur Lake I,street_density,27.28761846226393,Design
+MAA133,Sholinganallur Lake II,street_density,27.28761846226393,Design
+MAA000,Chennai International Airport,circuity,1.0039043986797522,Design
+MAA001,Meenambakkam,circuity,1.0040511292711316,Design
+MAA002,St. Thomas Mount,circuity,1.0048525783422415,Design
+MAA003,Nanganallur Road,circuity,1.0052474850886592,Design
+MAA004,Arignar Anna Alandur,circuity,1.0053215140788998,Design
+MAA005,Ekkattuthangal,circuity,1.0049560117851402,Design
+MAA006,Ashok Nagar,circuity,1.0049753499770666,Design
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,circuity,1.0048319701717163,Design
+MAA008,Koyambedu,circuity,1.0052731225684963,Design
+MAA009,Anna Nagar Tower,circuity,1.0053528603775388,Design
+MAA010,Thirumangalam,circuity,1.0053770435036489,Design
+MAA011,Guindy,circuity,1.0038792412272846,Design
+MAA012,Little Mount,circuity,1.004334110006948,Design
+MAA013,Saidapet,circuity,1.0043864222688923,Design
+MAA014,Nandanam,circuity,1.0037359227014044,Design
+MAA015,Teynampet,circuity,1.005073936145339,Design
+MAA016,AG – DMS,circuity,1.0051348552865893,Design
+MAA017,Vadapalani,circuity,1.0053090538037386,Design
+MAA018,Thousand Lights,circuity,1.0034822503199017,Design
+MAA019,Arumbakkam,circuity,1.0052947582626015,Design
+MAA020,Pachaiyappa's College,circuity,1.005178781828925,Design
+MAA021,Kilpauk,circuity,1.0048795849990846,Design
+MAA022,Nehru Park,circuity,1.005198400741854,Design
+MAA023,Shenoy Nagar,circuity,1.0053088543106623,Design
+MAA024,Anna Nagar East,circuity,1.0053478896003172,Design
+MAA025,LIC,circuity,1.0041188997513446,Design
+MAA026,Government Estate,circuity,1.0044399236192765,Design
+MAA027,Egmore,circuity,1.005118433198572,Design
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,circuity,1.0052339587606451,Design
+MAA029,High Court,circuity,1.0051527951024797,Design
+MAA030,Mannadi,circuity,1.0049210812617169,Design
+MAA031,Washermanpet,circuity,1.0047202742338552,Design
+MAA032,Sir Theagaraya College,circuity,1.004609602228909,Design
+MAA033,Tondiarpet,circuity,1.004873145749282,Design
+MAA034,New Washermanpet,circuity,1.004669319541581,Design
+MAA035,Tollgate,circuity,1.004656990222037,Design
+MAA036,Kaladipet,circuity,1.004698281980389,Design
+MAA037,Tiruvottriyur Theradi,circuity,1.0048128275399724,Design
+MAA038,Tiruvottriyur,circuity,1.004898757800203,Design
+MAA039,Wimco Nagar,circuity,1.004347062337238,Design
+MAA040,Adambakkam,circuity,1.0048124949169632,Design
+MAA041,Alwarpet,circuity,1.0050948958940955,Design
+MAA042,Bharathidasan Road,circuity,1.0047100266721172,Design
+MAA043,Boat Club,circuity,1.004535690598453,Design
+MAA044,Karayanchavadi,circuity,1.004716145672519,Design
+MAA045,Kodambakkam,circuity,1.0049614410286445,Design
+MAA046,Kumananchavadi,circuity,1.0048348412048362,Design
+MAA047,Kutchery Road,circuity,1.0048957751813463,Design
+MAA048,Lighthouse,circuity,1.0051155688074092,Design
+MAA049,Madhavaram Depot,circuity,1.0049474883661027,Design
+MAA050,Madhavaram Milk Colony,circuity,1.0050915501681252,Design
+MAA051,Panagal Park,circuity,1.005009717088147,Design
+MAA052,Poonamallee Bypass,circuity,1.0052155527882245,Design
+MAA053,Porur Bypass,circuity,1.005063854283016,Design
+MAA054,Porur Junction,circuity,1.004457239346583,Design
+MAA055,Royapettah,circuity,1.0049120093388546,Design
+MAA056,Sholinganallur,circuity,1.0053135506956428,Design
+MAA057,Thelliyaragaram,circuity,1.0050297479321348,Design
+MAA058,Thirumayilai,circuity,1.0050092375763464,Design
+MAA059,Kattupkkam,circuity,1.0045159066393854,Design
+MAA060,Iyyapanthangal,circuity,1.0047657448033531,Design
+MAA061,Adyar Depot,circuity,1.0050421213732976,Design
+MAA062,Alwarthirunagar,circuity,1.0051909732451263,Design
+MAA063,Anna Flyover,circuity,1.0047777564164218,Design
+MAA064,Anna Nagar KV,circuity,1.0053734789749558,Design
+MAA065,Anna Nagar West,circuity,1.0053656929586268,Design
+MAA066,Assisi Nagar,circuity,1.004995606805701,Design
+MAA067,Ayanavaram,circuity,1.004993136581205,Design
+MAA068,Butt Road,circuity,1.005242585649594,Design
+MAA069,Chennai Trade Centre,circuity,1.005122484524714,Design
+MAA070,Chetpet,circuity,1.004994658808442,Design
+MAA071,Classical Tamil Institute,circuity,1.0045277766008671,Design
+MAA072,Dr. Radhakrishnan Salai,circuity,1.005109446413562,Design
+MAA073,Elcot,circuity,1.0040449415388073,Design
+MAA074,Gandhi Nagar,circuity,1.005150008593532,Design
+MAA075,Greenways Road,circuity,1.004327963295364,Design
+MAA076,Indira Nagar,circuity,1.0050180941265316,Design
+MAA077,Kandanchavadi,circuity,1.0047410110347057,Design
+MAA078,Karambakkam,circuity,1.0047420051615954,Design
+MAA079,Karapakkam,circuity,1.0052803044211518,Design
+MAA080,Kellys,circuity,1.0051911161107017,Design
+MAA081,Kovilambakkam,circuity,1.004965474354275,Design
+MAA082,Koyambedu Market,circuity,1.0045536527052883,Design
+MAA083,Madhavaram Bus Terminus,circuity,1.0046857818089157,Design
+MAA084,Madhavaram High Road,circuity,1.0049537068946115,Design
+MAA085,Madipakkam,circuity,1.0049295681682904,Design
+MAA086,Manapakkam,circuity,1.0048371690074935,Design
+MAA087,Mandaveli,circuity,1.004023716926289,Design
+MAA088,Medavakkam I,circuity,1.004913173964033,Design
+MAA089,Medavakkam II,circuity,1.002947813088963,Design
+MAA090,Mettukuppam,circuity,1.0052749454424137,Design
+MAA091,Moolakadai,circuity,1.0045631042275829,Design
+MAA092,Mugalivakkam,circuity,1.004829970774669,Design
+MAA093,Natesan Nagar,circuity,1.0051310509033078,Design
+MAA094,Nehru Nagar,circuity,1.004453766739735,Design
+MAA095,Nungambakkam,circuity,1.0049038713855296,Design
+MAA096,Okkiyam Thoraipakkam,circuity,1.0046499384603256,Design
+MAA097,Otteri,circuity,1.0049117759980728,Design
+MAA098,PTC Colony,circuity,1.0049648825959672,Design
+MAA099,Pattalam,circuity,1.0049078570306926,Design
+MAA100,Perambur,circuity,1.0051396419724057,Design
+MAA101,Perambur Barracks Road,circuity,1.0048764365054272,Design
+MAA102,Perumbakkam,circuity,1.0050524953589162,Design
+MAA103,Perungudi,circuity,1.004786823556857,Design
+MAA104,Poonamallee,circuity,1.004936976171967,Design
+MAA105,Ramapuram,circuity,1.004862649989415,Design
+MAA106,Retteri Junction,circuity,1.0051637995197225,Design
+MAA107,Saligramam,circuity,1.0052682877471832,Design
+MAA108,Shastri Nagar Chennai,circuity,1.0050727085283109,Design
+MAA109,Siruseri,circuity,1.0051392265855548,Design
+MAA110,Srinivasa Nagar,circuity,1.0047109787964934,Design
+MAA111,Sterling Road,circuity,1.0049193596667283,Design
+MAA112,Taramani,circuity,1.005047865320304,Design
+MAA113,Thiruvanmiyur,circuity,1.0051023504768997,Design
+MAA114,Thoraipakkam,circuity,1.0047823402010905,Design
+MAA115,Ullagaram,circuity,1.0046716078803937,Design
+MAA116,Valasaravakkam,circuity,1.0048430696547177,Design
+MAA117,Vanuvampet,circuity,1.0048624041009977,Design
+MAA118,Villivakkam,circuity,1.0051998196298264,Design
+MAA119,Villivakkam Bus Terminus,circuity,1.0043726976010277,Design
+MAA120,Villivakkam CTH Road,circuity,1.004805956267406,Design
+MAA121,Virugambakkam,circuity,1.0051272142900327,Design
+MAA122,Adyar Junction,circuity,1.0052342404159575,Design
+MAA123,Alapakkam Junction,circuity,1.004794918493034,Design
+MAA124,Kolathur Junction,circuity,1.005170782430449,Design
+MAA125,Nookampalayam Depot,circuity,1.005219809321482,Design
+MAA126,Perambur Market,circuity,1.0051396419724057,Design
+MAA127,SIPCOT I,circuity,1.0050188239131528,Design
+MAA128,SIPCOT II,circuity,1.0050188239131528,Design
+MAA129,Saligramam Warehouse,circuity,1.0052682877471832,Design
+MAA130,Semmancheri I,circuity,1.0051119276148182,Design
+MAA131,Semmancheri II,circuity,1.0051119276148182,Design
+MAA132,Sholinganallur Lake I,circuity,1.0052711025674872,Design
+MAA133,Sholinganallur Lake II,circuity,1.0052711025674872,Design
+MAA000,Chennai International Airport,pnr,0.0715457142715123,Design
+MAA001,Meenambakkam,pnr,0.1155513705477756,Design
+MAA002,St. Thomas Mount,pnr,0.1658887483451029,Design
+MAA003,Nanganallur Road,pnr,0.1522923798488142,Design
+MAA004,Arignar Anna Alandur,pnr,0.3243447664145163,Design
+MAA005,Ekkattuthangal,pnr,0.3092322071175187,Design
+MAA006,Ashok Nagar,pnr,0.5030422957872254,Design
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,pnr,0.085046731593506,Design
+MAA008,Koyambedu,pnr,0.1062161676980971,Design
+MAA009,Anna Nagar Tower,pnr,0.3371389116512699,Design
+MAA010,Thirumangalam,pnr,0.4144721797714902,Design
+MAA011,Guindy,pnr,0.2951624055173327,Design
+MAA012,Little Mount,pnr,0.2365206103666437,Design
+MAA013,Saidapet,pnr,0.3443855892935935,Design
+MAA014,Nandanam,pnr,0.0811971184521093,Design
+MAA015,Teynampet,pnr,0.4476052195793397,Design
+MAA016,AG – DMS,pnr,0.3802401248774973,Design
+MAA017,Vadapalani,pnr,0.5164456967575797,Design
+MAA018,Thousand Lights,pnr,0.2333026064522545,Design
+MAA019,Arumbakkam,pnr,0.4063148744400984,Design
+MAA020,Pachaiyappa's College,pnr,0.4036692924333148,Design
+MAA021,Kilpauk,pnr,0.3424861697559818,Design
+MAA022,Nehru Park,pnr,0.4234338545609963,Design
+MAA023,Shenoy Nagar,pnr,0.3616969619852952,Design
+MAA024,Anna Nagar East,pnr,0.4618242038508277,Design
+MAA025,LIC,pnr,0.3710801218601752,Design
+MAA026,Government Estate,pnr,0.3438900211854458,Design
+MAA027,Egmore,pnr,0.3367051302446471,Design
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,pnr,0.303879790406182,Design
+MAA029,High Court,pnr,0.4211186815930019,Design
+MAA030,Mannadi,pnr,0.5189343278786899,Design
+MAA031,Washermanpet,pnr,0.0999359764789512,Design
+MAA032,Sir Theagaraya College,pnr,0.5779175179616761,Design
+MAA033,Tondiarpet,pnr,0.4426190290051793,Design
+MAA034,New Washermanpet,pnr,0.3747224349393064,Design
+MAA035,Tollgate,pnr,0.4107229982920426,Design
+MAA036,Kaladipet,pnr,0.445890771773367,Design
+MAA037,Tiruvottriyur Theradi,pnr,0.5154263707212269,Design
+MAA038,Tiruvottriyur,pnr,0.3134430618685905,Design
+MAA039,Wimco Nagar,pnr,0.3217596896311539,Design
+MAA040,Adambakkam,pnr,0.3381184125283735,Design
+MAA041,Alwarpet,pnr,0.4503988912065744,Design
+MAA042,Bharathidasan Road,pnr,0.4649751510890507,Design
+MAA043,Boat Club,pnr,0.4250031885186308,Design
+MAA044,Karayanchavadi,pnr,0.3962876929743696,Design
+MAA045,Kodambakkam,pnr,0.4405508659764804,Design
+MAA046,Kumananchavadi,pnr,0.3256438882536639,Design
+MAA047,Kutchery Road,pnr,0.4644677844700775,Design
+MAA048,Lighthouse,pnr,0.2646141668957956,Design
+MAA049,Madhavaram Depot,pnr,0.21629869637837,Design
+MAA050,Madhavaram Milk Colony,pnr,0.1572017828427765,Design
+MAA051,Panagal Park,pnr,0.3596889694370797,Design
+MAA052,Poonamallee Bypass,pnr,0.2990198954957555,Design
+MAA053,Porur Bypass,pnr,0.2879952265338291,Design
+MAA054,Porur Junction,pnr,0.3625323798867487,Design
+MAA055,Royapettah,pnr,0.4410732743381347,Design
+MAA056,Sholinganallur,pnr,0.3455037108416579,Design
+MAA057,Thelliyaragaram,pnr,0.1478229706380812,Design
+MAA058,Thirumayilai,pnr,0.3367527369520803,Design
+MAA059,Kattupkkam,pnr,0.4157751849579386,Design
+MAA060,Iyyapanthangal,pnr,0.3723926879924311,Design
+MAA061,Adyar Depot,pnr,0.4311812480925338,Design
+MAA062,Alwarthirunagar,pnr,0.4644472551702641,Design
+MAA063,Anna Flyover,pnr,0.4164876961950991,Design
+MAA064,Anna Nagar KV,pnr,0.494211685998451,Design
+MAA065,Anna Nagar West,pnr,0.5013938110837814,Design
+MAA066,Assisi Nagar,pnr,0.3912419323334974,Design
+MAA067,Ayanavaram,pnr,0.445268930166685,Design
+MAA068,Butt Road,pnr,0.3363277639758763,Design
+MAA069,Chennai Trade Centre,pnr,0.2199495261452075,Design
+MAA070,Chetpet,pnr,0.3483648071748103,Design
+MAA071,Classical Tamil Institute,pnr,0.17845911411899,Design
+MAA072,Dr. Radhakrishnan Salai,pnr,0.4598585778164512,Design
+MAA073,Elcot,pnr,0.0217708644396133,Design
+MAA074,Gandhi Nagar,pnr,0.2764263779814271,Design
+MAA075,Greenways Road,pnr,0.219893308017689,Design
+MAA076,Indira Nagar,pnr,0.3691378811396977,Design
+MAA077,Kandanchavadi,pnr,0.425121951551467,Design
+MAA078,Karambakkam,pnr,0.4184157957161128,Design
+MAA079,Karapakkam,pnr,0.353195806685054,Design
+MAA080,Kellys,pnr,0.3826001934737844,Design
+MAA081,Kovilambakkam,pnr,0.5876814255980601,Design
+MAA082,Koyambedu Market,pnr,0.1780319193282459,Design
+MAA083,Madhavaram Bus Terminus,pnr,0.1837750288689791,Design
+MAA084,Madhavaram High Road,pnr,0.2337334953652181,Design
+MAA085,Madipakkam,pnr,0.4810334683785605,Design
+MAA086,Manapakkam,pnr,0.1009055397949461,Design
+MAA087,Mandaveli,pnr,0.4979287492817445,Design
+MAA088,Medavakkam I,pnr,0.4798903940987206,Design
+MAA089,Medavakkam II,pnr,0.0217708644396133,Design
+MAA090,Mettukuppam,pnr,0.2562906562064679,Design
+MAA091,Moolakadai,pnr,0.4048824133391678,Design
+MAA092,Mugalivakkam,pnr,0.2659001507849068,Design
+MAA093,Natesan Nagar,pnr,0.4517027732682337,Design
+MAA094,Nehru Nagar,pnr,0.1721050794925251,Design
+MAA095,Nungambakkam,pnr,0.3647513908575673,Design
+MAA096,Okkiyam Thoraipakkam,pnr,0.269009012641486,Design
+MAA097,Otteri,pnr,0.2606023563018281,Design
+MAA098,PTC Colony,pnr,0.146141881208424,Design
+MAA099,Pattalam,pnr,0.4378042183573135,Design
+MAA100,Perambur,pnr,0.4771352513217534,Design
+MAA101,Perambur Barracks Road,pnr,0.5808109198344812,Design
+MAA102,Perumbakkam,pnr,0.5434919745330871,Design
+MAA103,Perungudi,pnr,0.3310588510469803,Design
+MAA104,Poonamallee,pnr,0.4615868563079531,Design
+MAA105,Ramapuram,pnr,0.1104852119126968,Design
+MAA106,Retteri Junction,pnr,0.5340461851694913,Design
+MAA107,Saligramam,pnr,0.3573977892199883,Design
+MAA108,Shastri Nagar Chennai,pnr,0.2761407443445137,Design
+MAA109,Siruseri,pnr,0.0743669237521821,Design
+MAA110,Srinivasa Nagar,pnr,0.0795695263782903,Design
+MAA111,Sterling Road,pnr,0.3569536099647217,Design
+MAA112,Taramani,pnr,0.3275016661873526,Design
+MAA113,Thiruvanmiyur,pnr,0.2436917368495423,Design
+MAA114,Thoraipakkam,pnr,0.3722137927650294,Design
+MAA115,Ullagaram,pnr,0.5242540067456039,Design
+MAA116,Valasaravakkam,pnr,0.5440160000016836,Design
+MAA117,Vanuvampet,pnr,0.481931529337495,Design
+MAA118,Villivakkam,pnr,0.1339528907742785,Design
+MAA119,Villivakkam Bus Terminus,pnr,0.4227255157699257,Design
+MAA120,Villivakkam CTH Road,pnr,0.4312696485621623,Design
+MAA121,Virugambakkam,pnr,0.4462026092052661,Design
+MAA122,Adyar Junction,pnr,0.4403536051888545,Design
+MAA123,Alapakkam Junction,pnr,0.480833157791748,Design
+MAA124,Kolathur Junction,pnr,0.493005824133662,Design
+MAA125,Nookampalayam Depot,pnr,0.1721491883692948,Design
+MAA126,Perambur Market,pnr,0.4771352513217534,Design
+MAA127,SIPCOT I,pnr,0.3450751027901162,Design
+MAA128,SIPCOT II,pnr,0.3450751027901162,Design
+MAA129,Saligramam Warehouse,pnr,0.3573977892199883,Design
+MAA130,Semmancheri I,pnr,0.3249001376065475,Design
+MAA131,Semmancheri II,pnr,0.3249001376065475,Design
+MAA132,Sholinganallur Lake I,pnr,0.3208623579143069,Design
+MAA133,Sholinganallur Lake II,pnr,0.3208623579143069,Design
+MAA000,Chennai International Airport,poi_total_pctl,0.5074626865671642,Destination
+MAA001,Meenambakkam,poi_total_pctl,0.1082089552238805,Destination
+MAA002,St. Thomas Mount,poi_total_pctl,0.3395522388059701,Destination
+MAA003,Nanganallur Road,poi_total_pctl,0.3097014925373134,Destination
+MAA004,Arignar Anna Alandur,poi_total_pctl,0.4328358208955223,Destination
+MAA005,Ekkattuthangal,poi_total_pctl,0.3507462686567164,Destination
+MAA006,Ashok Nagar,poi_total_pctl,0.9477611940298508,Destination
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,poi_total_pctl,0.6716417910447762,Destination
+MAA008,Koyambedu,poi_total_pctl,0.4738805970149253,Destination
+MAA009,Anna Nagar Tower,poi_total_pctl,0.6529850746268657,Destination
+MAA010,Thirumangalam,poi_total_pctl,0.7014925373134329,Destination
+MAA011,Guindy,poi_total_pctl,0.291044776119403,Destination
+MAA012,Little Mount,poi_total_pctl,0.914179104477612,Destination
+MAA013,Saidapet,poi_total_pctl,0.6529850746268657,Destination
+MAA014,Nandanam,poi_total_pctl,0.8432835820895522,Destination
+MAA015,Teynampet,poi_total_pctl,0.8059701492537313,Destination
+MAA016,AG – DMS,poi_total_pctl,0.8805970149253731,Destination
+MAA017,Vadapalani,poi_total_pctl,0.585820895522388,Destination
+MAA018,Thousand Lights,poi_total_pctl,0.8507462686567164,Destination
+MAA019,Arumbakkam,poi_total_pctl,0.5074626865671642,Destination
+MAA020,Pachaiyappa's College,poi_total_pctl,0.75,Destination
+MAA021,Kilpauk,poi_total_pctl,0.7350746268656716,Destination
+MAA022,Nehru Park,poi_total_pctl,0.7014925373134329,Destination
+MAA023,Shenoy Nagar,poi_total_pctl,0.6716417910447762,Destination
+MAA024,Anna Nagar East,poi_total_pctl,0.832089552238806,Destination
+MAA025,LIC,poi_total_pctl,0.5447761194029851,Destination
+MAA026,Government Estate,poi_total_pctl,0.8694029850746269,Destination
+MAA027,Egmore,poi_total_pctl,0.6119402985074627,Destination
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,poi_total_pctl,0.8582089552238806,Destination
+MAA029,High Court,poi_total_pctl,0.9925373134328358,Destination
+MAA030,Mannadi,poi_total_pctl,1.0,Destination
+MAA031,Washermanpet,poi_total_pctl,0.9626865671641792,Destination
+MAA032,Sir Theagaraya College,poi_total_pctl,0.5298507462686567,Destination
+MAA033,Tondiarpet,poi_total_pctl,0.4029850746268656,Destination
+MAA034,New Washermanpet,poi_total_pctl,0.2313432835820895,Destination
+MAA035,Tollgate,poi_total_pctl,0.2313432835820895,Destination
+MAA036,Kaladipet,poi_total_pctl,0.376865671641791,Destination
+MAA037,Tiruvottriyur Theradi,poi_total_pctl,0.291044776119403,Destination
+MAA038,Tiruvottriyur,poi_total_pctl,0.1529850746268656,Destination
+MAA039,Wimco Nagar,poi_total_pctl,0.2723880597014925,Destination
+MAA040,Adambakkam,poi_total_pctl,0.5074626865671642,Destination
+MAA041,Alwarpet,poi_total_pctl,0.8917910447761194,Destination
+MAA042,Bharathidasan Road,poi_total_pctl,0.8694029850746269,Destination
+MAA043,Boat Club,poi_total_pctl,0.7350746268656716,Destination
+MAA044,Karayanchavadi,poi_total_pctl,0.1902985074626865,Destination
+MAA045,Kodambakkam,poi_total_pctl,0.5970149253731343,Destination
+MAA046,Kumananchavadi,poi_total_pctl,0.1902985074626865,Destination
+MAA047,Kutchery Road,poi_total_pctl,0.9552238805970148,Destination
+MAA048,Lighthouse,poi_total_pctl,0.376865671641791,Destination
+MAA049,Madhavaram Depot,poi_total_pctl,0.044776119402985,Destination
+MAA050,Madhavaram Milk Colony,poi_total_pctl,0.0970149253731343,Destination
+MAA051,Panagal Park,poi_total_pctl,0.9850746268656716,Destination
+MAA052,Poonamallee Bypass,poi_total_pctl,0.0783582089552238,Destination
+MAA053,Porur Bypass,poi_total_pctl,0.1194029850746268,Destination
+MAA054,Porur Junction,poi_total_pctl,0.3955223880597014,Destination
+MAA055,Royapettah,poi_total_pctl,0.8059701492537313,Destination
+MAA056,Sholinganallur,poi_total_pctl,0.4738805970149253,Destination
+MAA057,Thelliyaragaram,poi_total_pctl,0.1902985074626865,Destination
+MAA058,Thirumayilai,poi_total_pctl,0.9701492537313432,Destination
+MAA059,Kattupkkam,poi_total_pctl,0.1305970149253731,Destination
+MAA060,Iyyapanthangal,poi_total_pctl,0.2313432835820895,Destination
+MAA061,Adyar Depot,poi_total_pctl,0.9029850746268656,Destination
+MAA062,Alwarthirunagar,poi_total_pctl,0.5634328358208955,Destination
+MAA063,Anna Flyover,poi_total_pctl,0.9776119402985076,Destination
+MAA064,Anna Nagar KV,poi_total_pctl,0.832089552238806,Destination
+MAA065,Anna Nagar West,poi_total_pctl,0.4738805970149253,Destination
+MAA066,Assisi Nagar,poi_total_pctl,0.0074626865671641,Destination
+MAA067,Ayanavaram,poi_total_pctl,0.1529850746268656,Destination
+MAA068,Butt Road,poi_total_pctl,0.4477611940298507,Destination
+MAA069,Chennai Trade Centre,poi_total_pctl,0.2313432835820895,Destination
+MAA070,Chetpet,poi_total_pctl,0.6380597014925373,Destination
+MAA071,Classical Tamil Institute,poi_total_pctl,0.0783582089552238,Destination
+MAA072,Dr. Radhakrishnan Salai,poi_total_pctl,0.75,Destination
+MAA073,Elcot,poi_total_pctl,0.2723880597014925,Destination
+MAA074,Gandhi Nagar,poi_total_pctl,0.6380597014925373,Destination
+MAA075,Greenways Road,poi_total_pctl,0.3395522388059701,Destination
+MAA076,Indira Nagar,poi_total_pctl,0.585820895522388,Destination
+MAA077,Kandanchavadi,poi_total_pctl,0.4738805970149253,Destination
+MAA078,Karambakkam,poi_total_pctl,0.376865671641791,Destination
+MAA079,Karapakkam,poi_total_pctl,0.4141791044776119,Destination
+MAA080,Kellys,poi_total_pctl,0.7723880597014925,Destination
+MAA081,Kovilambakkam,poi_total_pctl,0.3097014925373134,Destination
+MAA082,Koyambedu Market,poi_total_pctl,0.5746268656716418,Destination
+MAA083,Madhavaram Bus Terminus,poi_total_pctl,0.0783582089552238,Destination
+MAA084,Madhavaram High Road,poi_total_pctl,0.1082089552238805,Destination
+MAA085,Madipakkam,poi_total_pctl,0.7723880597014925,Destination
+MAA086,Manapakkam,poi_total_pctl,0.7014925373134329,Destination
+MAA087,Mandaveli,poi_total_pctl,0.5223880597014925,Destination
+MAA088,Medavakkam I,poi_total_pctl,0.8059701492537313,Destination
+MAA089,Medavakkam II,poi_total_pctl,0.2574626865671642,Destination
+MAA090,Mettukuppam,poi_total_pctl,0.044776119402985,Destination
+MAA091,Moolakadai,poi_total_pctl,0.0783582089552238,Destination
+MAA092,Mugalivakkam,poi_total_pctl,0.4141791044776119,Destination
+MAA093,Natesan Nagar,poi_total_pctl,0.7014925373134329,Destination
+MAA094,Nehru Nagar,poi_total_pctl,0.0597014925373134,Destination
+MAA095,Nungambakkam,poi_total_pctl,0.9328358208955224,Destination
+MAA096,Okkiyam Thoraipakkam,poi_total_pctl,0.3246268656716418,Destination
+MAA097,Otteri,poi_total_pctl,0.2574626865671642,Destination
+MAA098,PTC Colony,poi_total_pctl,0.6268656716417911,Destination
+MAA099,Pattalam,poi_total_pctl,0.4477611940298507,Destination
+MAA100,Perambur,poi_total_pctl,0.5447761194029851,Destination
+MAA101,Perambur Barracks Road,poi_total_pctl,0.5634328358208955,Destination
+MAA102,Perumbakkam,poi_total_pctl,0.1902985074626865,Destination
+MAA103,Perungudi,poi_total_pctl,0.4477611940298507,Destination
+MAA104,Poonamallee,poi_total_pctl,0.4925373134328358,Destination
+MAA105,Ramapuram,poi_total_pctl,0.4253731343283582,Destination
+MAA106,Retteri Junction,poi_total_pctl,0.376865671641791,Destination
+MAA107,Saligramam,poi_total_pctl,0.7723880597014925,Destination
+MAA108,Shastri Nagar Chennai,poi_total_pctl,0.914179104477612,Destination
+MAA109,Siruseri,poi_total_pctl,0.044776119402985,Destination
+MAA110,Srinivasa Nagar,poi_total_pctl,0.1902985074626865,Destination
+MAA111,Sterling Road,poi_total_pctl,0.8917910447761194,Destination
+MAA112,Taramani,poi_total_pctl,0.6716417910447762,Destination
+MAA113,Thiruvanmiyur,poi_total_pctl,0.7014925373134329,Destination
+MAA114,Thoraipakkam,poi_total_pctl,0.3582089552238806,Destination
+MAA115,Ullagaram,poi_total_pctl,0.9402985074626866,Destination
+MAA116,Valasaravakkam,poi_total_pctl,0.1902985074626865,Destination
+MAA117,Vanuvampet,poi_total_pctl,0.7238805970149254,Destination
+MAA118,Villivakkam,poi_total_pctl,0.1305970149253731,Destination
+MAA119,Villivakkam Bus Terminus,poi_total_pctl,0.291044776119403,Destination
+MAA120,Villivakkam CTH Road,poi_total_pctl,0.3246268656716418,Destination
+MAA121,Virugambakkam,poi_total_pctl,0.6119402985074627,Destination
+MAA122,Adyar Junction,poi_total_pctl,0.9253731343283582,Destination
+MAA123,Alapakkam Junction,poi_total_pctl,0.2313432835820895,Destination
+MAA124,Kolathur Junction,poi_total_pctl,0.6119402985074627,Destination
+MAA125,Nookampalayam Depot,poi_total_pctl,0.0223880597014925,Destination
+MAA126,Perambur Market,poi_total_pctl,0.5447761194029851,Destination
+MAA127,SIPCOT I,poi_total_pctl,0.8059701492537313,Destination
+MAA128,SIPCOT II,poi_total_pctl,0.8059701492537313,Destination
+MAA129,Saligramam Warehouse,poi_total_pctl,0.7723880597014925,Destination
+MAA130,Semmancheri I,poi_total_pctl,0.0223880597014925,Destination
+MAA131,Semmancheri II,poi_total_pctl,0.0223880597014925,Destination
+MAA132,Sholinganallur Lake I,poi_total_pctl,0.1529850746268656,Destination
+MAA133,Sholinganallur Lake II,poi_total_pctl,0.1529850746268656,Destination
+MAA000,Chennai International Airport,dist_cbd_km,18.28501630136204,Destination
+MAA001,Meenambakkam,dist_cbd_km,16.79776790040295,Destination
+MAA002,St. Thomas Mount,dist_cbd_km,14.55692323014399,Destination
+MAA003,Nanganallur Road,dist_cbd_km,14.498483137448224,Destination
+MAA004,Arignar Anna Alandur,dist_cbd_km,13.59052535540238,Destination
+MAA005,Ekkattuthangal,dist_cbd_km,12.292510895678577,Destination
+MAA006,Ashok Nagar,dist_cbd_km,10.48267549416248,Destination
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,dist_cbd_km,9.46265689633478,Destination
+MAA008,Koyambedu,dist_cbd_km,10.282083470574127,Destination
+MAA009,Anna Nagar Tower,dist_cbd_km,8.591963957191929,Destination
+MAA010,Thirumangalam,dist_cbd_km,9.35231250914708,Destination
+MAA011,Guindy,dist_cbd_km,12.333299615204854,Destination
+MAA012,Little Mount,dist_cbd_km,11.109166117858344,Destination
+MAA013,Saidapet,dist_cbd_km,10.036668450235256,Destination
+MAA014,Nandanam,dist_cbd_km,8.491136074975495,Destination
+MAA015,Teynampet,dist_cbd_km,7.703358585404559,Destination
+MAA016,AG – DMS,dist_cbd_km,6.778566916135126,Destination
+MAA017,Vadapalani,dist_cbd_km,9.438189808829115,Destination
+MAA018,Thousand Lights,dist_cbd_km,4.976688555385116,Destination
+MAA019,Arumbakkam,dist_cbd_km,8.943189470891559,Destination
+MAA020,Pachaiyappa's College,dist_cbd_km,6.245209426674634,Destination
+MAA021,Kilpauk,dist_cbd_km,5.169633229368773,Destination
+MAA022,Nehru Park,dist_cbd_km,4.329896473766151,Destination
+MAA023,Shenoy Nagar,dist_cbd_km,6.947420918134763,Destination
+MAA024,Anna Nagar East,dist_cbd_km,7.449331469105496,Destination
+MAA025,LIC,dist_cbd_km,3.997640441995471,Destination
+MAA026,Government Estate,dist_cbd_km,3.083622702716256,Destination
+MAA027,Egmore,dist_cbd_km,3.0279764234680657,Destination
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,dist_cbd_km,1.972504533833605,Destination
+MAA029,High Court,dist_cbd_km,0.7580063408143177,Destination
+MAA030,Mannadi,dist_cbd_km,0.2371248905672613,Destination
+MAA031,Washermanpet,dist_cbd_km,1.7137584870639295,Destination
+MAA032,Sir Theagaraya College,dist_cbd_km,2.456060463412808,Destination
+MAA033,Tondiarpet,dist_cbd_km,3.4130379644212048,Destination
+MAA034,New Washermanpet,dist_cbd_km,4.555091081970814,Destination
+MAA035,Tollgate,dist_cbd_km,5.552227623809412,Destination
+MAA036,Kaladipet,dist_cbd_km,6.433021460662438,Destination
+MAA037,Tiruvottriyur Theradi,dist_cbd_km,7.534940125325051,Destination
+MAA038,Tiruvottriyur,dist_cbd_km,8.852287300819476,Destination
+MAA039,Wimco Nagar,dist_cbd_km,9.709574773847228,Destination
+MAA040,Adambakkam,dist_cbd_km,15.744712152698408,Destination
+MAA041,Alwarpet,dist_cbd_km,6.825942411907597,Destination
+MAA042,Bharathidasan Road,dist_cbd_km,7.303592960222808,Destination
+MAA043,Boat Club,dist_cbd_km,8.317026333964503,Destination
+MAA044,Karayanchavadi,dist_cbd_km,19.82885573381833,Destination
+MAA045,Kodambakkam,dist_cbd_km,7.640119223963,Destination
+MAA046,Kumananchavadi,dist_cbd_km,19.055462602323985,Destination
+MAA047,Kutchery Road,dist_cbd_km,6.739710084136156,Destination
+MAA048,Lighthouse,dist_cbd_km,5.571909939863443,Destination
+MAA049,Madhavaram Depot,dist_cbd_km,8.66103108427529,Destination
+MAA050,Madhavaram Milk Colony,dist_cbd_km,7.946930309423548,Destination
+MAA051,Panagal Park,dist_cbd_km,8.2550528358801,Destination
+MAA052,Poonamallee Bypass,dist_cbd_km,22.8551849551324,Destination
+MAA053,Porur Bypass,dist_cbd_km,16.199646074281237,Destination
+MAA054,Porur Junction,dist_cbd_km,15.54169490449103,Destination
+MAA055,Royapettah,dist_cbd_km,5.009242063294441,Destination
+MAA056,Sholinganallur,dist_cbd_km,22.269546307531563,Destination
+MAA057,Thelliyaragaram,dist_cbd_km,16.985554643389236,Destination
+MAA058,Thirumayilai,dist_cbd_km,6.643909173843367,Destination
+MAA059,Kattupkkam,dist_cbd_km,18.474223961899824,Destination
+MAA060,Iyyapanthangal,dist_cbd_km,17.62871469001743,Destination
+MAA061,Adyar Depot,dist_cbd_km,11.03428621763074,Destination
+MAA062,Alwarthirunagar,dist_cbd_km,12.118790373050778,Destination
+MAA063,Anna Flyover,dist_cbd_km,5.910317569969442,Destination
+MAA064,Anna Nagar KV,dist_cbd_km,9.618082576099166,Destination
+MAA065,Anna Nagar West,dist_cbd_km,9.626649276746708,Destination
+MAA066,Assisi Nagar,dist_cbd_km,9.7083918691036,Destination
+MAA067,Ayanavaram,dist_cbd_km,4.864663038998404,Destination
+MAA068,Butt Road,dist_cbd_km,13.464997491195646,Destination
+MAA069,Chennai Trade Centre,dist_cbd_km,13.555242570493432,Destination
+MAA070,Chetpet,dist_cbd_km,5.5233469446684085,Destination
+MAA071,Classical Tamil Institute,dist_cbd_km,22.52777741848233,Destination
+MAA072,Dr. Radhakrishnan Salai,dist_cbd_km,5.860339437475066,Destination
+MAA073,Elcot,dist_cbd_km,22.51270172091212,Destination
+MAA074,Gandhi Nagar,dist_cbd_km,12.316204675410493,Destination
+MAA075,Greenways Road,dist_cbd_km,8.827539094936348,Destination
+MAA076,Indira Nagar,dist_cbd_km,11.67311345174369,Destination
+MAA077,Kandanchavadi,dist_cbd_km,14.701791300165391,Destination
+MAA078,Karambakkam,dist_cbd_km,14.657553499542466,Destination
+MAA079,Karapakkam,dist_cbd_km,21.119286893634097,Destination
+MAA080,Kellys,dist_cbd_km,4.885425442330408,Destination
+MAA081,Kovilambakkam,dist_cbd_km,20.48807633055069,Destination
+MAA082,Koyambedu Market,dist_cbd_km,9.94393194618408,Destination
+MAA083,Madhavaram Bus Terminus,dist_cbd_km,9.24566258371535,Destination
+MAA084,Madhavaram High Road,dist_cbd_km,6.057508821665252,Destination
+MAA085,Madipakkam,dist_cbd_km,17.813460925004485,Destination
+MAA086,Manapakkam,dist_cbd_km,14.052894575650493,Destination
+MAA087,Mandaveli,dist_cbd_km,8.037000962227125,Destination
+MAA088,Medavakkam I,dist_cbd_km,22.128998719377744,Destination
+MAA089,Medavakkam II,dist_cbd_km,22.526389162999344,Destination
+MAA090,Mettukuppam,dist_cbd_km,12.80860104343063,Destination
+MAA091,Moolakadai,dist_cbd_km,6.344666774262287,Destination
+MAA092,Mugalivakkam,dist_cbd_km,14.470766997983494,Destination
+MAA093,Natesan Nagar,dist_cbd_km,11.537836013244084,Destination
+MAA094,Nehru Nagar,dist_cbd_km,13.93825764434465,Destination
+MAA095,Nungambakkam,dist_cbd_km,5.787281841954785,Destination
+MAA096,Okkiyam Thoraipakkam,dist_cbd_km,18.78387881228593,Destination
+MAA097,Otteri,dist_cbd_km,4.224801630093857,Destination
+MAA098,PTC Colony,dist_cbd_km,13.291661796246231,Destination
+MAA099,Pattalam,dist_cbd_km,3.0935770977419854,Destination
+MAA100,Perambur,dist_cbd_km,5.169277904192475,Destination
+MAA101,Perambur Barracks Road,dist_cbd_km,3.101233878210548,Destination
+MAA102,Perumbakkam,dist_cbd_km,22.702739378433,Destination
+MAA103,Perungudi,dist_cbd_km,14.455361742290796,Destination
+MAA104,Poonamallee,dist_cbd_km,8.106489376117056,Destination
+MAA105,Ramapuram,dist_cbd_km,14.276977688126465,Destination
+MAA106,Retteri Junction,dist_cbd_km,8.937930747180797,Destination
+MAA107,Saligramam,dist_cbd_km,10.097437596771684,Destination
+MAA108,Shastri Nagar Chennai,dist_cbd_km,10.913370642105626,Destination
+MAA109,Siruseri,dist_cbd_km,33.72580772292414,Destination
+MAA110,Srinivasa Nagar,dist_cbd_km,16.454221205567823,Destination
+MAA111,Sterling Road,dist_cbd_km,5.707963828062858,Destination
+MAA112,Taramani,dist_cbd_km,12.327327060180302,Destination
+MAA113,Thiruvanmiyur,dist_cbd_km,12.80903719123748,Destination
+MAA114,Thoraipakkam,dist_cbd_km,16.767207368019648,Destination
+MAA115,Ullagaram,dist_cbd_km,16.398658149287304,Destination
+MAA116,Valasaravakkam,dist_cbd_km,13.744037867028664,Destination
+MAA117,Vanuvampet,dist_cbd_km,15.888783844854302,Destination
+MAA118,Villivakkam,dist_cbd_km,8.570815045984231,Destination
+MAA119,Villivakkam Bus Terminus,dist_cbd_km,8.703718822361964,Destination
+MAA120,Villivakkam CTH Road,dist_cbd_km,9.31662330650234,Destination
+MAA121,Virugambakkam,dist_cbd_km,11.301863349096342,Destination
+MAA122,Adyar Junction,dist_cbd_km,10.169873148372028,Destination
+MAA123,Alapakkam Junction,dist_cbd_km,13.962178940522744,Destination
+MAA124,Kolathur Junction,dist_cbd_km,9.639551303324918,Destination
+MAA125,Nookampalayam Depot,dist_cbd_km,24.94499605162419,Destination
+MAA126,Perambur Market,dist_cbd_km,5.169277904192475,Destination
+MAA127,SIPCOT I,dist_cbd_km,5.578051182451602,Destination
+MAA128,SIPCOT II,dist_cbd_km,5.578051182451602,Destination
+MAA129,Saligramam Warehouse,dist_cbd_km,10.097437596771684,Destination
+MAA130,Semmancheri I,dist_cbd_km,24.49076283020652,Destination
+MAA131,Semmancheri II,dist_cbd_km,24.49076283020652,Destination
+MAA132,Sholinganallur Lake I,dist_cbd_km,20.682369206321138,Destination
+MAA133,Sholinganallur Lake II,dist_cbd_km,20.682369206321138,Destination
+MAA000,Chennai International Airport,dist_nearest_centre_km,6.753620192818532,Destination
+MAA001,Meenambakkam,dist_nearest_centre_km,5.22735136324918,Destination
+MAA002,St. Thomas Mount,dist_nearest_centre_km,2.715935011596884,Destination
+MAA003,Nanganallur Road,dist_nearest_centre_km,2.980710359108361,Destination
+MAA004,Arignar Anna Alandur,dist_nearest_centre_km,2.094044556136533,Destination
+MAA005,Ekkattuthangal,dist_nearest_centre_km,1.9967068857661467,Destination
+MAA006,Ashok Nagar,dist_nearest_centre_km,2.578953666739493,Destination
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,dist_nearest_centre_km,4.396019928034688,Destination
+MAA008,Koyambedu,dist_nearest_centre_km,5.5030889485885375,Destination
+MAA009,Anna Nagar Tower,dist_nearest_centre_km,5.518847185513414,Destination
+MAA010,Thirumangalam,dist_nearest_centre_km,5.962645809307136,Destination
+MAA011,Guindy,dist_nearest_centre_km,0.8633343517274003,Destination
+MAA012,Little Mount,dist_nearest_centre_km,0.9619231821161072,Destination
+MAA013,Saidapet,dist_nearest_centre_km,2.0696487834809725,Destination
+MAA014,Nandanam,dist_nearest_centre_km,1.3617151012850273,Destination
+MAA015,Teynampet,dist_nearest_centre_km,1.455778051712729,Destination
+MAA016,AG – DMS,dist_nearest_centre_km,1.61344867130854,Destination
+MAA017,Vadapalani,dist_nearest_centre_km,2.584182625117581,Destination
+MAA018,Thousand Lights,dist_nearest_centre_km,3.2617003367841657,Destination
+MAA019,Arumbakkam,dist_nearest_centre_km,3.271270639010328,Destination
+MAA020,Pachaiyappa's College,dist_nearest_centre_km,3.734319575548821,Destination
+MAA021,Kilpauk,dist_nearest_centre_km,4.072125788222308,Destination
+MAA022,Nehru Park,dist_nearest_centre_km,4.463244100467671,Destination
+MAA023,Shenoy Nagar,dist_nearest_centre_km,4.211475788429419,Destination
+MAA024,Anna Nagar East,dist_nearest_centre_km,4.995405525298259,Destination
+MAA025,LIC,dist_nearest_centre_km,4.260869473337928,Destination
+MAA026,Government Estate,dist_nearest_centre_km,5.23361739550719,Destination
+MAA027,Egmore,dist_nearest_centre_km,5.294873463725859,Destination
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,dist_nearest_centre_km,6.182829559808291,Destination
+MAA029,High Court,dist_nearest_centre_km,7.472852543291363,Destination
+MAA030,Mannadi,dist_nearest_centre_km,8.19434002702627,Destination
+MAA031,Washermanpet,dist_nearest_centre_km,8.903080551362127,Destination
+MAA032,Sir Theagaraya College,dist_nearest_centre_km,9.857113377693214,Destination
+MAA033,Tondiarpet,dist_nearest_centre_km,10.912294072421368,Destination
+MAA034,New Washermanpet,dist_nearest_centre_km,12.085785029961553,Destination
+MAA035,Tollgate,dist_nearest_centre_km,13.0865666441822,Destination
+MAA036,Kaladipet,dist_nearest_centre_km,13.972214499816518,Destination
+MAA037,Tiruvottriyur Theradi,dist_nearest_centre_km,15.05224345480877,Destination
+MAA038,Tiruvottriyur,dist_nearest_centre_km,16.32199271141223,Destination
+MAA039,Wimco Nagar,dist_nearest_centre_km,17.158928003745586,Destination
+MAA040,Adambakkam,dist_nearest_centre_km,3.721171969470768,Destination
+MAA041,Alwarpet,dist_nearest_centre_km,2.8076566111435564,Destination
+MAA042,Bharathidasan Road,dist_nearest_centre_km,2.368924058528864,Destination
+MAA043,Boat Club,dist_nearest_centre_km,2.0258683400128947,Destination
+MAA044,Karayanchavadi,dist_nearest_centre_km,8.861558751999022,Destination
+MAA045,Kodambakkam,dist_nearest_centre_km,1.1829285250026318,Destination
+MAA046,Kumananchavadi,dist_nearest_centre_km,8.627026954202455,Destination
+MAA047,Kutchery Road,dist_nearest_centre_km,4.332871356206946,Destination
+MAA048,Lighthouse,dist_nearest_centre_km,4.997539402168142,Destination
+MAA049,Madhavaram Depot,dist_nearest_centre_km,10.181126762928878,Destination
+MAA050,Madhavaram Milk Colony,dist_nearest_centre_km,10.171347294274517,Destination
+MAA051,Panagal Park,dist_nearest_centre_km,0.1040719445831948,Destination
+MAA052,Poonamallee Bypass,dist_nearest_centre_km,10.78659861390865,Destination
+MAA053,Porur Bypass,dist_nearest_centre_km,8.326288495267256,Destination
+MAA054,Porur Junction,dist_nearest_centre_km,7.637247112121549,Destination
+MAA055,Royapettah,dist_nearest_centre_km,3.567359776462248,Destination
+MAA056,Sholinganallur,dist_nearest_centre_km,10.059235557867789,Destination
+MAA057,Thelliyaragaram,dist_nearest_centre_km,8.678426574872704,Destination
+MAA058,Thirumayilai,dist_nearest_centre_km,3.6898279230333175,Destination
+MAA059,Kattupkkam,dist_nearest_centre_km,8.611139743634086,Destination
+MAA060,Iyyapanthangal,dist_nearest_centre_km,8.688125327755415,Destination
+MAA061,Adyar Depot,dist_nearest_centre_km,1.3150951250533849,Destination
+MAA062,Alwarthirunagar,dist_nearest_centre_km,5.116066345906857,Destination
+MAA063,Anna Flyover,dist_nearest_centre_km,2.289255279422932,Destination
+MAA064,Anna Nagar KV,dist_nearest_centre_km,5.5870048888666926,Destination
+MAA065,Anna Nagar West,dist_nearest_centre_km,5.252749572616222,Destination
+MAA066,Assisi Nagar,dist_nearest_centre_km,9.75313311219334,Destination
+MAA067,Ayanavaram,dist_nearest_centre_km,6.235621432664077,Destination
+MAA068,Butt Road,dist_nearest_centre_km,2.39397772278098,Destination
+MAA069,Chennai Trade Centre,dist_nearest_centre_km,3.3907182231109365,Destination
+MAA070,Chetpet,dist_nearest_centre_km,3.364708447430337,Destination
+MAA071,Classical Tamil Institute,dist_nearest_centre_km,10.276771274514736,Destination
+MAA072,Dr. Radhakrishnan Salai,dist_nearest_centre_km,3.566208208230273,Destination
+MAA073,Elcot,dist_nearest_centre_km,10.25718187362457,Destination
+MAA074,Gandhi Nagar,dist_nearest_centre_km,5.0768876145735735,Destination
+MAA075,Greenways Road,dist_nearest_centre_km,3.4387719720027263,Destination
+MAA076,Indira Nagar,dist_nearest_centre_km,0.5883149575943946,Destination
+MAA077,Kandanchavadi,dist_nearest_centre_km,2.5623105075157047,Destination
+MAA078,Karambakkam,dist_nearest_centre_km,7.003863777334325,Destination
+MAA079,Karapakkam,dist_nearest_centre_km,8.89503432907291,Destination
+MAA080,Kellys,dist_nearest_centre_km,4.635602080962293,Destination
+MAA081,Kovilambakkam,dist_nearest_centre_km,8.492138616062055,Destination
+MAA082,Koyambedu Market,dist_nearest_centre_km,4.751091306177511,Destination
+MAA083,Madhavaram Bus Terminus,dist_nearest_centre_km,8.016348900723102,Destination
+MAA084,Madhavaram High Road,dist_nearest_centre_km,9.276165261749735,Destination
+MAA085,Madipakkam,dist_nearest_centre_km,5.770275959419503,Destination
+MAA086,Manapakkam,dist_nearest_centre_km,4.824098341745844,Destination
+MAA087,Mandaveli,dist_nearest_centre_km,3.8404927105551,Destination
+MAA088,Medavakkam I,dist_nearest_centre_km,10.228185946172408,Destination
+MAA089,Medavakkam II,dist_nearest_centre_km,10.26988308637835,Destination
+MAA090,Mettukuppam,dist_nearest_centre_km,6.458027232707416,Destination
+MAA091,Moolakadai,dist_nearest_centre_km,9.519960857203897,Destination
+MAA092,Mugalivakkam,dist_nearest_centre_km,5.700292665999244,Destination
+MAA093,Natesan Nagar,dist_nearest_centre_km,4.576166546890659,Destination
+MAA094,Nehru Nagar,dist_nearest_centre_km,21.02345754485429,Destination
+MAA095,Nungambakkam,dist_nearest_centre_km,2.643250608780958,Destination
+MAA096,Okkiyam Thoraipakkam,dist_nearest_centre_km,6.541607360137036,Destination
+MAA097,Otteri,dist_nearest_centre_km,6.353997669969608,Destination
+MAA098,PTC Colony,dist_nearest_centre_km,1.328236565087518,Destination
+MAA099,Pattalam,dist_nearest_centre_km,6.659781045592353,Destination
+MAA100,Perambur,dist_nearest_centre_km,7.845966759518859,Destination
+MAA101,Perambur Barracks Road,dist_nearest_centre_km,6.296238508986082,Destination
+MAA102,Perumbakkam,dist_nearest_centre_km,10.540295832311005,Destination
+MAA103,Perungudi,dist_nearest_centre_km,2.334704352019441,Destination
+MAA104,Poonamallee,dist_nearest_centre_km,1.6365927066071155,Destination
+MAA105,Ramapuram,dist_nearest_centre_km,5.313075222056551,Destination
+MAA106,Retteri Junction,dist_nearest_centre_km,6.640301826193722,Destination
+MAA107,Saligramam,dist_nearest_centre_km,3.0897753141465096,Destination
+MAA108,Shastri Nagar Chennai,dist_nearest_centre_km,1.6101886407732904,Destination
+MAA109,Siruseri,dist_nearest_centre_km,21.50853637185142,Destination
+MAA110,Srinivasa Nagar,dist_nearest_centre_km,4.359809988265061,Destination
+MAA111,Sterling Road,dist_nearest_centre_km,2.778012683209717,Destination
+MAA112,Taramani,dist_nearest_centre_km,0.3906992347716937,Destination
+MAA113,Thiruvanmiyur,dist_nearest_centre_km,0.9049306369044297,Destination
+MAA114,Thoraipakkam,dist_nearest_centre_km,4.558380515900145,Destination
+MAA115,Ullagaram,dist_nearest_centre_km,4.367239063192436,Destination
+MAA116,Valasaravakkam,dist_nearest_centre_km,6.423352488706116,Destination
+MAA117,Vanuvampet,dist_nearest_centre_km,3.869652715600333,Destination
+MAA118,Villivakkam,dist_nearest_centre_km,6.021879814618451,Destination
+MAA119,Villivakkam Bus Terminus,dist_nearest_centre_km,5.85084939811761,Destination
+MAA120,Villivakkam CTH Road,dist_nearest_centre_km,5.25870899205805,Destination
+MAA121,Virugambakkam,dist_nearest_centre_km,4.685452206607409,Destination
+MAA122,Adyar Junction,dist_nearest_centre_km,2.117378926293801,Destination
+MAA123,Alapakkam Junction,dist_nearest_centre_km,6.524673667550983,Destination
+MAA124,Kolathur Junction,dist_nearest_centre_km,5.467572558805381,Destination
+MAA125,Nookampalayam Depot,dist_nearest_centre_km,12.695493604274011,Destination
+MAA126,Perambur Market,dist_nearest_centre_km,7.845966759518859,Destination
+MAA127,SIPCOT I,dist_nearest_centre_km,3.1225919951990053,Destination
+MAA128,SIPCOT II,dist_nearest_centre_km,3.1225919951990053,Destination
+MAA129,Saligramam Warehouse,dist_nearest_centre_km,3.0897753141465096,Destination
+MAA130,Semmancheri I,dist_nearest_centre_km,12.312635705157325,Destination
+MAA131,Semmancheri II,dist_nearest_centre_km,12.312635705157325,Destination
+MAA132,Sholinganallur Lake I,dist_nearest_centre_km,8.454150469852788,Destination
+MAA133,Sholinganallur Lake II,dist_nearest_centre_km,8.454150469852788,Destination
+MAA000,Chennai International Airport,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA001,Meenambakkam,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA002,St. Thomas Mount,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA003,Nanganallur Road,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA004,Arignar Anna Alandur,bus_stops_500m_pctl,0.7126865671641791,Distance to transit
+MAA005,Ekkattuthangal,bus_stops_500m_pctl,0.7126865671641791,Distance to transit
+MAA006,Ashok Nagar,bus_stops_500m_pctl,0.9514925373134328,Distance to transit
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,bus_stops_500m_pctl,0.9514925373134328,Distance to transit
+MAA008,Koyambedu,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA009,Anna Nagar Tower,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA010,Thirumangalam,bus_stops_500m_pctl,0.7126865671641791,Distance to transit
+MAA011,Guindy,bus_stops_500m_pctl,0.9514925373134328,Distance to transit
+MAA012,Little Mount,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA013,Saidapet,bus_stops_500m_pctl,0.7835820895522388,Distance to transit
+MAA014,Nandanam,bus_stops_500m_pctl,0.7126865671641791,Distance to transit
+MAA015,Teynampet,bus_stops_500m_pctl,0.8880597014925373,Distance to transit
+MAA016,AG – DMS,bus_stops_500m_pctl,0.7126865671641791,Distance to transit
+MAA017,Vadapalani,bus_stops_500m_pctl,0.8432835820895522,Distance to transit
+MAA018,Thousand Lights,bus_stops_500m_pctl,0.9813432835820896,Distance to transit
+MAA019,Arumbakkam,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA020,Pachaiyappa's College,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA021,Kilpauk,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA022,Nehru Park,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA023,Shenoy Nagar,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA024,Anna Nagar East,bus_stops_500m_pctl,0.8880597014925373,Distance to transit
+MAA025,LIC,bus_stops_500m_pctl,0.9925373134328358,Distance to transit
+MAA026,Government Estate,bus_stops_500m_pctl,0.7126865671641791,Distance to transit
+MAA027,Egmore,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,bus_stops_500m_pctl,0.914179104477612,Distance to transit
+MAA029,High Court,bus_stops_500m_pctl,0.8432835820895522,Distance to transit
+MAA030,Mannadi,bus_stops_500m_pctl,0.7126865671641791,Distance to transit
+MAA031,Washermanpet,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA032,Sir Theagaraya College,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA033,Tondiarpet,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA034,New Washermanpet,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA035,Tollgate,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA036,Kaladipet,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA037,Tiruvottriyur Theradi,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA038,Tiruvottriyur,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA039,Wimco Nagar,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA040,Adambakkam,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA041,Alwarpet,bus_stops_500m_pctl,0.9291044776119404,Distance to transit
+MAA042,Bharathidasan Road,bus_stops_500m_pctl,0.8880597014925373,Distance to transit
+MAA043,Boat Club,bus_stops_500m_pctl,0.7126865671641791,Distance to transit
+MAA044,Karayanchavadi,bus_stops_500m_pctl,0.5,Distance to transit
+MAA045,Kodambakkam,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA046,Kumananchavadi,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA047,Kutchery Road,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA048,Lighthouse,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA049,Madhavaram Depot,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA050,Madhavaram Milk Colony,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA051,Panagal Park,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA052,Poonamallee Bypass,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA053,Porur Bypass,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA054,Porur Junction,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA055,Royapettah,bus_stops_500m_pctl,0.8432835820895522,Distance to transit
+MAA056,Sholinganallur,bus_stops_500m_pctl,0.5,Distance to transit
+MAA057,Thelliyaragaram,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA058,Thirumayilai,bus_stops_500m_pctl,0.9813432835820896,Distance to transit
+MAA059,Kattupkkam,bus_stops_500m_pctl,0.5,Distance to transit
+MAA060,Iyyapanthangal,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA061,Adyar Depot,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA062,Alwarthirunagar,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA063,Anna Flyover,bus_stops_500m_pctl,0.9701492537313432,Distance to transit
+MAA064,Anna Nagar KV,bus_stops_500m_pctl,0.7835820895522388,Distance to transit
+MAA065,Anna Nagar West,bus_stops_500m_pctl,0.8880597014925373,Distance to transit
+MAA066,Assisi Nagar,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA067,Ayanavaram,bus_stops_500m_pctl,0.5,Distance to transit
+MAA068,Butt Road,bus_stops_500m_pctl,0.8432835820895522,Distance to transit
+MAA069,Chennai Trade Centre,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA070,Chetpet,bus_stops_500m_pctl,0.7126865671641791,Distance to transit
+MAA071,Classical Tamil Institute,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA072,Dr. Radhakrishnan Salai,bus_stops_500m_pctl,1.0,Distance to transit
+MAA073,Elcot,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA074,Gandhi Nagar,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA075,Greenways Road,bus_stops_500m_pctl,0.9291044776119404,Distance to transit
+MAA076,Indira Nagar,bus_stops_500m_pctl,0.5,Distance to transit
+MAA077,Kandanchavadi,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA078,Karambakkam,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA079,Karapakkam,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA080,Kellys,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA081,Kovilambakkam,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA082,Koyambedu Market,bus_stops_500m_pctl,0.5,Distance to transit
+MAA083,Madhavaram Bus Terminus,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA084,Madhavaram High Road,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA085,Madipakkam,bus_stops_500m_pctl,0.8432835820895522,Distance to transit
+MAA086,Manapakkam,bus_stops_500m_pctl,0.8432835820895522,Distance to transit
+MAA087,Mandaveli,bus_stops_500m_pctl,0.8880597014925373,Distance to transit
+MAA088,Medavakkam I,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA089,Medavakkam II,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA090,Mettukuppam,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA091,Moolakadai,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA092,Mugalivakkam,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA093,Natesan Nagar,bus_stops_500m_pctl,0.7126865671641791,Distance to transit
+MAA094,Nehru Nagar,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA095,Nungambakkam,bus_stops_500m_pctl,0.5,Distance to transit
+MAA096,Okkiyam Thoraipakkam,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA097,Otteri,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA098,PTC Colony,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA099,Pattalam,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA100,Perambur,bus_stops_500m_pctl,0.5,Distance to transit
+MAA101,Perambur Barracks Road,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA102,Perumbakkam,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA103,Perungudi,bus_stops_500m_pctl,0.6119402985074627,Distance to transit
+MAA104,Poonamallee,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA105,Ramapuram,bus_stops_500m_pctl,0.7835820895522388,Distance to transit
+MAA106,Retteri Junction,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA107,Saligramam,bus_stops_500m_pctl,0.5,Distance to transit
+MAA108,Shastri Nagar Chennai,bus_stops_500m_pctl,0.7835820895522388,Distance to transit
+MAA109,Siruseri,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA110,Srinivasa Nagar,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA111,Sterling Road,bus_stops_500m_pctl,0.7835820895522388,Distance to transit
+MAA112,Taramani,bus_stops_500m_pctl,0.9514925373134328,Distance to transit
+MAA113,Thiruvanmiyur,bus_stops_500m_pctl,0.8432835820895522,Distance to transit
+MAA114,Thoraipakkam,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA115,Ullagaram,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA116,Valasaravakkam,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA117,Vanuvampet,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA118,Villivakkam,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA119,Villivakkam Bus Terminus,bus_stops_500m_pctl,0.7835820895522388,Distance to transit
+MAA120,Villivakkam CTH Road,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA121,Virugambakkam,bus_stops_500m_pctl,0.3880597014925373,Distance to transit
+MAA122,Adyar Junction,bus_stops_500m_pctl,0.914179104477612,Distance to transit
+MAA123,Alapakkam Junction,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA124,Kolathur Junction,bus_stops_500m_pctl,0.7835820895522388,Distance to transit
+MAA125,Nookampalayam Depot,bus_stops_500m_pctl,0.0932835820895522,Distance to transit
+MAA126,Perambur Market,bus_stops_500m_pctl,0.5,Distance to transit
+MAA127,SIPCOT I,bus_stops_500m_pctl,0.7835820895522388,Distance to transit
+MAA128,SIPCOT II,bus_stops_500m_pctl,0.7835820895522388,Distance to transit
+MAA129,Saligramam Warehouse,bus_stops_500m_pctl,0.5,Distance to transit
+MAA130,Semmancheri I,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA131,Semmancheri II,bus_stops_500m_pctl,0.2537313432835821,Distance to transit
+MAA132,Sholinganallur Lake I,bus_stops_500m_pctl,0.5,Distance to transit
+MAA133,Sholinganallur Lake II,bus_stops_500m_pctl,0.5,Distance to transit
+MAA000,Chennai International Airport,metro_betweenness,0.0,Network position
+MAA001,Meenambakkam,metro_betweenness,0.0149780245200092,Network position
+MAA002,St. Thomas Mount,metro_betweenness,0.0270356234096692,Network position
+MAA003,Nanganallur Road,metro_betweenness,0.0584374277122368,Network position
+MAA004,Arignar Anna Alandur,metro_betweenness,0.1511103400416377,Network position
+MAA005,Ekkattuthangal,metro_betweenness,0.023883876937312,Network position
+MAA006,Ashok Nagar,metro_betweenness,0.0284524635669673,Network position
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,metro_betweenness,0.0509773305574832,Network position
+MAA008,Koyambedu,metro_betweenness,0.0519893592412676,Network position
+MAA009,Anna Nagar Tower,metro_betweenness,0.1669269026139255,Network position
+MAA010,Thirumangalam,metro_betweenness,0.1926324311820495,Network position
+MAA011,Guindy,metro_betweenness,0.1279782558408512,Network position
+MAA012,Little Mount,metro_betweenness,0.1304071246819338,Network position
+MAA013,Saidapet,metro_betweenness,0.1366817025213972,Network position
+MAA014,Nandanam,metro_betweenness,0.2966689798750867,Network position
+MAA015,Teynampet,metro_betweenness,0.2689393939393939,Network position
+MAA016,AG – DMS,metro_betweenness,0.2696911866759195,Network position
+MAA017,Vadapalani,metro_betweenness,0.0744274809160305,Network position
+MAA018,Thousand Lights,metro_betweenness,0.3741614619477215,Network position
+MAA019,Arumbakkam,metro_betweenness,0.0542158223455933,Network position
+MAA020,Pachaiyappa's College,metro_betweenness,0.1706280360860513,Network position
+MAA021,Kilpauk,metro_betweenness,0.1923432801295396,Network position
+MAA022,Nehru Park,metro_betweenness,0.0149491094147582,Network position
+MAA023,Shenoy Nagar,metro_betweenness,0.1688931297709923,Network position
+MAA024,Anna Nagar East,metro_betweenness,0.1672738838769373,Network position
+MAA025,LIC,metro_betweenness,0.1755436039787185,Network position
+MAA026,Government Estate,metro_betweenness,0.1634281748785565,Network position
+MAA027,Egmore,metro_betweenness,0.0,Network position
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,metro_betweenness,0.1510814249363867,Network position
+MAA029,High Court,metro_betweenness,0.1385033541522091,Network position
+MAA030,Mannadi,metro_betweenness,0.1256939625260236,Network position
+MAA031,Washermanpet,metro_betweenness,0.1126532500578302,Network position
+MAA032,Sir Theagaraya College,metro_betweenness,0.0993812167476289,Network position
+MAA033,Tondiarpet,metro_betweenness,0.0858778625954198,Network position
+MAA034,New Washermanpet,metro_betweenness,0.0721431876012028,Network position
+MAA035,Tollgate,metro_betweenness,0.058177191764978,Network position
+MAA036,Kaladipet,metro_betweenness,0.0439798750867453,Network position
+MAA037,Tiruvottriyur Theradi,metro_betweenness,0.0295512375665047,Network position
+MAA038,Tiruvottriyur,metro_betweenness,0.0148912792042563,Network position
+MAA039,Wimco Nagar,metro_betweenness,0.0,Network position
+MAA040,Adambakkam,metro_betweenness,0.0933668748554244,Network position
+MAA041,Alwarpet,metro_betweenness,0.0428521859819569,Network position
+MAA042,Bharathidasan Road,metro_betweenness,0.0566736062919269,Network position
+MAA043,Boat Club,metro_betweenness,0.1935577145500809,Network position
+MAA044,Karayanchavadi,metro_betweenness,0.0150069396252602,Network position
+MAA045,Kodambakkam,metro_betweenness,0.1332986352070321,Network position
+MAA046,Kumananchavadi,metro_betweenness,0.0297825584085126,Network position
+MAA047,Kutchery Road,metro_betweenness,0.0145153828359935,Network position
+MAA048,Lighthouse,metro_betweenness,0.0,Network position
+MAA049,Madhavaram Depot,metro_betweenness,0.0146599583622484,Network position
+MAA050,Madhavaram Milk Colony,metro_betweenness,0.0149780245200092,Network position
+MAA051,Panagal Park,metro_betweenness,0.1380985426786953,Network position
+MAA052,Poonamallee Bypass,metro_betweenness,0.0,Network position
+MAA053,Porur Bypass,metro_betweenness,0.0865718251214434,Network position
+MAA054,Porur Junction,metro_betweenness,0.1001908396946564,Network position
+MAA055,Royapettah,metro_betweenness,0.3892551468887347,Network position
+MAA056,Sholinganallur,metro_betweenness,,Network position
+MAA057,Thelliyaragaram,metro_betweenness,0.0727214897062225,Network position
+MAA058,Thirumayilai,metro_betweenness,0.0287994448299791,Network position
+MAA059,Kattupkkam,metro_betweenness,0.0443268563497571,Network position
+MAA060,Iyyapanthangal,metro_betweenness,0.0586398334489937,Network position
+MAA061,Adyar Depot,metro_betweenness,0.2271570668517233,Network position
+MAA062,Alwarthirunagar,metro_betweenness,0.2044587092297016,Network position
+MAA063,Anna Flyover,metro_betweenness,0.2267811704834605,Network position
+MAA064,Anna Nagar KV,metro_betweenness,0.1922565348137867,Network position
+MAA065,Anna Nagar West,metro_betweenness,0.1108026833217672,Network position
+MAA066,Assisi Nagar,metro_betweenness,0.0,Network position
+MAA067,Ayanavaram,metro_betweenness,0.0829285218598195,Network position
+MAA068,Butt Road,metro_betweenness,0.1497224149895905,Network position
+MAA069,Chennai Trade Centre,metro_betweenness,0.0796321998612075,Network position
+MAA070,Chetpet,metro_betweenness,0.2187427712236872,Network position
+MAA071,Classical Tamil Institute,metro_betweenness,0.0306500115660421,Network position
+MAA072,Dr. Radhakrishnan Salai,metro_betweenness,0.2497686791579921,Network position
+MAA073,Elcot,metro_betweenness,0.028972935461485,Network position
+MAA074,Gandhi Nagar,metro_betweenness,0.0245778394633356,Network position
+MAA075,Greenways Road,metro_betweenness,0.2313786722183669,Network position
+MAA076,Indira Nagar,metro_betweenness,0.1718713856118436,Network position
+MAA077,Kandanchavadi,metro_betweenness,0.1094147582697201,Network position
+MAA078,Karambakkam,metro_betweenness,0.1135785334258616,Network position
+MAA079,Karapakkam,metro_betweenness,0.0447605829285218,Network position
+MAA080,Kellys,metro_betweenness,0.2691128845708998,Network position
+MAA081,Kovilambakkam,metro_betweenness,0.0460039324543141,Network position
+MAA082,Koyambedu Market,metro_betweenness,0.1017233402729586,Network position
+MAA083,Madhavaram Bus Terminus,metro_betweenness,0.029088595882489,Network position
+MAA084,Madhavaram High Road,metro_betweenness,0.0442401110340041,Network position
+MAA085,Madipakkam,metro_betweenness,0.0556904927133934,Network position
+MAA086,Manapakkam,metro_betweenness,0.0756708304418228,Network position
+MAA087,Mandaveli,metro_betweenness,0.2406315058986814,Network position
+MAA088,Medavakkam I,metro_betweenness,0.0366643534582465,Network position
+MAA089,Medavakkam II,metro_betweenness,0.0298693037242655,Network position
+MAA090,Mettukuppam,metro_betweenness,0.0,Network position
+MAA091,Moolakadai,metro_betweenness,0.0297247281980106,Network position
+MAA092,Mugalivakkam,metro_betweenness,0.0771165857043719,Network position
+MAA093,Natesan Nagar,metro_betweenness,0.1501850566736063,Network position
+MAA094,Nehru Nagar,metro_betweenness,0.0,Network position
+MAA095,Nungambakkam,metro_betweenness,0.2248149433263937,Network position
+MAA096,Okkiyam Thoraipakkam,metro_betweenness,0.0828128614388156,Network position
+MAA097,Otteri,metro_betweenness,0.0965764515382836,Network position
+MAA098,PTC Colony,metro_betweenness,0.1350913717325931,Network position
+MAA099,Pattalam,metro_betweenness,0.1099930603747397,Network position
+MAA100,Perambur,metro_betweenness,0.0876705991209808,Network position
+MAA101,Perambur Barracks Road,metro_betweenness,0.123178348369188,Network position
+MAA102,Perumbakkam,metro_betweenness,0.0315463798288225,Network position
+MAA103,Perungudi,metro_betweenness,0.1223687254221605,Network position
+MAA104,Poonamallee,metro_betweenness,0.1303203793661809,Network position
+MAA105,Ramapuram,metro_betweenness,0.0765093684941013,Network position
+MAA106,Retteri Junction,metro_betweenness,0.0432859125607217,Network position
+MAA107,Saligramam,metro_betweenness,0.226029377746935,Network position
+MAA108,Shastri Nagar Chennai,metro_betweenness,0.0452810548230395,Network position
+MAA109,Siruseri,metro_betweenness,0.0018505667360629,Network position
+MAA110,Srinivasa Nagar,metro_betweenness,0.0335993523016423,Network position
+MAA111,Sterling Road,metro_betweenness,0.2235137635900994,Network position
+MAA112,Taramani,metro_betweenness,0.1598427018274346,Network position
+MAA113,Thiruvanmiyur,metro_betweenness,0.1475826972010178,Network position
+MAA114,Thoraipakkam,metro_betweenness,0.0962294702752718,Network position
+MAA115,Ullagaram,metro_betweenness,0.0672854499190377,Network position
+MAA116,Valasaravakkam,metro_betweenness,0.1396599583622484,Network position
+MAA117,Vanuvampet,metro_betweenness,0.080441822808235,Network position
+MAA118,Villivakkam,metro_betweenness,0.0709865833911635,Network position
+MAA119,Villivakkam Bus Terminus,metro_betweenness,0.0844899375433726,Network position
+MAA120,Villivakkam CTH Road,metro_betweenness,0.0977619708535739,Network position
+MAA121,Virugambakkam,metro_betweenness,0.1040654637982882,Network position
+MAA122,Adyar Junction,metro_betweenness,0.2218945176960444,Network position
+MAA123,Alapakkam Junction,metro_betweenness,0.126734906315059,Network position
+MAA124,Kolathur Junction,metro_betweenness,0.0572519083969465,Network position
+MAA125,Nookampalayam Depot,metro_betweenness,0.006823964839232,Network position
+MAA126,Perambur Market,metro_betweenness,0.109443673374971,Network position
+MAA127,SIPCOT I,metro_betweenness,0.3336803145963451,Network position
+MAA128,SIPCOT II,metro_betweenness,0.3360513532269257,Network position
+MAA129,Saligramam Warehouse,metro_betweenness,0.1669558177191765,Network position
+MAA130,Semmancheri I,metro_betweenness,0.0515556326625028,Network position
+MAA131,Semmancheri II,metro_betweenness,0.0294355771455008,Network position
+MAA132,Sholinganallur Lake I,metro_betweenness,0.107853342586167,Network position
+MAA133,Sholinganallur Lake II,metro_betweenness,0.0898970622253065,Network position
+MAA000,Chennai International Airport,is_interchange,0.0,Network position
+MAA001,Meenambakkam,is_interchange,0.0,Network position
+MAA002,St. Thomas Mount,is_interchange,0.0,Network position
+MAA003,Nanganallur Road,is_interchange,1.0,Network position
+MAA004,Arignar Anna Alandur,is_interchange,1.0,Network position
+MAA005,Ekkattuthangal,is_interchange,0.0,Network position
+MAA006,Ashok Nagar,is_interchange,0.0,Network position
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,is_interchange,0.0,Network position
+MAA008,Koyambedu,is_interchange,0.0,Network position
+MAA009,Anna Nagar Tower,is_interchange,0.0,Network position
+MAA010,Thirumangalam,is_interchange,1.0,Network position
+MAA011,Guindy,is_interchange,0.0,Network position
+MAA012,Little Mount,is_interchange,0.0,Network position
+MAA013,Saidapet,is_interchange,0.0,Network position
+MAA014,Nandanam,is_interchange,1.0,Network position
+MAA015,Teynampet,is_interchange,0.0,Network position
+MAA016,AG – DMS,is_interchange,0.0,Network position
+MAA017,Vadapalani,is_interchange,1.0,Network position
+MAA018,Thousand Lights,is_interchange,1.0,Network position
+MAA019,Arumbakkam,is_interchange,0.0,Network position
+MAA020,Pachaiyappa's College,is_interchange,0.0,Network position
+MAA021,Kilpauk,is_interchange,1.0,Network position
+MAA022,Nehru Park,is_interchange,0.0,Network position
+MAA023,Shenoy Nagar,is_interchange,0.0,Network position
+MAA024,Anna Nagar East,is_interchange,0.0,Network position
+MAA025,LIC,is_interchange,0.0,Network position
+MAA026,Government Estate,is_interchange,0.0,Network position
+MAA027,Egmore,is_interchange,0.0,Network position
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,is_interchange,0.0,Network position
+MAA029,High Court,is_interchange,0.0,Network position
+MAA030,Mannadi,is_interchange,0.0,Network position
+MAA031,Washermanpet,is_interchange,0.0,Network position
+MAA032,Sir Theagaraya College,is_interchange,0.0,Network position
+MAA033,Tondiarpet,is_interchange,0.0,Network position
+MAA034,New Washermanpet,is_interchange,0.0,Network position
+MAA035,Tollgate,is_interchange,0.0,Network position
+MAA036,Kaladipet,is_interchange,0.0,Network position
+MAA037,Tiruvottriyur Theradi,is_interchange,0.0,Network position
+MAA038,Tiruvottriyur,is_interchange,0.0,Network position
+MAA039,Wimco Nagar,is_interchange,0.0,Network position
+MAA040,Adambakkam,is_interchange,0.0,Network position
+MAA041,Alwarpet,is_interchange,0.0,Network position
+MAA042,Bharathidasan Road,is_interchange,0.0,Network position
+MAA043,Boat Club,is_interchange,1.0,Network position
+MAA044,Karayanchavadi,is_interchange,0.0,Network position
+MAA045,Kodambakkam,is_interchange,0.0,Network position
+MAA046,Kumananchavadi,is_interchange,0.0,Network position
+MAA047,Kutchery Road,is_interchange,0.0,Network position
+MAA048,Lighthouse,is_interchange,0.0,Network position
+MAA049,Madhavaram Depot,is_interchange,0.0,Network position
+MAA050,Madhavaram Milk Colony,is_interchange,0.0,Network position
+MAA051,Panagal Park,is_interchange,0.0,Network position
+MAA052,Poonamallee Bypass,is_interchange,0.0,Network position
+MAA053,Porur Bypass,is_interchange,0.0,Network position
+MAA054,Porur Junction,is_interchange,0.0,Network position
+MAA055,Royapettah,is_interchange,1.0,Network position
+MAA056,Sholinganallur,is_interchange,0.0,Network position
+MAA057,Thelliyaragaram,is_interchange,0.0,Network position
+MAA058,Thirumayilai,is_interchange,0.0,Network position
+MAA059,Kattupkkam,is_interchange,0.0,Network position
+MAA060,Iyyapanthangal,is_interchange,0.0,Network position
+MAA061,Adyar Depot,is_interchange,1.0,Network position
+MAA062,Alwarthirunagar,is_interchange,1.0,Network position
+MAA063,Anna Flyover,is_interchange,0.0,Network position
+MAA064,Anna Nagar KV,is_interchange,1.0,Network position
+MAA065,Anna Nagar West,is_interchange,0.0,Network position
+MAA066,Assisi Nagar,is_interchange,0.0,Network position
+MAA067,Ayanavaram,is_interchange,0.0,Network position
+MAA068,Butt Road,is_interchange,1.0,Network position
+MAA069,Chennai Trade Centre,is_interchange,0.0,Network position
+MAA070,Chetpet,is_interchange,0.0,Network position
+MAA071,Classical Tamil Institute,is_interchange,0.0,Network position
+MAA072,Dr. Radhakrishnan Salai,is_interchange,0.0,Network position
+MAA073,Elcot,is_interchange,0.0,Network position
+MAA074,Gandhi Nagar,is_interchange,1.0,Network position
+MAA075,Greenways Road,is_interchange,0.0,Network position
+MAA076,Indira Nagar,is_interchange,0.0,Network position
+MAA077,Kandanchavadi,is_interchange,0.0,Network position
+MAA078,Karambakkam,is_interchange,0.0,Network position
+MAA079,Karapakkam,is_interchange,0.0,Network position
+MAA080,Kellys,is_interchange,1.0,Network position
+MAA081,Kovilambakkam,is_interchange,0.0,Network position
+MAA082,Koyambedu Market,is_interchange,0.0,Network position
+MAA083,Madhavaram Bus Terminus,is_interchange,0.0,Network position
+MAA084,Madhavaram High Road,is_interchange,0.0,Network position
+MAA085,Madipakkam,is_interchange,0.0,Network position
+MAA086,Manapakkam,is_interchange,0.0,Network position
+MAA087,Mandaveli,is_interchange,0.0,Network position
+MAA088,Medavakkam I,is_interchange,0.0,Network position
+MAA089,Medavakkam II,is_interchange,0.0,Network position
+MAA090,Mettukuppam,is_interchange,0.0,Network position
+MAA091,Moolakadai,is_interchange,0.0,Network position
+MAA092,Mugalivakkam,is_interchange,0.0,Network position
+MAA093,Natesan Nagar,is_interchange,1.0,Network position
+MAA094,Nehru Nagar,is_interchange,0.0,Network position
+MAA095,Nungambakkam,is_interchange,0.0,Network position
+MAA096,Okkiyam Thoraipakkam,is_interchange,0.0,Network position
+MAA097,Otteri,is_interchange,0.0,Network position
+MAA098,PTC Colony,is_interchange,0.0,Network position
+MAA099,Pattalam,is_interchange,0.0,Network position
+MAA100,Perambur,is_interchange,0.0,Network position
+MAA101,Perambur Barracks Road,is_interchange,0.0,Network position
+MAA102,Perumbakkam,is_interchange,0.0,Network position
+MAA103,Perungudi,is_interchange,0.0,Network position
+MAA104,Poonamallee,is_interchange,0.0,Network position
+MAA105,Ramapuram,is_interchange,0.0,Network position
+MAA106,Retteri Junction,is_interchange,0.0,Network position
+MAA107,Saligramam,is_interchange,1.0,Network position
+MAA108,Shastri Nagar Chennai,is_interchange,0.0,Network position
+MAA109,Siruseri,is_interchange,0.0,Network position
+MAA110,Srinivasa Nagar,is_interchange,0.0,Network position
+MAA111,Sterling Road,is_interchange,0.0,Network position
+MAA112,Taramani,is_interchange,0.0,Network position
+MAA113,Thiruvanmiyur,is_interchange,0.0,Network position
+MAA114,Thoraipakkam,is_interchange,0.0,Network position
+MAA115,Ullagaram,is_interchange,0.0,Network position
+MAA116,Valasaravakkam,is_interchange,0.0,Network position
+MAA117,Vanuvampet,is_interchange,0.0,Network position
+MAA118,Villivakkam,is_interchange,0.0,Network position
+MAA119,Villivakkam Bus Terminus,is_interchange,0.0,Network position
+MAA120,Villivakkam CTH Road,is_interchange,0.0,Network position
+MAA121,Virugambakkam,is_interchange,0.0,Network position
+MAA122,Adyar Junction,is_interchange,0.0,Network position
+MAA123,Alapakkam Junction,is_interchange,0.0,Network position
+MAA124,Kolathur Junction,is_interchange,0.0,Network position
+MAA125,Nookampalayam Depot,is_interchange,0.0,Network position
+MAA126,Perambur Market,is_interchange,0.0,Network position
+MAA127,SIPCOT I,is_interchange,0.0,Network position
+MAA128,SIPCOT II,is_interchange,0.0,Network position
+MAA129,Saligramam Warehouse,is_interchange,0.0,Network position
+MAA130,Semmancheri I,is_interchange,0.0,Network position
+MAA131,Semmancheri II,is_interchange,0.0,Network position
+MAA132,Sholinganallur Lake I,is_interchange,0.0,Network position
+MAA133,Sholinganallur Lake II,is_interchange,0.0,Network position
+MAA000,Chennai International Airport,is_terminal,1.0,Network position
+MAA001,Meenambakkam,is_terminal,0.0,Network position
+MAA002,St. Thomas Mount,is_terminal,0.0,Network position
+MAA003,Nanganallur Road,is_terminal,0.0,Network position
+MAA004,Arignar Anna Alandur,is_terminal,0.0,Network position
+MAA005,Ekkattuthangal,is_terminal,0.0,Network position
+MAA006,Ashok Nagar,is_terminal,0.0,Network position
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,is_terminal,0.0,Network position
+MAA008,Koyambedu,is_terminal,0.0,Network position
+MAA009,Anna Nagar Tower,is_terminal,0.0,Network position
+MAA010,Thirumangalam,is_terminal,0.0,Network position
+MAA011,Guindy,is_terminal,0.0,Network position
+MAA012,Little Mount,is_terminal,0.0,Network position
+MAA013,Saidapet,is_terminal,0.0,Network position
+MAA014,Nandanam,is_terminal,0.0,Network position
+MAA015,Teynampet,is_terminal,0.0,Network position
+MAA016,AG – DMS,is_terminal,0.0,Network position
+MAA017,Vadapalani,is_terminal,0.0,Network position
+MAA018,Thousand Lights,is_terminal,0.0,Network position
+MAA019,Arumbakkam,is_terminal,0.0,Network position
+MAA020,Pachaiyappa's College,is_terminal,0.0,Network position
+MAA021,Kilpauk,is_terminal,0.0,Network position
+MAA022,Nehru Park,is_terminal,0.0,Network position
+MAA023,Shenoy Nagar,is_terminal,0.0,Network position
+MAA024,Anna Nagar East,is_terminal,0.0,Network position
+MAA025,LIC,is_terminal,0.0,Network position
+MAA026,Government Estate,is_terminal,0.0,Network position
+MAA027,Egmore,is_terminal,1.0,Network position
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,is_terminal,0.0,Network position
+MAA029,High Court,is_terminal,0.0,Network position
+MAA030,Mannadi,is_terminal,0.0,Network position
+MAA031,Washermanpet,is_terminal,0.0,Network position
+MAA032,Sir Theagaraya College,is_terminal,0.0,Network position
+MAA033,Tondiarpet,is_terminal,0.0,Network position
+MAA034,New Washermanpet,is_terminal,0.0,Network position
+MAA035,Tollgate,is_terminal,0.0,Network position
+MAA036,Kaladipet,is_terminal,0.0,Network position
+MAA037,Tiruvottriyur Theradi,is_terminal,0.0,Network position
+MAA038,Tiruvottriyur,is_terminal,0.0,Network position
+MAA039,Wimco Nagar,is_terminal,1.0,Network position
+MAA040,Adambakkam,is_terminal,0.0,Network position
+MAA041,Alwarpet,is_terminal,0.0,Network position
+MAA042,Bharathidasan Road,is_terminal,0.0,Network position
+MAA043,Boat Club,is_terminal,0.0,Network position
+MAA044,Karayanchavadi,is_terminal,0.0,Network position
+MAA045,Kodambakkam,is_terminal,0.0,Network position
+MAA046,Kumananchavadi,is_terminal,0.0,Network position
+MAA047,Kutchery Road,is_terminal,0.0,Network position
+MAA048,Lighthouse,is_terminal,1.0,Network position
+MAA049,Madhavaram Depot,is_terminal,0.0,Network position
+MAA050,Madhavaram Milk Colony,is_terminal,0.0,Network position
+MAA051,Panagal Park,is_terminal,0.0,Network position
+MAA052,Poonamallee Bypass,is_terminal,1.0,Network position
+MAA053,Porur Bypass,is_terminal,0.0,Network position
+MAA054,Porur Junction,is_terminal,0.0,Network position
+MAA055,Royapettah,is_terminal,0.0,Network position
+MAA056,Sholinganallur,is_terminal,0.0,Network position
+MAA057,Thelliyaragaram,is_terminal,0.0,Network position
+MAA058,Thirumayilai,is_terminal,0.0,Network position
+MAA059,Kattupkkam,is_terminal,0.0,Network position
+MAA060,Iyyapanthangal,is_terminal,0.0,Network position
+MAA061,Adyar Depot,is_terminal,0.0,Network position
+MAA062,Alwarthirunagar,is_terminal,0.0,Network position
+MAA063,Anna Flyover,is_terminal,0.0,Network position
+MAA064,Anna Nagar KV,is_terminal,0.0,Network position
+MAA065,Anna Nagar West,is_terminal,0.0,Network position
+MAA066,Assisi Nagar,is_terminal,1.0,Network position
+MAA067,Ayanavaram,is_terminal,0.0,Network position
+MAA068,Butt Road,is_terminal,0.0,Network position
+MAA069,Chennai Trade Centre,is_terminal,0.0,Network position
+MAA070,Chetpet,is_terminal,0.0,Network position
+MAA071,Classical Tamil Institute,is_terminal,0.0,Network position
+MAA072,Dr. Radhakrishnan Salai,is_terminal,0.0,Network position
+MAA073,Elcot,is_terminal,0.0,Network position
+MAA074,Gandhi Nagar,is_terminal,0.0,Network position
+MAA075,Greenways Road,is_terminal,0.0,Network position
+MAA076,Indira Nagar,is_terminal,0.0,Network position
+MAA077,Kandanchavadi,is_terminal,0.0,Network position
+MAA078,Karambakkam,is_terminal,0.0,Network position
+MAA079,Karapakkam,is_terminal,0.0,Network position
+MAA080,Kellys,is_terminal,0.0,Network position
+MAA081,Kovilambakkam,is_terminal,0.0,Network position
+MAA082,Koyambedu Market,is_terminal,0.0,Network position
+MAA083,Madhavaram Bus Terminus,is_terminal,0.0,Network position
+MAA084,Madhavaram High Road,is_terminal,0.0,Network position
+MAA085,Madipakkam,is_terminal,0.0,Network position
+MAA086,Manapakkam,is_terminal,0.0,Network position
+MAA087,Mandaveli,is_terminal,0.0,Network position
+MAA088,Medavakkam I,is_terminal,0.0,Network position
+MAA089,Medavakkam II,is_terminal,0.0,Network position
+MAA090,Mettukuppam,is_terminal,1.0,Network position
+MAA091,Moolakadai,is_terminal,0.0,Network position
+MAA092,Mugalivakkam,is_terminal,0.0,Network position
+MAA093,Natesan Nagar,is_terminal,0.0,Network position
+MAA094,Nehru Nagar,is_terminal,1.0,Network position
+MAA095,Nungambakkam,is_terminal,0.0,Network position
+MAA096,Okkiyam Thoraipakkam,is_terminal,0.0,Network position
+MAA097,Otteri,is_terminal,0.0,Network position
+MAA098,PTC Colony,is_terminal,0.0,Network position
+MAA099,Pattalam,is_terminal,0.0,Network position
+MAA100,Perambur,is_terminal,0.0,Network position
+MAA101,Perambur Barracks Road,is_terminal,0.0,Network position
+MAA102,Perumbakkam,is_terminal,0.0,Network position
+MAA103,Perungudi,is_terminal,0.0,Network position
+MAA104,Poonamallee,is_terminal,0.0,Network position
+MAA105,Ramapuram,is_terminal,0.0,Network position
+MAA106,Retteri Junction,is_terminal,0.0,Network position
+MAA107,Saligramam,is_terminal,0.0,Network position
+MAA108,Shastri Nagar Chennai,is_terminal,0.0,Network position
+MAA109,Siruseri,is_terminal,0.0,Network position
+MAA110,Srinivasa Nagar,is_terminal,0.0,Network position
+MAA111,Sterling Road,is_terminal,0.0,Network position
+MAA112,Taramani,is_terminal,0.0,Network position
+MAA113,Thiruvanmiyur,is_terminal,0.0,Network position
+MAA114,Thoraipakkam,is_terminal,0.0,Network position
+MAA115,Ullagaram,is_terminal,0.0,Network position
+MAA116,Valasaravakkam,is_terminal,0.0,Network position
+MAA117,Vanuvampet,is_terminal,0.0,Network position
+MAA118,Villivakkam,is_terminal,0.0,Network position
+MAA119,Villivakkam Bus Terminus,is_terminal,0.0,Network position
+MAA120,Villivakkam CTH Road,is_terminal,0.0,Network position
+MAA121,Virugambakkam,is_terminal,0.0,Network position
+MAA122,Adyar Junction,is_terminal,0.0,Network position
+MAA123,Alapakkam Junction,is_terminal,0.0,Network position
+MAA124,Kolathur Junction,is_terminal,0.0,Network position
+MAA125,Nookampalayam Depot,is_terminal,0.0,Network position
+MAA126,Perambur Market,is_terminal,0.0,Network position
+MAA127,SIPCOT I,is_terminal,0.0,Network position
+MAA128,SIPCOT II,is_terminal,0.0,Network position
+MAA129,Saligramam Warehouse,is_terminal,0.0,Network position
+MAA130,Semmancheri I,is_terminal,0.0,Network position
+MAA131,Semmancheri II,is_terminal,0.0,Network position
+MAA132,Sholinganallur Lake I,is_terminal,0.0,Network position
+MAA133,Sholinganallur Lake II,is_terminal,0.0,Network position

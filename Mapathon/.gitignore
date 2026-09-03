@@ -1,0 +1,28 @@
+# Raw data is large and mostly redistributable only under its own licence.
+# Keep the acquisition scripts in version control, not the payloads.
+data/raw/**
+data/interim/**
+!data/raw/**/.gitkeep
+!data/**/README.md
+
+# Allow small processed vector outputs that the map depends on
+data/processed/*.tif
+data/processed/*.img
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# QGIS
+*.qgz~
+*.qgs~
+
+# Scheduled-task logs
+logs/
+
+# OS
+Thumbs.db
+desktop.ini

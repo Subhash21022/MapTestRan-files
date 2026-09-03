@@ -1,0 +1,135 @@
+﻿station_id,name,line,phase,layout,confidence,position_source,latitude,longitude,phase_label,position_reliable
+MAA000,Chennai International Airport,Blue Line,phase1,Elevated,high,osm,12.980809,80.164203,Phase 1 (operational),Surveyed
+MAA001,Meenambakkam,Blue Line,phase1,Elevated,high,osm,12.987673,80.176479,Phase 1 (operational),Surveyed
+MAA002,St. Thomas Mount,Green Line,phase1,Elevated,high,osm,12.995,80.198582,Phase 1 (operational),Surveyed
+MAA003,Nanganallur Road,Blue Line,phase1,Elevated,high,osm,12.99988,80.19401,Phase 1 (operational),Surveyed
+MAA004,Arignar Anna Alandur,Blue Line,phase1,Elevated,high,osm,13.004256,80.201452,Phase 1 (operational),Surveyed
+MAA005,Ekkattuthangal,Green Line,phase1,Elevated,high,osm,13.016922,80.205424,Phase 1 (operational),Surveyed
+MAA006,Ashok Nagar,Green Line,phase1,Elevated,high,osm,13.035477,80.211108,Phase 1 (operational),Surveyed
+MAA007,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,Green Line,phase1,Elevated,high,osm,13.06852,80.203984,Phase 1 (operational),Surveyed
+MAA008,Koyambedu,Green Line,phase1,Elevated,high,osm,13.07345,80.194836,Phase 1 (operational),Surveyed
+MAA009,Anna Nagar Tower,Green Line,phase1,Underground,high,osm,13.085065,80.208638,Phase 1 (operational),Surveyed
+MAA010,Thirumangalam,Green Line,phase1,Underground,high,osm,13.085332,80.201557,Phase 1 (operational),Surveyed
+MAA011,Guindy,Blue Line,phase1,Elevated,high,osm,13.009275,80.213085,Phase 1 (operational),Surveyed
+MAA012,Little Mount,Blue Line,phase1,Elevated,high,osm,13.014663,80.224167,Phase 1 (operational),Surveyed
+MAA013,Saidapet,Blue Line,phase1,Underground,high,osm,13.023995,80.228124,Phase 1 (operational),Surveyed
+MAA014,Nandanam,Blue Line,phase1,Underground,high,osm,13.031709,80.241196,Phase 1 (operational),Surveyed
+MAA015,Teynampet,Blue Line,phase1,Underground,high,osm,13.0368,80.246419,Phase 1 (operational),Surveyed
+MAA016,AG – DMS,Blue Line,phase1,Underground,high,osm,13.045885,80.248285,Phase 1 (operational),Surveyed
+MAA017,Vadapalani,Green Line,phase1,Elevated,high,osm,13.050937,80.212065,Phase 1 (operational),Surveyed
+MAA018,Thousand Lights,Blue Line,phase1,Underground,high,osm,13.058516,80.258783,Phase 1 (operational),Surveyed
+MAA019,Arumbakkam,Green Line,phase1,Elevated,high,osm,13.061675,80.211656,Phase 1 (operational),Surveyed
+MAA020,Pachaiyappa's College,Green Line,phase1,Underground,high,osm,13.075547,80.232852,Phase 1 (operational),Surveyed
+MAA021,Kilpauk,Green Line,phase1,Underground,high,osm,13.077637,80.242619,Phase 1 (operational),Surveyed
+MAA022,Nehru Park,Green Line,phase1,Underground,high,osm,13.078784,80.250473,Phase 1 (operational),Surveyed
+MAA023,Shenoy Nagar,Green Line,phase1,Underground,high,osm,13.078873,80.225127,Phase 1 (operational),Surveyed
+MAA024,Anna Nagar East,Green Line,phase1,Underground,high,osm,13.084612,80.219315,Phase 1 (operational),Surveyed
+MAA025,LIC,Blue Line,phase1,Underground,high,osm,13.064372,80.265846,Phase 1 (operational),Surveyed
+MAA026,Government Estate,Blue Line,phase1,Underground,high,osm,13.069634,80.273036,Phase 1 (operational),Surveyed
+MAA027,Egmore,Green Line,phase1,Underground,high,osm,13.080281,80.263055,Phase 1 (operational),Surveyed
+MAA028,Puratchi Thalaivar Dr. M.G. Ramachandran Central,Blue Line,phase1,Underground,high,osm,13.081725,80.273916,Phase 1 (operational),Surveyed
+MAA029,High Court,Blue Line,phase1,Underground,high,osm,13.087268,80.284984,Phase 1 (operational),Surveyed
+MAA030,Mannadi,Blue Line,phase1,Underground,high,osm,13.095446,80.286131,Phase 1 (operational),Surveyed
+MAA031,Washermanpet,Blue Line,phase1,Underground,high,osm,13.107847,80.280949,Phase 1 (operational),Surveyed
+MAA032,Sir Theagaraya College,Blue Line,phase1,Underground,high,osm,13.115754,80.284744,Phase 1 (operational),Surveyed
+MAA033,Tondiarpet,Blue Line,phase1,Underground,high,osm,13.124528,80.288856,Phase 1 (operational),Surveyed
+MAA034,New Washermanpet,Blue Line,phase1,Elevated,high,osm,13.13452,80.293001,Phase 1 (operational),Surveyed
+MAA035,Tollgate,Blue Line,phase1,Elevated,high,osm,13.143134,80.296329,Phase 1 (operational),Surveyed
+MAA036,Kaladipet,Blue Line,phase1,Elevated,high,osm,13.150667,80.299393,Phase 1 (operational),Surveyed
+MAA037,Tiruvottriyur Theradi,Blue Line,phase1,Elevated,high,osm,13.160215,80.302448,Phase 1 (operational),Surveyed
+MAA038,Tiruvottriyur,Blue Line,phase1,Elevated,high,osm,13.171803,80.305269,Phase 1 (operational),Surveyed
+MAA039,Wimco Nagar,Blue Line,phase1,Elevated,high,osm,13.17929,80.307344,Phase 1 (operational),Surveyed
+MAA040,Adambakkam,Red Line,phase2,Elevated,low,osm,12.982381,80.196888,Phase 2 (under construction),Approximate
+MAA041,Alwarpet,Yellow Line,phase2,Underground,high,osm,13.038301,80.259646,Phase 2 (under construction),Surveyed
+MAA042,Bharathidasan Road,Yellow Line,phase2,Underground,high,osm,13.035814,80.254976,Phase 2 (under construction),Surveyed
+MAA043,Boat Club,Yellow Line,phase2,Underground,high,osm,13.02935,80.247704,Phase 2 (under construction),Surveyed
+MAA044,Karayanchavadi,Yellow Line,phase2,Elevated,high,osm,13.046711,80.110905,Phase 2 (under construction),Surveyed
+MAA045,Kodambakkam,Yellow Line,phase2,Underground,high,osm,13.052118,80.231127,Phase 2 (under construction),Surveyed
+MAA046,Kumananchavadi,Yellow Line,phase2,Elevated,high,osm,13.044683,80.118909,Phase 2 (under construction),Surveyed
+MAA047,Kutchery Road,Yellow Line,phase2,Underground,high,osm,13.034363,80.273232,Phase 2 (under construction),Surveyed
+MAA048,Lighthouse,Yellow Line,phase2,Underground,high,osm,13.043838,80.280042,Phase 2 (under construction),Surveyed
+MAA049,Madhavaram Depot,Red Line,phase2,At-grade,high,osm,13.155758,80.238664,Phase 2 (under construction),Surveyed
+MAA050,Madhavaram Milk Colony,Purple Line,phase2,Underground,high,osm,13.149667,80.241421,Phase 2 (under construction),Surveyed
+MAA051,Panagal Park,Yellow Line,phase2,Underground,high,osm,13.041026,80.233453,Phase 2 (under construction),Surveyed
+MAA052,Poonamallee Bypass,Yellow Line,phase2,Elevated,high,osm,13.048021,80.081814,Phase 2 (under construction),Surveyed
+MAA053,Porur Bypass,Yellow Line,phase2,Elevated,high,osm,13.036226,80.149971,Phase 2 (under construction),Surveyed
+MAA054,Porur Junction,Yellow Line,phase2,Elevated,high,osm,13.035861,80.156761,Phase 2 (under construction),Surveyed
+MAA055,Royapettah,Purple Line,phase2,Underground,high,osm,13.054508,80.264239,Phase 2 (under construction),Surveyed
+MAA056,Sholinganallur,Red LinePurple Line,phase2,Elevated,high,osm,12.900958,80.227965,Phase 2 (under construction),Surveyed
+MAA057,Thelliyaragaram,Yellow Line,phase2,Elevated,high,osm,13.036864,80.141862,Phase 2 (under construction),Surveyed
+MAA058,Thirumayilai,Yellow Line,phase2,Underground,high,osm,13.036832,80.267649,Phase 2 (under construction),Surveyed
+MAA059,Kattupkkam,Yellow Line,phase2,Elevated,high,osm,13.041979,80.125382,Phase 2 (under construction),Surveyed
+MAA060,Iyyapanthangal,Yellow Line,phase2,Elevated,high,osm,13.038183,80.134988,Phase 2 (under construction),Surveyed
+MAA061,Adyar Depot,Purple Line,phase2,Underground,medium,nominatim,12.99874,80.256178,Phase 2 (under construction),Snapped to corridor
+MAA062,Alwarthirunagar,Yellow Line,phase2,Elevated,medium,nominatim,13.045585,80.186976,Phase 2 (under construction),Snapped to corridor
+MAA063,Anna Flyover,Purple Line,phase2,Underground,medium,nominatim,13.053641,80.251317,Phase 2 (under construction),Snapped to corridor
+MAA064,Anna Nagar KV,Red Line,phase2,Elevated,medium,nominatim,13.088103,80.198865,Phase 2 (under construction),Snapped to corridor
+MAA065,Anna Nagar West,Red Line,phase2,Elevated,medium,nominatim,13.093993,80.198602,Phase 2 (under construction),Snapped to corridor
+MAA066,Assisi Nagar,Red Line,phase2,Elevated,medium,nominatim,13.161657,80.230705,Phase 2 (under construction),Snapped to corridor
+MAA067,Ayanavaram,Purple Line,phase2,Underground,medium,nominatim,13.097534,80.242697,Phase 2 (under construction),Snapped to corridor
+MAA068,Butt Road,Red Line,phase2,Elevated,medium,nominatim,13.008582,80.198609,Phase 2 (under construction),Snapped to corridor
+MAA069,Chennai Trade Centre,Red Line,phase2,Elevated,medium,nominatim,13.01592,80.190781,Phase 2 (under construction),Snapped to corridor
+MAA070,Chetpet,Purple Line,phase2,Underground,medium,nominatim,13.071219,80.241907,Phase 2 (under construction),Snapped to corridor
+MAA071,Classical Tamil Institute,Red Line,phase2,Elevated,medium,nominatim,12.904276,80.211015,Phase 2 (under construction),Snapped to corridor
+MAA072,Dr. Radhakrishnan Salai,Purple Line,phase2,Underground,medium,nominatim,13.044729,80.266753,Phase 2 (under construction),Snapped to corridor
+MAA073,Elcot,Red Line,phase2,Elevated,low,nominatim,12.901688,80.218477,Phase 2 (under construction),Approximate
+MAA074,Gandhi Nagar,Purple Line,phase2,Elevated,low,nominatim,13.041268,80.187183,Phase 2 (under construction),Approximate
+MAA075,Greenways Road,Purple Line,phase2,Underground,medium,nominatim,13.018209,80.260958,Phase 2 (under construction),Snapped to corridor
+MAA076,Indira Nagar,Purple Line,phase2,Underground,medium,nominatim,12.994485,80.250669,Phase 2 (under construction),Snapped to corridor
+MAA077,Kandanchavadi,Purple Line,phase2,Elevated,low,nominatim,12.966535,80.247894,Phase 2 (under construction),Approximate
+MAA078,Karambakkam,Yellow Line,phase2,Elevated,medium,nominatim,13.038261,80.164606,Phase 2 (under construction),Snapped to corridor
+MAA079,Karapakkam,Purple Line,phase2,Elevated,medium,nominatim,12.911537,80.228973,Phase 2 (under construction),Snapped to corridor
+MAA080,Kellys,Purple Line,phase2,Underground,medium,nominatim,13.082603,80.243781,Phase 2 (under construction),Snapped to corridor
+MAA081,Kovilambakkam,Red Line,phase2,Elevated,medium,nominatim,12.93958,80.182572,Phase 2 (under construction),Snapped to corridor
+MAA082,Koyambedu Market,Red Line,phase2,Elevated,medium,nominatim,13.068212,80.199442,Phase 2 (under construction),Snapped to corridor
+MAA083,Madhavaram Bus Terminus,Red Line,phase2,Elevated,medium,nominatim,13.146339,80.221138,Phase 2 (under construction),Snapped to corridor
+MAA084,Madhavaram High Road,Purple Line,phase2,Underground,medium,nominatim,13.125327,80.241777,Phase 2 (under construction),Snapped to corridor
+MAA085,Madipakkam,Red Line,phase2,Elevated,medium,nominatim,12.965231,80.188314,Phase 2 (under construction),Snapped to corridor
+MAA086,Manapakkam,Red Line,phase2,Elevated,medium,nominatim,13.023336,80.179478,Phase 2 (under construction),Snapped to corridor
+MAA087,Mandaveli,Purple Line,phase2,Underground,medium,nominatim,13.024515,80.264718,Phase 2 (under construction),Snapped to corridor
+MAA088,Medavakkam I,Red Line,phase2,Elevated,medium,nominatim,12.919662,80.18672,Phase 2 (under construction),Snapped to corridor
+MAA089,Medavakkam II,Red Line,phase2,Elevated,low,nominatim,12.901758,80.217896,Phase 2 (under construction),Approximate
+MAA090,Mettukuppam,Purple Line,phase2,Elevated,low,nominatim,13.059232,80.174612,Phase 2 (under construction),Approximate
+MAA091,Moolakadai,Purple Line,phase2,Underground,medium,nominatim,13.129073,80.241321,Phase 2 (under construction),Snapped to corridor
+MAA092,Mugalivakkam,Red Line,phase2,Elevated,medium,nominatim,13.027283,80.172409,Phase 2 (under construction),Snapped to corridor
+MAA093,Natesan Nagar,Red Line,phase2,Elevated,medium,nominatim,13.047169,80.192154,Phase 2 (under construction),Snapped to corridor
+MAA094,Nehru Nagar,Purple Line,phase2,Elevated,low,nominatim,13.215933,80.318729,Phase 2 (under construction),Approximate
+MAA095,Nungambakkam,Purple Line,phase2,Underground,low,nominatim,13.06376,80.24362,Phase 2 (under construction),Approximate
+MAA096,Okkiyam Thoraipakkam,Purple Line,phase2,Elevated,medium,nominatim,12.932632,80.232442,Phase 2 (under construction),Snapped to corridor
+MAA097,Otteri,Purple Line,phase2,Underground,medium,nominatim,13.097437,80.248616,Phase 2 (under construction),Snapped to corridor
+MAA098,PTC Colony,Purple Line,phase2,Elevated,medium,nominatim,12.978459,80.252611,Phase 2 (under construction),Snapped to corridor
+MAA099,Pattalam,Purple Line,phase2,Underground,medium,nominatim,13.096788,80.259038,Phase 2 (under construction),Snapped to corridor
+MAA100,Perambur,Purple Line,phase2,Underground,low,nominatim,13.112119,80.243574,Phase 2 (under construction),Approximate
+MAA101,Perambur Barracks Road,Purple Line,phase2,Underground,medium,nominatim,13.093279,80.258796,Phase 2 (under construction),Snapped to corridor
+MAA102,Perumbakkam,Red Line,phase2,Elevated,medium,nominatim,12.907814,80.198584,Phase 2 (under construction),Snapped to corridor
+MAA103,Perungudi,Purple Line,phase2,Elevated,low,nominatim,12.968595,80.248796,Phase 2 (under construction),Approximate
+MAA104,Poonamallee,Yellow Line,phase2,Elevated,medium,nominatim,13.05356,80.224838,Phase 2 (under construction),Snapped to corridor
+MAA105,Ramapuram,Red Line,phase2,Elevated,medium,nominatim,13.02558,80.175549,Phase 2 (under construction),Snapped to corridor
+MAA106,Retteri Junction,Red Line,phase2,Elevated,medium,nominatim,13.130244,80.213859,Phase 2 (under construction),Snapped to corridor
+MAA107,Saligramam,Yellow Line,phase2,Elevated,low,nominatim,13.048673,80.206381,Phase 2 (under construction),Approximate
+MAA108,Shastri Nagar Chennai,Red Line,phase2,Elevated,low,nominatim,12.998773,80.259912,Phase 2 (under construction),Approximate
+MAA109,Siruseri,Purple Line,phase2,Elevated,low,nominatim,12.801283,80.199187,Phase 2 (under construction),Approximate
+MAA110,Srinivasa Nagar,Red Line,phase2,Underground,low,nominatim,12.9503,80.246967,Phase 2 (under construction),Approximate
+MAA111,Sterling Road,Purple Line,phase2,Underground,low,nominatim,13.065099,80.243575,Phase 2 (under construction),Approximate
+MAA112,Taramani,Purple Line,phase2,Underground,medium,nominatim,12.987961,80.251436,Phase 2 (under construction),Snapped to corridor
+MAA113,Thiruvanmiyur,Purple Line,phase2,Underground,medium,nominatim,12.982912,80.25296,Phase 2 (under construction),Snapped to corridor
+MAA114,Thoraipakkam,Purple Line,phase2,Elevated,medium,nominatim,12.949151,80.240766,Phase 2 (under construction),Snapped to corridor
+MAA115,Ullagaram,Red Line,phase2,Elevated,medium,nominatim,12.977305,80.193712,Phase 2 (under construction),Snapped to corridor
+MAA116,Valasaravakkam,Yellow Line,phase2,Elevated,low,nominatim,13.040835,80.172677,Phase 2 (under construction),Approximate
+MAA117,Vanuvampet,Red Line,phase2,Elevated,low,nominatim,12.981668,80.195671,Phase 2 (under construction),Approximate
+MAA118,Villivakkam,Red Line,phase2,Underground,medium,nominatim,13.110485,80.210214,Phase 2 (under construction),Snapped to corridor
+MAA119,Villivakkam Bus Terminus,Red Line,phase2,Underground,medium,nominatim,13.105471,80.208016,Phase 2 (under construction),Snapped to corridor
+MAA120,Villivakkam CTH Road,Red Line,phase2,Underground,medium,nominatim,13.103505,80.202043,Phase 2 (under construction),Snapped to corridor
+MAA121,Virugambakkam,Red Line,phase2,Elevated,medium,nominatim,13.052241,80.192121,Phase 2 (under construction),Snapped to corridor
+MAA122,Adyar Junction,Purple Line,phase2,Underground,medium,nominatim_stem,13.00647,80.25772,Phase 2 (under construction),Snapped to corridor
+MAA123,Alapakkam Junction,Yellow Line,phase2,Elevated,low,nominatim_stem,13.039933,80.170887,Phase 2 (under construction),Approximate
+MAA124,Kolathur Junction,Red Line,phase2,Underground,medium,nominatim_stem,13.1244,80.204175,Phase 2 (under construction),Snapped to corridor
+MAA125,Nookampalayam Depot,Purple Line,phase2,Elevated,low,nominatim_stem,12.88426,80.20203,Phase 2 (under construction),Approximate
+MAA126,Perambur Market,Purple Line,phase2,Underground,low,nominatim_stem,13.112119,80.243574,Phase 2 (under construction),Approximate
+MAA127,SIPCOT I,Purple Line,phase2,Elevated,low,nominatim_stem,13.068713,80.242707,Phase 2 (under construction),Approximate
+MAA128,SIPCOT II,Purple Line,phase2,Elevated,low,nominatim_stem,13.068713,80.242707,Phase 2 (under construction),Approximate
+MAA129,Saligramam Warehouse,Yellow Line,phase2,Elevated,low,nominatim_stem,13.048673,80.206381,Phase 2 (under construction),Approximate
+MAA130,Semmancheri I,Purple Line,phase2,Elevated,low,nominatim_stem,12.880401,80.226715,Phase 2 (under construction),Approximate
+MAA131,Semmancheri II,Purple Line,phase2,Elevated,low,nominatim_stem,12.880401,80.226715,Phase 2 (under construction),Approximate
+MAA132,Sholinganallur Lake I,Purple Line,phase2,Elevated,low,nominatim_stem,12.915507,80.229532,Phase 2 (under construction),Approximate
+MAA133,Sholinganallur Lake II,Purple Line,phase2,Elevated,low,nominatim_stem,12.915507,80.229532,Phase 2 (under construction),Approximate

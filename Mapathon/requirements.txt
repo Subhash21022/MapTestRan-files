@@ -1,0 +1,37 @@
+# Chennai Metro Phase 2 ridership potential model
+# All dependencies are free/libre open source, per Mapathon rules.
+
+# Core data
+pandas>=2.2
+numpy>=1.26
+pyarrow>=15.0
+
+# Geospatial
+geopandas>=1.0
+shapely>=2.0
+pyproj>=3.6
+rasterio>=1.3
+rasterstats>=0.19
+osmnx>=2.0
+mapclassify>=2.6
+contextily>=1.6
+
+# Networks
+networkx>=3.2
+
+# Modelling
+scikit-learn>=1.4
+statsmodels>=0.14
+shap>=0.45
+
+# Spatial statistics (Moran's I, spatial lag/error models)
+libpysal>=4.9
+esda>=2.5
+spreg>=1.4
+
+# Plotting
+matplotlib>=3.8
+
+# Utilities
+requests>=2.31
+lxml>=5.0          # parses the Wikipedia station tables
