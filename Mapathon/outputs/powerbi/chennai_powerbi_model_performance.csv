@@ -1,0 +1,5 @@
+Model_Name,R_Squared,MAE_Boardings,RMSE_Boardings,MAPE_Percent,Spearman_Rank_Correlation
+Linear Regression,-0.0373,3837.7,5676.9,48.87,0.4068
+Elastic Net,0.0306,3605.7,5488.0,43.63,0.4351
+Random Forest,0.0901,3356.0,5316.9,38.53,0.5242
+Gradient Boosting,-0.1082,4003.1,5867.6,46.68,0.5403

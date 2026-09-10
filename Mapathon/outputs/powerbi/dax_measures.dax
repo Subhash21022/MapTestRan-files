@@ -1,0 +1,120 @@
+// ====================================================================
+// CHENNAI METRO PHASE 2 - POWER BI DAX MEASURES LIBRARY
+// Project: Transfer-Learned Direct Demand Ridership & 5D Spatial Analytics
+// ====================================================================
+
+// --- 1. CORE RIDERSHIP MEASURES ---
+
+Total Predicted Boardings = 
+SUM(Stations[Predicted_Boardings])
+
+Phase 2 Total Boardings = 
+CALCULATE(
+    SUM(Stations[Predicted_Boardings]),
+    Stations[Phase] = "Phase 2"
+)
+
+Phase 1 Total Boardings = 
+CALCULATE(
+    SUM(Stations[Predicted_Boardings]),
+    Stations[Phase] = "Phase 1"
+)
+
+Average Boardings per Station = 
+AVERAGE(Stations[Predicted_Boardings])
+
+Top 15 Boardings Sum = 
+CALCULATE(
+    SUM(Stations[Predicted_Boardings]),
+    Stations[Is_Top15_Phase2] = 1
+)
+
+Top 15 Boardings Share Pct = 
+DIVIDE([Top 15 Boardings Sum], [Phase 2 Total Boardings], 0) * 100
+
+Lower CI 95 Total = 
+SUM(Stations[Lower_CI_95])
+
+Upper CI 95 Total = 
+SUM(Stations[Upper_CI_95])
+
+// --- 2. CORRIDOR RIDERSHIP MEASURES ---
+
+Purple Line Boardings = 
+CALCULATE(
+    SUM(Stations[Predicted_Boardings]),
+    Stations[Corridor_Line] = "Purple Line"
+)
+
+Red Line Boardings = 
+CALCULATE(
+    SUM(Stations[Predicted_Boardings]),
+    Stations[Corridor_Line] = "Red Line"
+)
+
+Yellow Line Boardings = 
+CALCULATE(
+    SUM(Stations[Predicted_Boardings]),
+    Stations[Corridor_Line] = "Yellow Line"
+)
+
+Purple Line Share Pct = 
+DIVIDE([Purple Line Boardings], [Phase 2 Total Boardings], 0) * 100
+
+// --- 3. 5D SPATIAL & ACCESSIBILITY MEASURES ---
+
+Avg Population Density = 
+AVERAGE(Stations[Density_Pop_per_km2])
+
+Avg PNR Walkability Ratio = 
+AVERAGE(Stations[PNR_Walkability_Ratio])
+
+Avg Bus Stops 500m = 
+AVERAGE(Stations[Bus_Stops_500m])
+
+Avg POI Count = 
+AVERAGE(Stations[POI_Total_Count])
+
+Total Catchment Population = 
+SUM(Stations[Population_800m])
+
+Avg Distance to CBD = 
+AVERAGE(Stations[Distance_CBD_km])
+
+// --- 4. STRATEGIC INTERVENTION & TOD COUNTS ---
+
+Strategic TOD Upzoning Count = 
+CALCULATE(
+    COUNT(Stations[Station_ID]),
+    Stations[Strategic_Action] = "Strategic TOD Upzoning"
+)
+
+Feeder Bus Priority Count = 
+CALCULATE(
+    COUNT(Stations[Station_ID]),
+    Stations[Strategic_Action] = "Feeder Bus Priority"
+)
+
+First-Mile Enhancement Count = 
+CALCULATE(
+    COUNT(Stations[Station_ID]),
+    Stations[Strategic_Action] = "First-Mile Enhancements"
+)
+
+Monitoring Candidate Count = 
+CALCULATE(
+    COUNT(Stations[Station_ID]),
+    Stations[Strategic_Action] = "Monitor / Baseline TOD"
+)
+
+Intermodal Hub Station Count = 
+CALCULATE(
+    COUNT(Stations[Station_ID]),
+    Stations[Is_Intermodal_Hub] = 1
+)
+
+Total Phase 2 Station Count = 
+CALCULATE(
+    COUNT(Stations[Station_ID]),
+    Stations[Phase] = "Phase 2"
+)

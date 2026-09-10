@@ -26,3 +26,6 @@ logs/
 # OS
 Thumbs.db
 desktop.ini
+
+# Office temporary files
+~$*

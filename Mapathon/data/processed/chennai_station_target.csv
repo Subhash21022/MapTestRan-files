@@ -1,41 +1,41 @@
 cmrl_name,boardings_weekday,days_observed,boardings_sd,boardings_weekend,weekend_ratio,station,city,is_mature,target_kind
-CENTRAL METRO,31316.46153846154,13,1969.324783412858,24397.2,0.7790535329170699,Puratchi Thalaivar Dr. M.G. Ramachandran Central,chennai,True,daily_boardings
-CHENNAI AIRPORT,19134.46153846154,13,743.5858631640575,16896.6,0.8830454918230497,Chennai International Airport,chennai,True,daily_boardings
-THOUSAND LIGHT,18693.53846153846,13,1546.163726527941,7987.0,0.42725993350232083,Thousand Lights,chennai,True,daily_boardings
-THIRUMANGALAM,17151.23076923077,13,841.6801801403099,11656.4,0.6796246961420126,Thirumangalam,chennai,True,daily_boardings
-GUINDY,16985.76923076923,13,987.1355153376993,11069.4,0.651686706066164,Guindy,chennai,True,daily_boardings
-KOYAMBEDU,13786.153846153846,13,957.4617351930958,10520.4,0.7631134917977904,Koyambedu,chennai,True,daily_boardings
-VADAPALANI,13711.76923076923,13,632.6411771093935,12924.2,0.9425625375169002,Vadapalani,chennai,True,daily_boardings
-HIGH COURT,13544.0,13,2196.9496277035273,6162.8,0.45502067336089785,High Court,chennai,True,daily_boardings
-ALANDUR,12841.307692307691,13,619.9306929831464,8954.0,0.6972810102014533,Arignar Anna Alandur,chennai,True,daily_boardings
-LIC,11290.538461538461,13,1212.100423190024,4846.6,0.4292620778459841,LIC,chennai,True,daily_boardings
-GOVERNMENT ESTATE,10695.615384615385,13,658.5507495581412,6985.0,0.65307135202779,Government Estate,chennai,True,daily_boardings
-TEYNAMPET,10579.76923076923,13,892.0870803763266,4740.2,0.448043799123145,Teynampet,chennai,True,daily_boardings
-ASHOK NAGAR,9565.615384615385,13,844.1753903920612,6287.6,0.6573126502778381,Ashok Nagar,chennai,True,daily_boardings
-EKKATTUTHANGAL,9527.846153846154,13,493.942784499353,4027.6,0.422718832248793,Ekkattuthangal,chennai,True,daily_boardings
-AG-DMS,8976.846153846154,13,1110.356687897621,3697.0,0.41183729080797604,AG – DMS,chennai,True,daily_boardings
-St. THOMAS MOUNT,8673.384615384615,13,412.1629003322066,6456.6,0.7444152757330117,St. Thomas Mount,chennai,True,daily_boardings
-WASHERMANPET,8261.76923076923,13,632.1040465311274,5168.2,0.6255560831634126,Washermanpet,chennai,True,daily_boardings
-NANDANAM,8075.846153846154,13,700.4031988973505,3477.8,0.4306421808622102,Nandanam,chennai,True,daily_boardings
-CMBT,7793.307692307692,13,453.174430106735,6643.0,0.8523980140751927,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,chennai,True,daily_boardings
-LITTLE MOUNT,7665.307692307692,13,459.04527456729585,4476.2,0.583955684452428,Little Mount,chennai,True,daily_boardings
-MEENAMBAKKAM,7415.923076923077,13,746.3114253378034,5240.4,0.7066416339062516,Meenambakkam,chennai,True,daily_boardings
-SAIDAPET,7372.076923076923,13,886.9474300034606,3913.2,0.5308137775598151,Saidapet,chennai,True,daily_boardings
-ANNA NAGAR EAST,7153.538461538462,13,425.99503427947275,4840.4,0.6766441567379241,Anna Nagar East,chennai,True,daily_boardings
-THIYAGARAYA COLLEGE METRO,7121.7692307692305,13,485.2338188691706,5358.4,0.7523973083611462,Sir Theagaraya College,chennai,True,daily_boardings
-TONDIARPET METRO,6936.384615384615,13,410.1937628449793,4933.8,0.7112927372938685,Tondiarpet,chennai,True,daily_boardings
-MANNADI,6835.846153846154,13,501.3794049343349,4509.6,0.6596988724596584,Mannadi,chennai,True,daily_boardings
-ANNA NAGAR TOWER,6433.153846153846,13,377.37334434965203,4671.2,0.7261135224976385,Anna Nagar Tower,chennai,True,daily_boardings
-THIRUVOTRIYUR THERADI METRO,6231.384615384615,13,317.8156012694412,5353.4,0.859102804661268,Tiruvottriyur Theradi,chennai,True,daily_boardings
-EGMORE,5761.307692307692,13,286.91531404910654,5104.6,0.8860141260664647,Egmore,chennai,True,daily_boardings
-WIMCO NAGAR METRO,5760.0,13,349.0883364804195,3961.6,0.6877777777777777,Wimco Nagar,chennai,True,daily_boardings
-KALADIPET METRO,5380.461538461538,13,348.62315265068474,4071.2,0.7566637120064049,Kaladipet,chennai,True,daily_boardings
-ARUMBAKKAM,5274.2307692307695,13,167.54807959018527,3992.4,0.7569634653248741,Arumbakkam,chennai,True,daily_boardings
-NEW WASHERMENPET METRO,5045.2307692307695,13,356.29041381204604,3623.6,0.7182228456424955,New Washermanpet,chennai,True,daily_boardings
-THIRUVOTRIYUR METRO,4912.076923076923,13,303.0345034091171,3836.8,0.7810952597209391,Tiruvottriyur,chennai,True,daily_boardings
-SHENOY NAGAR,3691.5384615384614,13,248.40075663619848,2546.6,0.6898478849760367,Shenoy Nagar,chennai,True,daily_boardings
-PACHAIAPPA S COLLEGE,3299.153846153846,13,343.9626545023568,2130.4,0.6457413322763412,Pachaiyappa's College,chennai,True,daily_boardings
-OTA - NANGANALLUR ROAD,3118.3076923076924,13,257.8359894116752,1673.0,0.5365089545611524,Nanganallur Road,chennai,True,daily_boardings
-NEHRU PARK,3115.5384615384614,13,179.69400629246363,2433.2,0.7809885931558935,Nehru Park,chennai,True,daily_boardings
-KILPAUK,2912.076923076923,13,127.05606474995056,1828.4,0.6278680296906781,Kilpauk,chennai,True,daily_boardings
-TOLLGATE METRO,2729.769230769231,13,169.80928215999353,2209.8,0.809518978780962,Tollgate,chennai,True,daily_boardings
+CENTRAL METRO,27379.0,1,,27379.0,1.0,Puratchi Thalaivar Dr. M.G. Ramachandran Central,chennai,True,daily_boardings
+CHENNAI AIRPORT,18156.0,1,,18156.0,1.0,Chennai International Airport,chennai,True,daily_boardings
+VADAPALANI,14398.0,1,,14398.0,1.0,Vadapalani,chennai,True,daily_boardings
+THIRUMANGALAM,13988.0,1,,13988.0,1.0,Thirumangalam,chennai,True,daily_boardings
+THOUSAND LIGHT,12821.0,1,,12821.0,1.0,Thousand Lights,chennai,True,daily_boardings
+GUINDY,12722.0,1,,12722.0,1.0,Guindy,chennai,True,daily_boardings
+KOYAMBEDU,10981.0,1,,10981.0,1.0,Koyambedu,chennai,True,daily_boardings
+ALANDUR,10188.0,1,,10188.0,1.0,Arignar Anna Alandur,chennai,True,daily_boardings
+HIGH COURT,9750.0,1,,9750.0,1.0,High Court,chennai,True,daily_boardings
+GOVERNMENT ESTATE,9381.0,1,,9381.0,1.0,Government Estate,chennai,True,daily_boardings
+LIC,8018.0,1,,8018.0,1.0,LIC,chennai,True,daily_boardings
+ASHOK NAGAR,7598.0,1,,7598.0,1.0,Ashok Nagar,chennai,True,daily_boardings
+St. THOMAS MOUNT,7330.0,1,,7330.0,1.0,St. Thomas Mount,chennai,True,daily_boardings
+CMBT,6878.0,1,,6878.0,1.0,Puratchi Thalaivi Dr. J. Jayalalithaa CMBT,chennai,True,daily_boardings
+TEYNAMPET,6585.0,1,,6585.0,1.0,Teynampet,chennai,True,daily_boardings
+WASHERMANPET,6521.0,1,,6521.0,1.0,Washermanpet,chennai,True,daily_boardings
+ANNA NAGAR EAST,6387.0,1,,6387.0,1.0,Anna Nagar East,chennai,True,daily_boardings
+MEENAMBAKKAM,6283.0,1,,6283.0,1.0,Meenambakkam,chennai,True,daily_boardings
+ANNA NAGAR TOWER,6155.0,1,,6155.0,1.0,Anna Nagar Tower,chennai,True,daily_boardings
+MANNADI,5956.0,1,,5956.0,1.0,Mannadi,chennai,True,daily_boardings
+THIYAGARAYA COLLEGE METRO,5862.0,1,,5862.0,1.0,Sir Theagaraya College,chennai,True,daily_boardings
+TONDIARPET METRO,5680.0,1,,5680.0,1.0,Tondiarpet,chennai,True,daily_boardings
+THIRUVOTRIYUR THERADI METRO,5578.0,1,,5578.0,1.0,Tiruvottriyur Theradi,chennai,True,daily_boardings
+EKKATTUTHANGAL,5534.0,1,,5534.0,1.0,Ekkattuthangal,chennai,True,daily_boardings
+EGMORE,5439.0,1,,5439.0,1.0,Egmore,chennai,True,daily_boardings
+LITTLE MOUNT,5290.0,1,,5290.0,1.0,Little Mount,chennai,True,daily_boardings
+AG-DMS,5265.0,1,,5265.0,1.0,AG – DMS,chennai,True,daily_boardings
+ARUMBAKKAM,5029.0,1,,5029.0,1.0,Arumbakkam,chennai,True,daily_boardings
+WIMCO NAGAR METRO,4765.0,1,,4765.0,1.0,Wimco Nagar,chennai,True,daily_boardings
+SAIDAPET,4508.0,1,,4508.0,1.0,Saidapet,chennai,True,daily_boardings
+NANDANAM,4476.0,1,,4476.0,1.0,Nandanam,chennai,True,daily_boardings
+KALADIPET METRO,4402.0,1,,4402.0,1.0,Kaladipet,chennai,True,daily_boardings
+NEW WASHERMENPET METRO,4101.0,1,,4101.0,1.0,New Washermanpet,chennai,True,daily_boardings
+THIRUVOTRIYUR METRO,4035.0,1,,4035.0,1.0,Tiruvottriyur,chennai,True,daily_boardings
+SHENOY NAGAR,3283.0,1,,3283.0,1.0,Shenoy Nagar,chennai,True,daily_boardings
+NEHRU PARK,2735.0,1,,2735.0,1.0,Nehru Park,chennai,True,daily_boardings
+KILPAUK,2511.0,1,,2511.0,1.0,Kilpauk,chennai,True,daily_boardings
+OTA - NANGANALLUR ROAD,2444.0,1,,2444.0,1.0,Nanganallur Road,chennai,True,daily_boardings
+PACHAIAPPA S COLLEGE,2405.0,1,,2405.0,1.0,Pachaiyappa's College,chennai,True,daily_boardings
+TOLLGATE METRO,2175.0,1,,2175.0,1.0,Tollgate,chennai,True,daily_boardings

@@ -1,0 +1,9 @@
+Feature_Name,Elasticity_Coeff,Feature_Label,Impact_Direction,Abs_Elasticity
+bus_stops_500m_pctl,0.3175,Bus Stop Feeder Density (500m),Positive,0.3175
+population,-0.2042,Catchment Population (800m),Negative,0.2042
+parking_area_m2_pctl,0.1206,Parking Facility Area (m²),Positive,0.1206
+metro_betweenness,0.107,Metro Network Centrality (Betweenness),Positive,0.107
+poi_total_pctl,0.0174,Total Destination POI Density,Positive,0.0174
+dist_cbd_km,0.0169,Distance to CBD (km),Positive,0.0169
+intersection_density,-0.0038,Street Network Intersection Density,Negative,0.0038
+pnr,-0.0012,Pedestrian Network Ratio (PNR),Negative,0.0012

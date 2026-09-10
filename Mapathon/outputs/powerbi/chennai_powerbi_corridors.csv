@@ -1,0 +1,5 @@
+Corridor_Line,Station_Count,Total_Predicted_Boardings,Avg_Predicted_Boardings,Min_Predicted_Boardings,Max_Predicted_Boardings,Avg_Pop_Density,Avg_PNR_Ratio,Avg_Bus_Stops_500m,Avg_POI_Total,Top15_Station_Count,Intermodal_Hub_Count,Boardings_Share_Pct
+Purple Line,40,292893.0,7322.325,5088.0,9976.0,24799.254999999997,0.340075,3.875,33.65,6,3,42.29
+Red Line,30,228826.0,7627.533333333334,5427.0,9906.0,20766.3,0.3308,3.1333333333333333,29.9,8,0,33.04
+Red LinePurple Line,1,6830.0,6830.0,6830.0,6830.0,11460.7,0.346,3.0,29.0,0,0,0.99
+Yellow Line,23,164103.0,7134.913043478261,6059.0,9715.0,25511.334782608694,0.3868695652173913,3.391304347826087,40.391304347826086,1,2,23.69
