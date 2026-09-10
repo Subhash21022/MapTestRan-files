@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Chennai Metro Phase 1 & 2 | Interactive Ridership & Catchment Explorer</title>
+  
+  <!-- Meta tags for sharing and SEO -->
+  <meta name="description" content="Interactive web map exploring Chennai Metro Phase 1 & 2 ridership forecasts, 800m pedestrian catchments, and ISRO Bhuvan LULC satellite data.">
+  <meta name="author" content="Team Lead: Subhash B | ISRO Bhuvan Mapathon 2026">
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  
+  <!-- Google Fonts: Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- App Wrapper -->
+  <div class="app-container">
+    
+    <!-- Top Navigation Header -->
+    <header class="app-header">
+      <div class="header-left">
+        <button id="sidebarToggleBtn" class="btn-icon" title="Toggle Sidebar">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+        <div class="brand">
+          <div class="brand-title">
+            <span class="brand-accent"><i class="fa-solid fa-train-subway"></i> CMRL</span> Phase 1 & 2 Explorer
+          </div>
+          <div class="brand-subtitle">Station Catchment & Direct Ridership Demand | ISRO Bhuvan Mapathon 2026</div>
+        </div>
+      </div>
+      
+      <div class="header-right">
+        <div class="header-badges desktop-only">
+          <span class="badge badge-isro"><i class="fa-solid fa-satellite"></i> ISRO Bhuvan Data</span>
+          <span class="badge badge-cmrl"><i class="fa-solid fa-database"></i> CMRL Passenger Flow API</span>
+        </div>
+        <button id="teamInfoBtn" class="btn btn-secondary" title="Project Info & Team Details">
+          <i class="fa-solid fa-users"></i> <span class="desktop-only">Team & Report</span>
+        </button>
+        <button id="resetViewBtn" class="btn btn-primary" title="Zoom to Chennai Full Extent">
+          <i class="fa-solid fa-compress"></i> <span class="desktop-only">Full Network</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Workspace -->
+    <div class="workspace">
+      
+      <!-- Collapsible Sidebar -->
+      <aside id="sidebar" class="sidebar">
+        
+        <!-- Search Box -->
+        <div class="sidebar-section search-section">
+          <div class="search-box">
+            <i class="fa-solid fa-magnifying-glass search-icon"></i>
+            <input type="text" id="stationSearchInput" placeholder="Search station (e.g., Thirumayilai, Central)..." autocomplete="off">
+            <button id="clearSearchBtn" class="clear-search-btn" style="display: none;"><i class="fa-solid fa-xmark"></i></button>
+          </div>
+          <div id="searchResultsDropdown" class="search-dropdown" style="display: none;"></div>
+        </div>
+
+        <!-- KPI Metrics Grid -->
+        <div class="sidebar-section kpi-section">
+          <div class="kpi-grid">
+            <div class="kpi-card">
+              <div class="kpi-value" id="kpiTotalStations">134</div>
+              <div class="kpi-label">Total Stations (40 P1 + 94 P2)</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-value">173 <small>km</small></div>
+              <div class="kpi-label">Full Network Length</div>
+            </div>
+            <div class="kpi-card accent-card">
+              <div class="kpi-value">557K</div>
+              <div class="kpi-label">Phase 2 Forecast Boardings/day</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-value">293K</div>
+              <div class="kpi-label">Phase 1 Actual Boardings/day</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Filter Controls -->
+        <div class="sidebar-section">
+          <h3 class="section-title"><i class="fa-solid fa-sliders"></i> Filter Stations</h3>
+          
+          <div class="filter-group">
+            <label class="filter-label">Project Phase</label>
+            <div class="btn-pill-group" id="phaseFilterGroup">
+              <button class="btn-pill active" data-phase="all">All (134)</button>
+              <button class="btn-pill" data-phase="Phase 1">Phase 1 (40)</button>
+              <button class="btn-pill" data-phase="Phase 2">Phase 2 (94)</button>
+            </div>
+          </div>
+
+          <div class="filter-group">
+            <label class="filter-label">Metro Corridor</label>
+            <select id="corridorSelect" class="form-select">
+              <option value="all">All 5 Corridors</option>
+              <option value="Blue Line">Corridor 1: Blue Line (Wimco Nagar - Airport)</option>
+              <option value="Green Line">Corridor 2: Green Line (Central - St. Thomas Mount)</option>
+              <option value="Purple Line">Corridor 3: Purple Line (Madhavaram - Siruseri)</option>
+              <option value="Yellow Line">Corridor 4: Yellow/Orange Line (Light House - Poonamallee)</option>
+              <option value="Red Line">Corridor 5: Red Line (Madhavaram - Sholinganallur)</option>
+            </select>
+          </div>
+
+          <div class="filter-group quick-toggles">
+            <label class="toggle-switch">
+              <input type="checkbox" id="top15Toggle">
+              <span class="slider"></span>
+              <span class="toggle-text">Highlight Top 15 Phase 2 Stations</span>
+            </label>
+          </div>
+        </div>
+
+        <!-- Layer Visibility & Opacity -->
+        <div class="sidebar-section">
+          <h3 class="section-title"><i class="fa-solid fa-layer-group"></i> Layers & Visibility</h3>
+          
+          <div class="layer-item">
+            <div class="layer-header">
+              <label class="checkbox-label">
+                <input type="checkbox" id="layerToggleStations" checked>
+                <span>Metro Stations</span>
+              </label>
+            </div>
+          </div>
+
+          <div class="layer-item">
+            <div class="layer-header">
+              <label class="checkbox-label">
+                <input type="checkbox" id="layerToggleLines" checked>
+                <span>Metro Alignment Lines</span>
+              </label>
+            </div>
+          </div>
+
+          <div class="layer-item">
+            <div class="layer-header">
+              <label class="checkbox-label">
+                <input type="checkbox" id="layerToggleCatchments" checked>
+                <span>800m Walking Catchments</span>
+              </label>
+              <span class="opacity-val" id="catchmentOpacityVal">35%</span>
+            </div>
+            <input type="range" id="catchmentOpacity" class="opacity-slider" min="0" max="100" value="35">
+          </div>
+
+          <div class="layer-item">
+            <div class="layer-header">
+              <label class="checkbox-label">
+                <input type="checkbox" id="layerToggleLulc" checked>
+                <span>ISRO Bhuvan LULC (2015-16)</span>
+              </label>
+              <span class="opacity-val" id="lulcOpacityVal">60%</span>
+            </div>
+            <input type="range" id="lulcOpacity" class="opacity-slider" min="0" max="100" value="60">
+          </div>
+        </div>
+
+        <!-- Top 10 Stations Leaderboard -->
+        <div class="sidebar-section">
+          <h3 class="section-title"><i class="fa-solid fa-trophy"></i> Top 10 Phase 2 Demand Hubs</h3>
+          <div class="leaderboard-list" id="leaderboardList">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+        <!-- Cartographic Legend -->
+        <div class="sidebar-section legend-section">
+          <h3 class="section-title"><i class="fa-solid fa-map"></i> Map Legend</h3>
+          
+          <div class="legend-group">
+            <div class="legend-subtitle">Daily Boarding Demand</div>
+            <div class="legend-scale">
+              <div class="scale-item"><span class="legend-bubble" style="width: 8px; height: 8px; background: #ffffcc; border: 1px solid #c7e9b4;"></span> &lt; 5,000</div>
+              <div class="scale-item"><span class="legend-bubble" style="width: 12px; height: 12px; background: #7fcdbb;"></span> 5,000 – 7,000</div>
+              <div class="scale-item"><span class="legend-bubble" style="width: 16px; height: 16px; background: #41b6c4;"></span> 7,000 – 8,000</div>
+              <div class="scale-item"><span class="legend-bubble" style="width: 20px; height: 20px; background: #225ea8;"></span> &gt; 8,000 / Major Hub</div>
+            </div>
+            <div class="legend-note"><i class="fa-solid fa-star" style="color: #f1c40f;"></i> Major Multimodal Interchange Hub</div>
+          </div>
+
+          <div class="legend-group">
+            <div class="legend-subtitle">Metro Corridors</div>
+            <div class="legend-lines">
+              <div class="legend-line-item"><span class="line-swatch" style="background: #0066cc;"></span> Blue Line (Phase 1)</div>
+              <div class="legend-line-item"><span class="line-swatch" style="background: #009944;"></span> Green Line (Phase 1)</div>
+              <div class="legend-line-item"><span class="line-swatch" style="background: #6f42c1;"></span> Purple Line (Phase 2, C3)</div>
+              <div class="legend-line-item"><span class="line-swatch" style="background: #fd7e14;"></span> Yellow Line (Phase 2, C4)</div>
+              <div class="legend-line-item"><span class="line-swatch" style="background: #dc3545;"></span> Red Line (Phase 2, C5)</div>
+            </div>
+          </div>
+
+          <div class="legend-group">
+            <div class="legend-subtitle">ISRO Bhuvan LULC Classes</div>
+            <div class="legend-lulc-grid">
+              <div class="lulc-item"><span class="lulc-swatch" style="background: #e6550d;"></span> Built-up</div>
+              <div class="lulc-item"><span class="lulc-swatch" style="background: #fed976;"></span> Agriculture</div>
+              <div class="lulc-item"><span class="lulc-swatch" style="background: #2ca25f;"></span> Forest / Scrub</div>
+              <div class="lulc-item"><span class="lulc-swatch" style="background: #2b83ba;"></span> Water / Wetland</div>
+              <div class="lulc-item"><span class="lulc-swatch" style="background: #dfc27d;"></span> Barren / Open</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Sidebar Footer -->
+        <div class="sidebar-footer">
+          <p>Created for <strong>ISRO Bhuvan Mapathon 2026</strong></p>
+          <p class="subtext">WGS 84 / Web Mercator | QGIS & Python Pipeline</p>
+        </div>
+
+      </aside>
+
+      <!-- Map Container -->
+      <main id="map" class="map-container"></main>
+
+      <!-- Floating Quick Controls on Map -->
+      <div class="map-overlay-controls">
+        <div class="basemap-selector" id="basemapSelector">
+          <button class="btn-basemap active" data-basemap="positron" title="Light Basemap">
+            <i class="fa-solid fa-sun"></i> Light
+          </button>
+          <button class="btn-basemap" data-basemap="darkmatter" title="Dark Basemap">
+            <i class="fa-solid fa-moon"></i> Dark
+          </button>
+          <button class="btn-basemap" data-basemap="satellite" title="Satellite Imagery">
+            <i class="fa-solid fa-earth-americas"></i> Satellite
+          </button>
+          <button class="btn-basemap" data-basemap="osm" title="OpenStreetMap">
+            <i class="fa-solid fa-map-location-dot"></i> OSM
+          </button>
+        </div>
+      </div>
+
+      <!-- Station Detail Side-Drawer (Appears when station is clicked) -->
+      <div id="stationDetailDrawer" class="station-detail-drawer" style="display: none;">
+        <div class="drawer-header">
+          <div class="drawer-title-group">
+            <span class="drawer-line-badge" id="drawerLineBadge">Line</span>
+            <h2 id="drawerStationName" class="drawer-station-name">Station Name</h2>
+          </div>
+          <button id="closeDrawerBtn" class="btn-icon" title="Close Panel"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+        <div class="drawer-body" id="drawerBody">
+          <!-- Populated via JS -->
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Team & Methodology Modal -->
+  <div id="teamModal" class="modal-backdrop" style="display: none;">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2><i class="fa-solid fa-circle-info"></i> Project Information & Team</h2>
+        <button id="closeModalBtn" class="btn-icon"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+      <div class="modal-content">
+        <h3>Chennai Metro Phase 2: Ridership Potential and Station Catchment Analysis</h3>
+        <p class="lead-text">ISRO Bhuvan Mapathon 2026 Submission | Technical GIS & Predictive Modeling Project</p>
+
+        <div class="team-box">
+          <h4><i class="fa-solid fa-user-group"></i> Team lead & team members (with Roll/Emp. No.)</h4>
+          <ul class="team-list">
+            <li><strong>Team Lead:</strong> Subhash B &mdash; <code>312324247104</code></li>
+            <li><strong>Team Member 01:</strong> Thomas Joewinsa F &mdash; <code>312324247120</code></li>
+            <li><strong>Team Member 02:</strong> Rethika vadhani E &mdash; <code>312324247083</code></li>
+            <li><strong>Team Member 03:</strong> Rasmy R K &mdash; <code>312324247081</code></li>
+            <li><strong>Mentor:</strong> Ruthvika R &mdash; <code>TCI12</code></li>
+          </ul>
+        </div>
+
+        <h4><i class="fa-solid fa-gears"></i> Methodology Summary</h4>
+        <p>This project pairs <strong>ISRO/NRSC Bhuvan 1:50,000 Multi-temporal LULC satellite data</strong> (2005-06, 2011-12, 2015-16) with actual passenger flow counts harvested directly from the <strong>CMRL Public API (September 5 to September 6, 2026)</strong>. Standardized to EPSG:32644, 800m pedestrian walking catchments were extracted across all 134 stations to compute built-up density, population, feeder bus accessibility, and street connectivity. Machine learning models (Random Forest and Negative Binomial GLM) were cross-validated via LOOCV to project Phase 2 station-level daily boardings.</p>
+
+        <h4><i class="fa-solid fa-compass-drafting"></i> Key Technical Tools</h4>
+        <p>QGIS 3.x, GeoPandas, Shapely, Scikit-learn, Leaflet.js, OpenStreetMap, GHSL Population Grid, CMRL Passenger Flow API.</p>
+      </div>
+      <div class="modal-footer">
+        <button id="closeModalFooterBtn" class="btn btn-primary">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Load Data Bundle (CORS-free for local file:// opening and static hosting) -->
+  <script src="data.js"></script>
+  
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  
+  <!-- Main Application JS -->
+  <script src="app.js"></script>
+
+</body>
+</html>
